@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <title>View all</title>
+</head>
+
+<body>
+    <h1>View all</h1>
+    <form action="/search" method="post">
+        <input type="text" name="txtName" placeholder="Enter name" size="30">
+        <input type="submit" value="Search">
+    </form>
+    <a href="/" style="margin: 10px;">Back to index</a>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Number</th>
+                <th>Name</th>
+                <th>Country</th>
+                <th>Edit</th>
+                <th>Delete</th>
+            </tr>
+        </thead>
+        {{#each ds}}
+        {{#if (checkOdd @index)}}
+            <tr style="background-color: rgb(226, 219, 219);">
+        {{else}}
+        <tr>
+        {{/if}}
+            <th>{{@index}}</th>
+            <td>{{xinChao name}}</td>
+            {{#if (checkCountryVN country)}}
+                <td style="color: rgb(113, 189, 232);">{{country}}</td>
+            {{else if country}}
+                <td>{{country}}</td>
+            {{else}}
+                <td style="color:red ;">Not Available</td>
+            {{/if}}
+            <td><a href="/edit?id={{id}}">Edit</a></td>
+            <td><a href="/delete?id={{id}}" onclick="return confirm('Are you sure?')">Delete</a></td>
+        </tr>
+        {{/each}}
+    </table>
+</body>
+
+</html>

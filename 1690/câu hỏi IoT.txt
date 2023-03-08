@@ -1,0 +1,15 @@
+1. Bạn thấy hệ thống ntn? very good good normal bad   2
+2. Bạn thấy hệ thống có cần thiết trong trường hk khum? có khum    5  
+Are you satisfied with our product?   3
+   - Yes, of course
+   - No
+   - Maybe
+
+4. bạn đã từng dùng hệ thống này trc đây chưa?(lên câu 1)
+   - No, I have never been used it before, this is totally the first time.
+   - I have used it before, but your product is the one that truly effectives with my works
+   - I've used it before and your product is much more creative and improvements with the old one.
+   - Well, to be honest, what come to my mind when thinnk about your is "terrible"
+5. hệ thống có đễ sử dụng hay ko? Yes no   4
+6. Bạn có muốn sản phẩm cải tiến gì ko?   8
+7. Từ 1 tới 5 sao bạn rate sản phẩm của chúng tôi bao nhiêu sao    7 

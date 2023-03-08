@@ -1,0 +1,59 @@
+1. What is it? 
+Một loại bảo mật sinh trắc học xác nhận danh tính của một cá nhân bằng khuôn mặt của họ. Hệ thống nhận dạng 
+khuôn mặt được sử dụng để xác định học sinh, giáo viên và nhân viên, tránh kẻ xâm nhập khi vào trường.
+2.đối tượng hướng đến và yếu cầu của họ
+Các cơ sở giáo dục thường xuyên, các trường học,
+sử dụng để quản lý an ninh các phòng hạn chế của trường học như phòng giáo viên, 
+phòng tài liệu, phòng chức năng.
+quản lý số lượng người ra vào trong khu vực được lắp đặt hệ thống.
+_ yêu cầu: +,hạn chế rủi ro về thiết bị như lỗi nhận diện, lỗi..
++, hệ thống nhanh nhạy trong quá trình xử lý thông tin người ra vào.
++, đảm bảo an ninh tốt nhất
++, thuận tiện khi sử dụng
++, khả năng hoạt động 24/24. 
+3. lợi ích hệ thống mang lại
+- Hầu hết các giải pháp nhận dạng khuôn mặt đều tương thích với hầu hết các phần mềm bảo mật. 
+- Quá trình nhận dạng khuôn mặt chỉ mất một giây, điều này có lợi cho cơ sở giáo dục những người sử dụng 
+tính năng nhận dạng khuôn mặt. Trong thời đại của các cuộc tấn công mạng và các công cụ hack tiên tiến, 
+các công ty cần cả công nghệ an toàn và nhanh chóng. Nhận dạng khuôn mặt cho phép xác minh danh tính 
+của một người nhanh chóng và hiệu quả.
+- đảm bảo an ninh khuôn viên trường học.xz
+- Điều này có thể tiết kiệm thời gian , không cần tiếp xúc để nhận dạng khuôn mặt như đối với lấy dấu vân tay 
+hoặc các biện pháp bảo mật khác - rất hữu ích trong thế giới hậu COVID - nhận dạng khuôn mặt mang lại trải nghiệm 
+xác minh nhanh chóng, tự động và liền mạch.
+3.2 Qúa trình thực hiện : 
+Hoàn thiện phần cứng lắp đặt camera, lắp đặt khóa cửa và lắp đặt máy chủ: 1 tuần
+Lắp đặt phần mềm: 3 ngày
+Kiểm tra hệ thống: 1 tuần
+4. Phần mềm: saqu khi hoàn kiện code thì nó sẽ tự cho mình đường link để độ sáng, độ nét hình ảnh,...
+Phần cứng: các linh kiện thiết kế hệ thống, và chi phí:S
+- ESP32-CAM with OV2640 – read Best ESP32-CAM Dev Boards: $6.99
+là một mô-đun máy ảnh với chip ESP32-S. Nó có một máy ảnh OV2640, 
+một số GPIO để kết nối thiết bị ngoại vi và ổ cắm thẻ nhớ microSD
+- FTDI programmer: $4.25
+Module chuyển đổi hình ảnh từ cam lên màn hình máy tính
+- Female-to-female jumper wire: $4.63
+Kết nối linh kiện
+
+5. cách hệ thống vận hành
+Hệ thống sẽ thông quan camera để nhận diên khuôn mặt của từng người TRONG TRƯỜNG HỌC truyền vào bộ nhớ có khe cắm SSD sau đó từ 
+bộ nhớ sẽ chuyển qua màn.
+6. sơ đồ hệ thống
+
+
+7. rủi ro trong quá trình sử dụng
+- Dữ liệu nhận dạng khuôn mặt có lỗi. Ví dụ, một thay đổi nhỏ trong góc máy ảnh hoặc thay đổi ngoại hình, 
+chẳng hạn như kiểu tóc mới, có thể dẫn đến lỗi: bảo trì hệ thống 
+- Vi phạm quyền riêng tư Lộ thông tin cá nhân như tên, số điện thoại , mã sinh viên, .................:
+tăng cường bảo mật
+- hệ thống dữ liệu bị quá tải : nâng cấp bộ nhớ hệ thống 
+- mất điện : sử dụng nguồn điện dự trữ
+- hacker tấn công làm sập hệ thống: fix hệ thống, bắt hacker đền tiền
+1 chức năng hệ thống là gì
+  - 
+2. cảm biết loại nào chức năng cảm biến
+ cảm biến hình ảnh(face sensor): nhận diện khuôn mặt giúp hình ảnh sắc nét hơn
+cảm biến hồng ngoại(infrared sensor): nhận diện người trước mặt.
+3. điều khiển hệ thống từ xa kiểu gì: máy tính
+(đổi tên)
+  
