@@ -1,0 +1,3 @@
+D:\1651\Decorator\Decorator\obj\Debug\Decorator.csproj.AssemblyReference.cache
+D:\1651\Decorator\Decorator\obj\Debug\Decorator.csproj.SuggestedBindingRedirects.cache
+D:\1651\Decorator\Decorator\obj\Debug\Decorator.csproj.CoreCompileInputs.cache

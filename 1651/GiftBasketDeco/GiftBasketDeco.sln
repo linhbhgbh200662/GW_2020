@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiftBasketDeco", "GiftBasketDeco\GiftBasketDeco.csproj", "{EF7FC9BA-107E-4078-99C7-DDC6D3A1966B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiftBasketLibrary", "GiftBasketLibrary\GiftBasketLibrary.csproj", "{8C352C1C-9DCD-4FA1-BC7C-594A4A39277F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF7FC9BA-107E-4078-99C7-DDC6D3A1966B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF7FC9BA-107E-4078-99C7-DDC6D3A1966B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF7FC9BA-107E-4078-99C7-DDC6D3A1966B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF7FC9BA-107E-4078-99C7-DDC6D3A1966B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C352C1C-9DCD-4FA1-BC7C-594A4A39277F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C352C1C-9DCD-4FA1-BC7C-594A4A39277F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C352C1C-9DCD-4FA1-BC7C-594A4A39277F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C352C1C-9DCD-4FA1-BC7C-594A4A39277F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60A3C664-DE38-485F-917F-5B1EE86BD05B}
+	EndGlobalSection
+EndGlobal

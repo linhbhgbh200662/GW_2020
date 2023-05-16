@@ -1,0 +1,63 @@
+﻿@*@model IEnumerable<GCH1002_L2.Models.Ticket>*@
+@model GCH1002_L2.Models.TicketGenreVM
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<form asp-action="Tickets" asp-action="Index">
+    <p>
+        <select asp-for="TicketGenre" asp-items="Model.Genres">
+            <option value="">All</option>
+        </select>
+            Title: <input type="text" name="SearchString"/>
+            <input type="submit" value="Filter"/>
+    </p>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title
+                @*@Html.DisplayNameFor(model => model.Title)*@
+            </th>
+            <th>Created Data
+                @*@Html.DisplayNameFor(model => model.CreatedData)*@
+            </th>
+            <th>Price)
+                @*@Html.DisplayNameFor(model => model.Price)*@
+            </th>
+            <th>Genre
+                @*@Html.DisplayNameFor(model => model.Genre)*@
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Tickets) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreatedData)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Genre)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

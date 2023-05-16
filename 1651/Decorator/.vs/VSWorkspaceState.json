@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Decorator",
+    "\\Decorator\\Model",
+    "\\Decorator\\Model\\ConcreteComponents",
+    "\\Decorator\\Model\\ConcreteDecorators"
+  ],
+  "SelectedNode": "\\Decorator\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

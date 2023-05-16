@@ -1,0 +1,8 @@
+D:\1651\LabInher\obj\Debug\LabInher.csproj.AssemblyReference.cache
+D:\1651\LabInher\obj\Debug\LabInher.csproj.SuggestedBindingRedirects.cache
+D:\1651\LabInher\obj\Debug\LabInher.csproj.CoreCompileInputs.cache
+D:\1651\LabInher\bin\Debug\LabInher.exe.config
+D:\1651\LabInher\bin\Debug\LabInher.exe
+D:\1651\LabInher\bin\Debug\LabInher.pdb
+D:\1651\LabInher\obj\Debug\LabInher.exe
+D:\1651\LabInher\obj\Debug\LabInher.pdb

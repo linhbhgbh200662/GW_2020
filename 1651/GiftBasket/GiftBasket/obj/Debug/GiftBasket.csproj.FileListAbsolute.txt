@@ -1,0 +1,11 @@
+D:\1651\GiftBasket\GiftBasket\bin\Debug\GiftBasket.exe.config
+D:\1651\GiftBasket\GiftBasket\bin\Debug\GiftBasket.exe
+D:\1651\GiftBasket\GiftBasket\bin\Debug\GiftBasket.pdb
+D:\1651\GiftBasket\GiftBasket\obj\Debug\GiftBasket.csproj.AssemblyReference.cache
+D:\1651\GiftBasket\GiftBasket\obj\Debug\GiftBasket.csproj.SuggestedBindingRedirects.cache
+D:\1651\GiftBasket\GiftBasket\obj\Debug\GiftBasket.Properties.Resources.resources
+D:\1651\GiftBasket\GiftBasket\obj\Debug\GiftBasket.csproj.GenerateResource.cache
+D:\1651\GiftBasket\GiftBasket\obj\Debug\GiftBasket.csproj.CoreCompileInputs.cache
+D:\1651\GiftBasket\GiftBasket\obj\Debug\GiftBasket.exe
+D:\1651\GiftBasket\GiftBasket\obj\Debug\GiftBasket.pdb
+D:\1651\GiftBasket\GiftBasket\obj\Debug\GiftBasket.TetGiftBasket.resources

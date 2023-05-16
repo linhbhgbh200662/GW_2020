@@ -1,0 +1,19 @@
+C:\Users\Admin\Desktop\môn thầy Bách\code\AsmAdvanPro\AsmAdvanPro\obj\Debug\netcoreapp3.1\AsmAdvanPro.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\môn thầy Bách\code\AsmAdvanPro\AsmAdvanPro\obj\Debug\netcoreapp3.1\AsmAdvanPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\môn thầy Bách\code\AsmAdvanPro\AsmAdvanPro\obj\Debug\netcoreapp3.1\AsmAdvanPro.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\môn thầy Bách\code\AsmAdvanPro\AsmAdvanPro\obj\Debug\netcoreapp3.1\AsmAdvanPro.AssemblyInfo.cs
+C:\Users\Admin\Desktop\môn thầy Bách\code\AsmAdvanPro\AsmAdvanPro\obj\Debug\netcoreapp3.1\AsmAdvanPro.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\môn thầy Bách\code\AsmAdvanPro\AsmAdvanPro\bin\Debug\netcoreapp3.1\AsmAdvanPro.exe
+C:\Users\Admin\Desktop\môn thầy Bách\code\AsmAdvanPro\AsmAdvanPro\bin\Debug\netcoreapp3.1\AsmAdvanPro.deps.json
+C:\Users\Admin\Desktop\môn thầy Bách\code\AsmAdvanPro\AsmAdvanPro\bin\Debug\netcoreapp3.1\AsmAdvanPro.runtimeconfig.json
+C:\Users\Admin\Desktop\môn thầy Bách\code\AsmAdvanPro\AsmAdvanPro\bin\Debug\netcoreapp3.1\AsmAdvanPro.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\môn thầy Bách\code\AsmAdvanPro\AsmAdvanPro\bin\Debug\netcoreapp3.1\AsmAdvanPro.dll
+C:\Users\Admin\Desktop\môn thầy Bách\code\AsmAdvanPro\AsmAdvanPro\bin\Debug\netcoreapp3.1\AsmAdvanPro.pdb
+C:\Users\Admin\Desktop\môn thầy Bách\code\AsmAdvanPro\AsmAdvanPro\obj\Debug\netcoreapp3.1\AsmAdvanPro.dll
+C:\Users\Admin\Desktop\môn thầy Bách\code\AsmAdvanPro\AsmAdvanPro\obj\Debug\netcoreapp3.1\AsmAdvanPro.pdb
+C:\Users\Admin\Desktop\môn thầy Bách\code\AsmAdvanPro\AsmAdvanPro\obj\Debug\netcoreapp3.1\AsmAdvanPro.genruntimeconfig.cache
+D:\1651\AsmAdvanPro\AsmAdvanPro\obj\Debug\netcoreapp3.1\AsmAdvanPro.csproj.AssemblyReference.cache
+D:\1651\AsmAdvanPro\AsmAdvanPro\obj\Debug\netcoreapp3.1\AsmAdvanPro.GeneratedMSBuildEditorConfig.editorconfig
+D:\1651\AsmAdvanPro\AsmAdvanPro\obj\Debug\netcoreapp3.1\AsmAdvanPro.AssemblyInfoInputs.cache
+D:\1651\AsmAdvanPro\AsmAdvanPro\obj\Debug\netcoreapp3.1\AsmAdvanPro.AssemblyInfo.cs
+D:\1651\AsmAdvanPro\AsmAdvanPro\obj\Debug\netcoreapp3.1\AsmAdvanPro.csproj.CoreCompileInputs.cache

@@ -1,0 +1,3 @@
+D:\1651\Abstract\obj\Debug\Abstract.csproj.AssemblyReference.cache
+D:\1651\Abstract\obj\Debug\Abstract.csproj.SuggestedBindingRedirects.cache
+D:\1651\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache

@@ -1,0 +1,8 @@
+D:\Advan\GCH1006_Lession08\bin\Debug\GCH1006_Lession08.exe.config
+D:\Advan\GCH1006_Lession08\bin\Debug\GCH1006_Lession08.exe
+D:\Advan\GCH1006_Lession08\bin\Debug\GCH1006_Lession08.pdb
+D:\Advan\GCH1006_Lession08\obj\Debug\GCH1006_Lession08.csproj.AssemblyReference.cache
+D:\Advan\GCH1006_Lession08\obj\Debug\GCH1006_Lession08.csproj.SuggestedBindingRedirects.cache
+D:\Advan\GCH1006_Lession08\obj\Debug\GCH1006_Lession08.csproj.CoreCompileInputs.cache
+D:\Advan\GCH1006_Lession08\obj\Debug\GCH1006_Lession08.exe
+D:\Advan\GCH1006_Lession08\obj\Debug\GCH1006_Lession08.pdb

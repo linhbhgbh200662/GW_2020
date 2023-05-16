@@ -1,0 +1,3 @@
+D:\Advan\ASM2_DEMO\obj\Debug\ASM2_DEMO.csproj.AssemblyReference.cache
+D:\Advan\ASM2_DEMO\obj\Debug\ASM2_DEMO.csproj.SuggestedBindingRedirects.cache
+D:\Advan\ASM2_DEMO\obj\Debug\ASM2_DEMO.csproj.CoreCompileInputs.cache

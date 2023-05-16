@@ -1,0 +1,3 @@
+D:\Advan\GCH1006_Lession04\obj\Debug\GCH1006_Lession04.csproj.AssemblyReference.cache
+D:\Advan\GCH1006_Lession04\obj\Debug\GCH1006_Lession04.csproj.SuggestedBindingRedirects.cache
+D:\Advan\GCH1006_Lession04\obj\Debug\GCH1006_Lession04.csproj.CoreCompileInputs.cache

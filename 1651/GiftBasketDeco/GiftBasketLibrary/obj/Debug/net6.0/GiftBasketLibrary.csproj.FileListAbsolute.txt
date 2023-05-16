@@ -1,0 +1,5 @@
+D:\1651\GiftBasketDeco\GiftBasketLibrary\obj\Debug\net6.0\GiftBasketLibrary.csproj.AssemblyReference.cache
+D:\1651\GiftBasketDeco\GiftBasketLibrary\obj\Debug\net6.0\GiftBasketLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\1651\GiftBasketDeco\GiftBasketLibrary\obj\Debug\net6.0\GiftBasketLibrary.AssemblyInfoInputs.cache
+D:\1651\GiftBasketDeco\GiftBasketLibrary\obj\Debug\net6.0\GiftBasketLibrary.AssemblyInfo.cs
+D:\1651\GiftBasketDeco\GiftBasketLibrary\obj\Debug\net6.0\GiftBasketLibrary.csproj.CoreCompileInputs.cache

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bbq7gxeZrYNg74YdvuByT3Im1rF8WLAA+IN+ytPOD/G2T+L+t7MKBt8Sud7gJ0dGkOuh7CHZRjHo/PS802ED9g==",
+  "success": true,
+  "projectFilePath": "D:\\1651\\AsmAdvanPro\\AsmAdvanPro\\AsmAdvanPro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ThinkBook\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ThinkBook\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ThinkBook\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\ThinkBook\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

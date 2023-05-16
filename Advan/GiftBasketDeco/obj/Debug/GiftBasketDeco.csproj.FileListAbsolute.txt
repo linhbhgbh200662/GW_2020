@@ -1,0 +1,8 @@
+D:\Advan\GiftBasketDeco\obj\Debug\GiftBasketDeco.csproj.AssemblyReference.cache
+D:\Advan\GiftBasketDeco\obj\Debug\GiftBasketDeco.csproj.SuggestedBindingRedirects.cache
+D:\Advan\GiftBasketDeco\obj\Debug\GiftBasketDeco.csproj.CoreCompileInputs.cache
+D:\Advan\GiftBasketDeco\bin\Debug\GiftBasketDeco.exe.config
+D:\Advan\GiftBasketDeco\bin\Debug\GiftBasketDeco.exe
+D:\Advan\GiftBasketDeco\bin\Debug\GiftBasketDeco.pdb
+D:\Advan\GiftBasketDeco\obj\Debug\GiftBasketDeco.exe
+D:\Advan\GiftBasketDeco\obj\Debug\GiftBasketDeco.pdb

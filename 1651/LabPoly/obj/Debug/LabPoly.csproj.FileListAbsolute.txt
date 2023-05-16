@@ -1,0 +1,8 @@
+D:\1651\LabPoly\obj\Debug\LabPoly.csproj.AssemblyReference.cache
+D:\1651\LabPoly\obj\Debug\LabPoly.csproj.SuggestedBindingRedirects.cache
+D:\1651\LabPoly\obj\Debug\LabPoly.csproj.CoreCompileInputs.cache
+D:\1651\LabPoly\bin\Debug\LabPoly.exe.config
+D:\1651\LabPoly\bin\Debug\LabPoly.exe
+D:\1651\LabPoly\bin\Debug\LabPoly.pdb
+D:\1651\LabPoly\obj\Debug\LabPoly.exe
+D:\1651\LabPoly\obj\Debug\LabPoly.pdb

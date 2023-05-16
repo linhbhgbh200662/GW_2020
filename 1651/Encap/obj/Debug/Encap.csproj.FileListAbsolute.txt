@@ -1,0 +1,8 @@
+D:\1651\Encap\bin\Debug\Encap.exe.config
+D:\1651\Encap\bin\Debug\Encap.exe
+D:\1651\Encap\bin\Debug\Encap.pdb
+D:\1651\Encap\obj\Debug\Encap.csproj.AssemblyReference.cache
+D:\1651\Encap\obj\Debug\Encap.csproj.SuggestedBindingRedirects.cache
+D:\1651\Encap\obj\Debug\Encap.csproj.CoreCompileInputs.cache
+D:\1651\Encap\obj\Debug\Encap.exe
+D:\1651\Encap\obj\Debug\Encap.pdb
