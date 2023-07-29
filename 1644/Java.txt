@@ -1,0 +1,8 @@
+implement: liên kết triển khai cái combobox 
+insert:  nhạap dữ liệu từ bên ngoài
+students: tổng hợp dữ liệu, biến logic trung gian
+phâm biệt giữa insert và update : actionstate 
+nhập vào từ UI: student
+quản lý dữ liệu trong bảng :tableModel
+get(): lấy giá trị dòng đc sửa
+set(): thiết lập giá trị

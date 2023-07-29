@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="multiple_choice" version="1.0" client="Longman" oae-label="ACTIVITY TYPE: Multiple Choice">
+	<title oae-label="Activity Title" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</title>
+	<instructions oae-label="Instructions" oae-type="textarea" oae-rows="3">
+		<![CDATA[Click on the correct answer.]]>
+	</instructions>
+	<questions>
+		<question oae-label="Question 1">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[Can I give you _____?  Don’t discuss politics with him.]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[some advice]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[an advice]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[my advices]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[the advice]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 2">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[They’re really encouraging _____ this year.]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[young people to vote]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[to vote]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[vote]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[to vote everyone]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 3">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[<b>A:</b>    How do you feel about the new 
+        government?
+<b>B:</b>    No offense, _____.]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[but I'm uncomfortable talking about politics]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[I tend to be a little opinionated]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[I have to disagree with you there]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[I agree with you on that one]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 4">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[Everyone in that country has to do military service because it’s _____.]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[compulsory]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[conservative]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[controversial]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[corruption]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 5">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[On the one hand, the president isn’t hurting the situation.  _____ she’s not helping it.]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[But on the other hand,]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[That may be true, but]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[That’s one way to look at it, but]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[I see what you mean, but]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 6">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[The government appears _____ the situation under control.]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[to have]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[the leaders to have]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[to have people]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[it to have]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 7">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 8">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 9">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 10">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+	</questions>
+</activity>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="true_false" version="1.1" client="McGraw-Hill" oae-label="ACTIVITY TYPE: TRUE/FALSE">
+
+	<!-- This activity presents the student with a series of up to 10 True/False questions on a sinlge page. -->
+
+	<title oae-label="Title">
+		<![CDATA[Activity 1]]>
+	</title>
+	<instructions oae-label="Instructions" oae-type="textarea" oae-rows="3">
+		<![CDATA[Read the e-mail messages. Mark each statement <u>True</u> or <u>False</u>.]]>
+	</instructions>
+	<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</graphic>
+	<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</audio>
+	<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+		<![CDATA[From: jstettner@executecnia.com
+To: rob.stettner@educatorstrust.net
+
+Hi, Rob: Remember that your mom and dad are coming for dinner. I’m cooking. Would you like fish or meat? 
+
+Jenny
+
+--------------
+
+From: rob.stettner@educatorstrust.net
+To: jstettner@executecnia.com
+
+Hey, Jenny: Thanks for cooking! I’m so busy at work right now. I’d like fish, but my mom and dad usually like meat, so how about a steak with a green bean salad and some potatoes? Something easy, OK? Don’t work too hard.
+
+Love,
+Rob
+
+--------------
+
+From: jstettner@executecnia.com
+To: rob.stettner@educatorstrust.net
+
+No problem. I’m going shopping for the meat after work. I think we have green beans and potatoes. Your mom likes fruit for dessert. Which fruit is her favorite?
+
+-J
+
+--------------
+From: rob.stettner@educatorstrust.net
+To: jstettner@executecnia.com
+
+Don’t make dessert, Jen. Let me do that. I have a recipe for bananas in orange juice. It sounds delicious, and we have oranges and bananas in the fridge. OK?]]>
+	</reader>
+	<spacer oae-type="spacer">
+</spacer>
+
+	<!-- Use the following options to modify how the activity will be displayed. Use the first to modify the size of the font, and the following two to indicate what the headers of the "True" and "False" columns should display. -->
+
+	<fontsize oae-label="Resize Font?" oae-type="select" value="0 (Normal)" opt1="-3" opt2="-2" opt3="-1" opt4="0 (Normal)" opt5="+1" opt6="+2" opt7="+3">
+</fontsize>
+	<headertrue oae-label="True column header">
+		<![CDATA[True]]>
+	</headertrue>
+	<headerfalse oae-label="False column header">
+		<![CDATA[False]]>
+	</headerfalse>
+
+	<!-- Enter up to 10 statements and indicate if they are true or false; leave "not used" if that item will not be used. -->
+
+	<pairs oae-label="Statement Pairs:">
+		<pair oae-label="Pair 1">
+			<question oae-label="Statement">
+				<![CDATA[Jenny’s parents are coming for dinner.]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="False" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+		<pair oae-label="Pair 2">
+			<question oae-label="Statement">
+				<![CDATA[Jenny’s cooking dinner.]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="True" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+		<pair oae-label="Pair 3">
+			<question oae-label="Statement">
+				<![CDATA[Rob likes fish.]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="True" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+		<pair oae-label="Pair 4">
+			<question oae-label="Statement">
+				<![CDATA[His parents would like fish.]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="False" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+		<pair oae-label="Pair 5">
+			<question oae-label="Statement">
+				<![CDATA[Rob's mom likes fruit.]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="True" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+		<pair oae-label="Pair 6">
+			<question oae-label="Statement">
+				<![CDATA[Jenny’s going shopping for green beans after work.]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="False" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+		<pair oae-label="Pair 7">
+			<question oae-label="Statement">
+				<![CDATA[They’re having fruit for dessert.]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="True" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+		<pair oae-label="Pair 8">
+			<question oae-label="Statement">
+				<![CDATA[Jenny is making bananas in orange juice.]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="False" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+		<pair oae-label="Pair 9">
+			<question oae-label="Statement">
+				<![CDATA[]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="not used" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+		<pair oae-label="Pair 10">
+			<question oae-label="Statement">
+				<![CDATA[]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="not used" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+	</pairs>
+</activity>

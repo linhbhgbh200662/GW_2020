@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="quiz_show" version="1.0" client="" oae-label="ACTIVITY TYPE: QUIZ SHOW">
+	<title oae-label="Title:">
+		<![CDATA[Quiz Show]]>
+	</title>
+	<shortinst oae-label="Short Instructions:">
+		<![CDATA[Click on a box. Choose the correct answer. You have only three minutes.]]>
+	</shortinst>
+	<detailinst oae-label="Detailed Instructions:">
+		<![CDATA[Click on an amount in a category to answer a question about that topic. Click on the correct answer for each question. If your entry is correct, it will highlight in green and you will "win" the amount of money listed. If you are incorrect, you will "lose" the amount of money listed. You don't gain or lose any money for trying again. Next and Previous buttons navigate among the questions. Try to win as much money as you can!]]>
+	</detailinst>
+	<randomquestions oae-label="Randomize Questions:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomquestions>
+	<randomanswers oae-label="Randomize Answers:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomanswers>
+	<categories>
+		<category oae-lable="Category 1">
+			<![CDATA[Places in the neighborhood]]>
+		</category>
+		<category oae-lable="Category 2">
+			<![CDATA[Locations]]>
+		</category>
+		<category oae-lable="Category 3">
+			<![CDATA[Giving directions with imperatives]]>
+		</category>
+		<category oae-lable="Category 4">
+			<![CDATA[Means of transportation]]>
+		</category>
+	</categories>
+	<categoryquestions oae-label="Category 1 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[This is a ____.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_2e_3_29.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[pharmacy]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[restaurant]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[newsstand]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[bookstore]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[This is a ____.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_2e_3_30.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[pharmacy]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[restaurant]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[newsstand]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[bookstore]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[This is a ____.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_3_31.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[pharmacy]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[restaurant]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[newsstand]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[bookstore]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[This is a ____.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_2e_3_32.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[pharmacy]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[restaurant]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[newsstand]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[bookstore]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 2 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[The pharmacy is ____.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_3_33.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[across the street]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[around the corner]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[down the street]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[on the left]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[The restaurant is ____.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_3_34.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[across the street]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[around the corner]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[down the street]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[on the left]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[The bookstore is ____.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_3_35.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[across the street]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[around the corner]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[down the street]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[on the left]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[The bank is ____.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_3_36.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[across the street]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[around the corner]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[down the street]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[on the right]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 3 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Can I drive to the restaurant?]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_2e_3_37.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[The bank? Take a bus.]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[The restaurant? Take a taxi.]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[The restaurant? Don't drive.]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[The bank? Sure.]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Can I walk to the bank?]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_2e_3_38.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[The bank? Take a bus.]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[The restaurant? Take a taxi.]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[The restaurant? Don't drive.]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[The bank? Sure.]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Can I drive to the restaurant?]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_2e_3_39.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[The bank? Take a bus.]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[The restaurant? Take a taxi.]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[The restaurant? Don't drive.]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[The bank? Sure.]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Can I walk to the bank?]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_2e_3_40.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[The bank? Take a bus.]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[The restaurant? Take a taxi.]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[The restaurant? Don't drive.]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[The bank? Sure.]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 4 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I go to work by ____]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_2e_3_41.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[moped]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[car]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[bicycle]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[subway]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I go home by ____ .]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_2e_3_42.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[moped]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[car]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[bicycle]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[subway]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I go to school by ____.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_2e_3_43.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[moped]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[car]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[bicycle]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[subway]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I go home by ____.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_2e_3_44.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[moped]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[car]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[bicycle]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[subway]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+</activity>

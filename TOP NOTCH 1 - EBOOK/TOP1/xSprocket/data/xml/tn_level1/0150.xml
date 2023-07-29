@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page id="0150">
+<map name="Map" id="Map">
+<art type="icon" pfunction="audio_icon">
+<scale><![CDATA[50]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 6/3-41 Karaoke A Typical D p72.mp3]]></href>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<coords><![CDATA[55,3]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<scale><![CDATA[50]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 6/3-40 Song A Typical Day p72.mp3]]></href>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<coords><![CDATA[30,3]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<scale><![CDATA[50]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 7/4-17 Song My Dream Vacat p84.mp3]]></href>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<coords><![CDATA[29,362]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<scale><![CDATA[50]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 7/4-18 Karaoke My Dream Va p84.mp3]]></href>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<coords><![CDATA[54,363]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<scale><![CDATA[50]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 8/4-36 Karaoke Anything Go p96.mp3]]></href>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<coords><![CDATA[228,239]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<scale><![CDATA[50]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 8/4-35 Song Anything Goes p96.mp3]]></href>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<coords><![CDATA[204,238]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<scale><![CDATA[50]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 9/5-19 Karaoke Five Hundr p108.mp3]]></href>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<coords><![CDATA[402,2]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<scale><![CDATA[50]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 9/5-18 Song Five Hundred  p108.mp3]]></href>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<coords><![CDATA[378,2]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<scale><![CDATA[50]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 10/5-35 Karaoke Shopping f p120.mp3]]></href>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<coords><![CDATA[403,363]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<scale><![CDATA[50]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 10/5-34 Song Shopping for p120.mp3]]></href>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<coords><![CDATA[379,363]]></coords>
+</art></map></page>

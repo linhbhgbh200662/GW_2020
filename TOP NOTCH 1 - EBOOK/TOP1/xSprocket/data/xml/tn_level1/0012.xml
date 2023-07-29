@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<page id="0012">
+<map name="Map" id="Map">
+<art type="icon">
+<coords><![CDATA[54,77]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 1/1-14 A Listening compreh p12.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[80]]></scale>
+</art>
+<art type="icon">
+<coords><![CDATA[406,525]]></coords>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 1/1-15 Song Its Nice to Me p12.mp3]]></href>
+<title><![CDATA[Play Song]]></title>
+<scale><![CDATA[80]]></scale>
+</art>
+<art type="icon">
+<coords><![CDATA[449,525]]></coords>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 1/1-16 Karaoke Its Nice to p12.mp3]]></href>
+<title><![CDATA[Play Karaoke Version]]></title>
+<scale><![CDATA[80]]></scale>
+</art>
+<art type="icon">
+<coords><![CDATA[373,643]]></coords>
+<icon><![CDATA[writing_booster]]></icon><title><![CDATA[Go to Writing Booster]]></title>
+<pFunction><![CDATA[generic_gotopage]]></pFunction>
+<scale><![CDATA[80]]></scale>
+<page><![CDATA[142]]></page>
+</art>
+</map>
+</page>

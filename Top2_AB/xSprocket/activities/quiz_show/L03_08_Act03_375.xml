@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="quiz_show" version="1.0" client="" oae-label="ACTIVITY TYPE: QUIZ SHOW">
+	<title oae-label="Title:">
+		<![CDATA[Quiz Show]]>
+	</title>
+	<shortinst oae-label="Short Instructions:">
+		<![CDATA[Click on a box. Choose the correct answer. You have only three minutes.]]>
+	</shortinst>
+	<detailinst oae-label="Detailed Instructions:">
+		<![CDATA[Click on an amount in a category to answer a question about that topic. Click on the correct answer for each question. If your entry is correct, it will highlight in green and you will "win" the amount of money listed. If you are incorrect, you will "lose" the amount of money listed. You don't gain or lose any money for trying again. Next and Previous buttons navigate among the questions. Try to win as much money as you can!]]>
+	</detailinst>
+	<randomquestions oae-label="Randomize Questions:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomquestions>
+	<randomanswers oae-label="Randomize Answers:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomanswers>
+	<categories>
+		<category oae-lable="Category 1">
+			<![CDATA[Evaluate Products]]>
+		</category>
+		<category oae-lable="Category 2">
+			<![CDATA[Not Enough Time]]>
+		</category>
+		<category oae-lable="Category 3">
+			<![CDATA[Key Inventions]]>
+		</category>
+		<category oae-lable="Category 4">
+			<![CDATA[What We Know]]>
+		</category>
+	</categories>
+	<categoryquestions oae-label="Category 1 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[No one has ever done anything like this!  It’s totally _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[revolutionary]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[wacky]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[efficient]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[top-of-the-line]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[This model is a little more expensive, but it’s the best quality.  It’s _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[revolutionary]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[top-of-the-line]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[wacky]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[efficient]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I like this product because it’s _____.  It’s a silly idea, but it’s fun.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[revolutionary]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[top-of-the-line]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[wacky]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[efficient]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[You’ll save so much time with this machine.  It’s incredibly _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[revolutionary]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[top-of-the-line]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[wacky]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[efficient]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 2 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[If I _____ time, I’ll meet you later.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[have]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[would have had]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[would have]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[had had]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I _____ more time earlier today if I hadn’t talked to Tom for so long.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[have]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[would have had]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[would have]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[had had]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[If I didn’t have to go to that meeting, I _____ some extra time right now.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[have]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[would have had]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[would have]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[had had]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I would have talked to them longer if I _____ more time.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[have]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[would have had]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[would have]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[had had]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 3 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[The _____ made it easier for writers to communicate their ideas to more people.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[printing press]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[wheel]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[plow]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[zipper]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[The _____ allowed people to transport things much more easily.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[printing press]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[wheel]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[plow]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[zipper]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[With the introduction of the _____, farmers could produce more food in less time.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[printing press]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[wheel]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[plow]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[zipper]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[The _____ introduced a new way to open and close pieces of clothing.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[printing press]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[wheel]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[plow]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[zipper]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 4 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[If we _____ about the product, we would have bought it.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[had known]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[knew]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[will know]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[would have known]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[If we _____ what time the show started, it would be easier to make plans.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[had known]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[knew]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[will know]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[would have known]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[We _____ the results today if they call us.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[had known]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[knew]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[will know]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[would have known]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[We _____ about it if someone had told us.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[had known]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[knew]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[will know]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[would have known]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+</activity>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="dragdrop_multiple">
+	<title oae-label="Title">
+		<![CDATA[Drag and Drop Multi]]>
+	</title>
+	<instructions oae-label="Instructions" oae-type="textarea" oae-rows="3">
+		<![CDATA[Drag the correct words into each sentence.]]>
+	</instructions>
+	<spacer oae-type="spacer">
+</spacer>
+
+	<!-- Enter the text using <blank word="the word"/> syntax for the blank words/phrases. Enter optional distracters. -->
+
+
+	<!-- There can be up to 3 blanks/distracters, e.g. one blank, one distracter, two blanks and one distracter, one blank two distracters, three blanks and no distracters, etc. -->
+
+	<question>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</audio>
+	<text>
+			<![CDATA[<blank word="Is there any"/> &nbsp;pasta on the counter?]]>
+		</text>
+		<distracter1>
+			<![CDATA[Are there any]]>
+		</distracter1>
+		<distracter2>
+			<![CDATA[]]>
+		</distracter2>
+	</question>
+	<question>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</audio>
+	<text>
+			<![CDATA[<blank word="How many"/> eggs do you need for this recipe?]]>
+		</text>
+		<distracter1>
+			<![CDATA[How much]]>
+		</distracter1>
+		<distracter2>
+			<![CDATA[]]>
+		</distracter2>
+	</question>
+	<question>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</audio>
+	<text>
+			<![CDATA[<blank word="How much"/> salt is in that tomato soup?]]>
+		</text>
+		<distracter1>
+			<![CDATA[How many]]>
+		</distracter1>
+		<distracter2>
+			<![CDATA[]]>
+		</distracter2>
+	</question>
+	<question>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</audio>
+	<text>
+			<![CDATA[<blank word="Are there any"/> &nbsp;peppers on the shelf?]]>
+		</text>
+		<distracter1>
+			<![CDATA[Is there any]]>
+		</distracter1>
+		<distracter2>
+			<![CDATA[]]>
+		</distracter2>
+	</question>
+	<question>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</audio>
+	<text>
+			<![CDATA[<blank word="How many"/> cups of coffee do you drink each day?]]>
+		</text>
+		<distracter1>
+			<![CDATA[How much]]>
+		</distracter1>
+		<distracter2>
+			<![CDATA[]]>
+		</distracter2>
+	</question>
+	<question>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</audio>
+	<text>
+			<![CDATA[<blank word="Is there any"/> &nbsp;butter in the fridge?]]>
+		</text>
+		<distracter1>
+			<![CDATA[Are there any]]>
+		</distracter1>
+		<distracter2>
+			<![CDATA[]]>
+		</distracter2>
+	</question>
+	<question>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</audio>
+	<text>
+			<![CDATA[]]>
+		</text>
+		<distracter1>
+			<![CDATA[]]>
+		</distracter1>
+		<distracter2>
+			<![CDATA[]]>
+		</distracter2>
+	</question>
+	<question>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</audio>
+	<text>
+			<![CDATA[]]>
+		</text>
+		<distracter1>
+			<![CDATA[]]>
+		</distracter1>
+		<distracter2>
+			<![CDATA[]]>
+		</distracter2>
+	</question>
+	<question>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</audio>
+	<text>
+			<![CDATA[]]>
+		</text>
+		<distracter1>
+			<![CDATA[]]>
+		</distracter1>
+		<distracter2>
+			<![CDATA[]]>
+		</distracter2>
+	</question>
+	<question>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</audio>
+	<text>
+			<![CDATA[]]>
+		</text>
+		<distracter1>
+			<![CDATA[]]>
+		</distracter1>
+		<distracter2>
+			<![CDATA[]]>
+		</distracter2>
+	</question>
+</activity>

@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="quiz_show" version="1.0" client="" oae-label="ACTIVITY TYPE: QUIZ SHOW">
+	<title oae-label="Title:">
+		<![CDATA[Quiz Show]]>
+	</title>
+	<shortinst oae-label="Short Instructions:">
+		<![CDATA[Click on a box. Choose the correct answer. You have only three minutes.]]>
+	</shortinst>
+	<detailinst oae-label="Detailed Instructions:">
+		<![CDATA[Click on an amount in a category to answer a question about that topic. Click on the correct answer for each question. If your entry is correct, it will highlight in green and you will "win" the amount of money listed. If you are incorrect, you will "lose" the amount of money listed. You don't gain or lose any money for trying again. Next and Previous buttons navigate among the questions. Try to win as much money as you can!]]>
+	</detailinst>
+	<randomquestions oae-label="Randomize Questions:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomquestions>
+	<randomanswers oae-label="Randomize Answers:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomanswers>
+	<categories>
+		<category oae-lable="Category 1">
+			<![CDATA[Infinitives as direct objects]]>
+		</category>
+		<category oae-lable="Category 2">
+			<![CDATA[Gerunds as objects of prepositions]]>
+		</category>
+		<category oae-lable="Category 3">
+			<![CDATA[Describing personalities]]>
+		</category>
+		<category oae-lable="Category 4">
+			<![CDATA[Talking about personalities]]>
+		</category>
+	</categories>
+	<categoryquestions oae-label="Category 1 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[We've decided ____ our living room pink-orange.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[to paint]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[to get]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[to listen]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[to meet]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I like ____ to music when I work.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[to paint]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[to get]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[to listen]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[to meet]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[She expected ____ the job, but they gave it to someone else.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[to paint]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[to get]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[to listen]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[to meet]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[We agreed ____ at the park.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[to paint]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[to get]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[to listen]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[to meet]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 2 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Maria talks _____ quitting her job all the time.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[with]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[about]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[for]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[to]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Serge didn't apologize ____ coming late to the meeting.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[of]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[with]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[for]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[to]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I am afraid _____ driving in a foreign country.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[of]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[about]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[for]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[to]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[No one objected ____ working through lunch yesterday.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[of]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[about]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[for]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[to]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 3 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[A person who has new ideas and is interested in the arts is often _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[easygoing]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[emotional]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[creative]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[charming]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[A person who experiences higher highs and lower lows is sometimes _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[easygoing]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[emotional]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[creative]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[popular]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[A person who is cheerful and calm is usually _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[easygoing]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[emotional]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[creative]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[popular]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[A person who has a lot of friends is _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[easygoing]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[emotional]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[creative]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[popular]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 4 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[A person who doesn't follow the rules is called _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[an extrovert]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[a rebel]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[a clown]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[an introvert]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[A person who enjoys being alone is _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[an extrovert]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[a rebel]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[a clown]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[an introvert]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[A person who likes to do silly things can be called _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[an extrovert]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[a rebel]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[a clown]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[an introvert]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[A person who is _____ knows many people and enjoys being in a group.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[an extrovert]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[a rebel]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[a clown]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[an introvert]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+</activity>

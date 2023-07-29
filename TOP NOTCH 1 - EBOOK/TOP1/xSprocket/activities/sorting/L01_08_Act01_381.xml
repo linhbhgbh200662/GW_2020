@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="sorting" version="1.0" client="Longman" oae-label="ACTIVITY TYPE: Sorting">
+	<title oae-label="Activity Title" oae-type="textarea" oae-rows="1">
+		<![CDATA[Sorting]]>
+	</title>
+	<instructions oae-label="Instructions" oae-type="textarea" oae-rows="3">
+		<![CDATA[Drag each word into the correct category.]]>
+	</instructions>
+	<bins>
+		<bin oae-label="Bin 1">
+			<header oae-label="Bin label" oae-type="textarea" oae-rows="1">
+				<![CDATA[Outerwear]]>
+			</header>
+			<items>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[sweaters]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[gloves]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[jackets]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+			</items>
+		</bin>
+		<bin oae-label="Bin 2">
+			<header oae-label="Bin label" oae-type="textarea" oae-rows="1">
+				<![CDATA[Hosiery]]>
+			</header>
+			<items>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[socks]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[tights]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[pantyhose]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+			</items>
+		</bin>
+		<bin oae-label="Bin 3">
+			<header oae-label="Bin label" oae-type="textarea" oae-rows="1">
+				<![CDATA[Sleepwear]]>
+			</header>
+			<items>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[pajamas]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[nightgowns]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[bathrobes]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+			</items>
+		</bin>
+		<bin oae-label="Bin 4">
+			<header oae-label="Bin label" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</header>
+			<items>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+			</items>
+		</bin>
+	</bins>
+</activity>

@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="quiz_show" version="1.0" client="" oae-label="ACTIVITY TYPE: QUIZ SHOW">
+	<title oae-label="Title:">
+		<![CDATA[Quiz Show]]>
+	</title>
+	<shortinst oae-label="Short Instructions:">
+		<![CDATA[Click on a box. Choose the correct answer. You have only three minutes.]]>
+	</shortinst>
+	<detailinst oae-label="Detailed Instructions:">
+		<![CDATA[Click on an amount in a category to answer a question about that topic. Click on the correct answer for each question. If your entry is correct, it will highlight in green and you will "win" the amount of money listed. If you are incorrect, you will "lose" the amount of money listed. You don't gain or lose any money for trying again. Next and Previous buttons navigate among the questions. Try to win as much money as you can!]]>
+	</detailinst>
+	<randomquestions oae-label="Randomize Questions:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomquestions>
+	<randomanswers oae-label="Randomize Answers:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomanswers>
+	<categories>
+		<category oae-lable="Category 1">
+			<![CDATA[Machines]]>
+		</category>
+		<category oae-lable="Category 2">
+			<![CDATA[Features]]>
+		</category>
+		<category oae-lable="Category 3">
+			<![CDATA[Problems]]>
+		</category>
+		<category oae-lable="Category 4">
+			<![CDATA[Descriptions]]>
+		</category>
+	</categories>
+	<categoryquestions oae-label="Category 1 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[A _____ sends a copy of a document over the telephone line.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[fax machine]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[food processor]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[washing machine]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[cell phone]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[A _____ chops up food fast.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[fax machine]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[food processor]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[washing machine]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[cell phone]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[A _____ is a portable telephone.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[fax machine]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[food processor]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[washing machine]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[cell phone]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[A _____ is something you can clean clothes in.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[fax machine]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[food processor]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[washing machine]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[cell phone]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 2 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[It’s light and small.  It’s _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[affordable]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[popular]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[portable]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[guaranteed]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[It’s easy and fast.  It’s _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[convenient]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[popular]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[portable]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[guaranteed]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Everybody is buying it.  It’s _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[convenient]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[popular]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[portable]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[guaranteed]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[You can return it and get your money back.  It’s _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[convenient]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[popular]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[portable]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[guaranteed]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 3 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[The printer _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[won't print]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[won't flush]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[is clogged]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[won't close]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[The door _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[won't print]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[won't flush]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[is clogged]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[won't close]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[The toilet _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[won't print]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[won't flush]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[won't turn on]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[won't close]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[The sink _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[won't print]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[won't flush]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[is clogged]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[won't close]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 4 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Oh, no! The projector is on the _____ again.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[blink]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[defective]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[fixable]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[awesome]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[The new DVD player is _____. I need to return it.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[blink]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[defective]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[fixable]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[awesome]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Before you buy a new vacuum cleaner, bring the old one back to the store. Maybe it's _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[blink]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[defective]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[fixable]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[awesome]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[This pressure cooker is _____. It takes no time to make chicken soup.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[blink]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[defective]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[fixable]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[awesome]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+</activity>

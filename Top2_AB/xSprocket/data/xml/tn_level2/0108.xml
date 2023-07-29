@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<page id="0108">
+<map name="Map" id="Map">
+<art type="icon">
+<coords><![CDATA[52,77]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[82]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 2 MP3 files/Unit_09/5-16_A_Listening_compre_p108.mp3]]></href>
+</art>
+<art type="icon">
+<coords><![CDATA[455,374]]></coords>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[80]]></scale>
+<title><![CDATA[Play Song]]></title>
+<href><![CDATA[Top Notch 2 MP3 files/Unit_09/5-17_Song_Life_in_Cyber_p108.mp3]]></href>
+</art>
+<art type="icon">
+<coords><![CDATA[498,373]]></coords>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[80]]></scale>
+<title><![CDATA[Play Karaoke Version]]></title>
+<href><![CDATA[Top Notch 2 MP3 files/Unit_09/5-18_Karaoke_Life_in_Cy_p108.mp3]]></href>
+</art>
+<art type="icon">
+<coords><![CDATA[542,672]]></coords>
+<icon><![CDATA[writing_booster]]></icon>
+<pFunction><![CDATA[generic_gotopage]]></pFunction>
+<scale><![CDATA[80]]></scale>
+<title><![CDATA[Go to Writing Booster]]></title>
+<page><![CDATA[147]]></page>
+</art>
+</map>
+</page>

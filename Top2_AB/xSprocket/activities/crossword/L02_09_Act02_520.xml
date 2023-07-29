@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<activity type="Crossword">
+		<dimensions><![CDATA[[15,15]]]></dimensions>
+		<title><![CDATA[Crossword]]></title>
+		<shortinst><![CDATA[- Click a clue to view the corresponding answer squares 
+- Or click a number on the answer squares to view the corresponding clue
+- Click square twice to change directions
+- Begin typing in the darker square]]></shortinst>
+		<detailinst><![CDATA[This activity allows you to type answers to questions posed in the across or down clue windows.
+
+Clues
+- Click an across or down clue to highlight the corresponding answer squares
+- Use the scroll bars to view more clues
+
+Answer Squares
+- Click a numbered answer square to view the corresponding clue
+- Click a numbered square a second time to view the corresponding clue in the opposite direction
+- If a numbered square is already filled, click the second or any empty square in the same direction to view the clue
+- Dark square indicates where text will be entered when typing begins
+- Fill answer squares by typing the answer. Correct or Incorrect feedback will be presented as soon as the final square of the word is filled.
+- Answers that require more than one word will not use spaces
+- Backspace deletes characters
+
+Scoring
+- Scores for crosswords are not calculated or recorded
+- Multiple attempts may be allowed to fill each answer correctly
+- A correct mark will display next to the clue when the answer squares are filled correctly
+- An incorrect mark will display next to the clue after the allotted number of incorrect tries. 
+- The correct answer will fill automatically after the allotted number of incorrect tries
+- Click 'Show Completed Puzzle' to reveal all answers
+- Click 'Reset' to start the puzzle again]]></detailinst>
+		<autofill_number><![CDATA[3]]></autofill_number>
+					<across>
+						<word>
+							<text><![CDATA[JOYSTICK]]></text>
+							<clue><![CDATA[To play some computer games, you need a _____.]]></clue>
+							<gridloc><![CDATA[02_08]]></gridloc>
+						</word>
+						<word>
+							<text><![CDATA[VIRUS]]></text>
+							<clue><![CDATA[A ___ is a software program that causes problems in computers.]]></clue>
+							<gridloc><![CDATA[04_09]]></gridloc>
+						</word>
+						<word>
+							<text><![CDATA[ATTACHMENT]]></text>
+							<clue><![CDATA[When you e-mail someone a photo, you send an _____.]]></clue>
+							<gridloc><![CDATA[07_06]]></gridloc>
+						</word>
+						<word>
+							<text><![CDATA[HACKER]]></text>
+							<clue><![CDATA[A ___ is someone who enters computer systems without an invitation.]]></clue>
+							<gridloc><![CDATA[08_01]]></gridloc>
+						</word>
+						<word>
+							<text><![CDATA[MOUSE]]></text>
+							<clue><![CDATA[Move the ___ with your hand to give instructions to the computer.]]></clue>
+							<gridloc><![CDATA[10_07]]></gridloc>
+						</word>
+						<word>
+							<text><![CDATA[PULLDOWN]]></text>
+							<clue><![CDATA[You can find different computer commands on the _____ menu.]]></clue>
+							<gridloc><![CDATA[13_06]]></gridloc>
+						</word>
+					</across>
+					<down>
+						<word>
+							<text><![CDATA[SCROLLBAR]]></text>
+							<clue><![CDATA[To read more text on the screen, use the _____.]]></clue>
+							<gridloc><![CDATA[01_02]]></gridloc>
+						</word>
+						<word>
+							<text><![CDATA[TOOLBAR]]></text>
+							<clue><![CDATA[The _____ has icons with different computer commands.]]></clue>
+							<gridloc><![CDATA[02_06]]></gridloc>
+						</word>
+						<word>
+							<text><![CDATA[SURF]]></text>
+							<clue><![CDATA[I like to ___ the Internet, visiting a lot of different websites.]]></clue>
+							<gridloc><![CDATA[02_11]]></gridloc>
+						</word>
+						<word>
+							<text><![CDATA[SELECT]]></text>
+							<clue><![CDATA[You _____ text before you copy and paste it.]]></clue>
+							<gridloc><![CDATA[04_13]]></gridloc>
+						</word>
+						<word>
+							<text><![CDATA[CRASHED]]></text>
+							<clue><![CDATA[Oh, no!  My computer _____. I lost all my files.]]></clue>
+							<gridloc><![CDATA[07_10]]></gridloc>
+						</word>
+					</down>
+	</activity>

@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="quiz_show" version="1.0" client="" oae-label="ACTIVITY TYPE: QUIZ SHOW">
+	<title oae-label="Title:">
+		<![CDATA[Quiz Show]]>
+	</title>
+	<shortinst oae-label="Short Instructions:">
+		<![CDATA[Click on a box. Choose the correct answer. You have only three minutes.]]>
+	</shortinst>
+	<detailinst oae-label="Detailed Instructions:">
+		<![CDATA[Click on an amount in a category to answer a question about that topic. Click on the correct answer for each question. If your entry is correct, it will highlight in green and you will "win" the amount of money listed. If you are incorrect, you will "lose" the amount of money listed. You don't gain or lose any money for trying again. Next and Previous buttons navigate among the questions. Try to win as much money as you can!]]>
+	</detailinst>
+	<randomquestions oae-label="Randomize Questions:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomquestions>
+	<randomanswers oae-label="Randomize Answers:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomanswers>
+	<categories>
+		<category oae-lable="Category 1">
+			<![CDATA[Family members]]>
+		</category>
+		<category oae-lable="Category 2">
+			<![CDATA[Numbers]]>
+		</category>
+		<category oae-lable="Category 3">
+			<![CDATA[Adjectives to describe people]]>
+		</category>
+		<category oae-lable="Category 4">
+			<![CDATA[Verbs <u>be</u> and <u>have</u>]]>
+		</category>
+	</categories>
+	<categoryquestions oae-label="Category 1 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[He's our ____.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_2e_4_20.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[grandchildren]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[sisters]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[grandfather]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[brothers]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[They are ____.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_2e_4_21.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[grandsons]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[sisters]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[grandparents]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[brothers]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Jackie Chan has a son.  He’s a ____.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_4_22.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[grandfather]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[sister]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[brother]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[father]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Mr. and Mrs. Martin have two ____.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_4_23.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[grandchildren]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[sisters]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[sons]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[daughters]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 2 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[36 x 2 = _____.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[forty-five]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[twenty-four]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[seventy-two]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[ninety]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[50 – 5 = _____.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[forty-five]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[twenty-four]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[seventy-two]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[ninety]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[18 + 6 = _____.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[forty-five]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[twenty-four]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[seventy-two]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[ninety]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[71 + 19= _____.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[forty-five]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[twenty-four]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[seventy-two]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[ninety]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 3 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[He’s ____.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_4_24.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[pretty]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[handsome]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[old]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[She’s very ____.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_4_25.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[pretty]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[handsome]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[old]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Their grandmother is ____.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_2e_4_26.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[young]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[handsome]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[old]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Pam’s brother is very ____.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_4_27.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[pretty]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[tall]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[old]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 4 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I ____ thirty-three years old.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[am]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[is]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[are]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[has]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Your children ____ so cute!]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[am]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[is]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[are]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[has]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Samuel ____ two granddaughters.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[am]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[is]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[are]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[has]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[John ____ very good-looking.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[am]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[is]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[are]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[has]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+</activity>

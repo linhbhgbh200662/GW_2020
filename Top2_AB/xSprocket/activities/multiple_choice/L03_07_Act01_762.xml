@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="multiple_choice" version="1.0" client="Longman" oae-label="ACTIVITY TYPE: Multiple Choice">
+	<title oae-label="Activity Title" oae-type="textarea" oae-rows="1">
+		<![CDATA[Activity 1]]>
+	</title>
+	<instructions oae-label="Instructions" oae-type="textarea" oae-rows="3">
+		<![CDATA[Read the article about Songkran. Click on the correct answer to complete each statement.]]>
+	</instructions>
+	<questions>
+		<question oae-label="Question 1">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[<b>Thailand’s Wet Water Festival</b>
+
+   Songkran marks the start of the Buddhist New Year in Thailand. It is a wild and wonderful festival in which people of all ages have fun dousing each other with water for three solid days. If you decide to stay indoors, you’ll miss out on a great time!
+   Songkran began nearly a thousand years ago to celebrate the beginning of the farming season. It is a time when Thai people routinely do a thorough cleaning of their homes. Additionally, people make offerings to local temples and provide food and new robes for monks.
+   During Songkran there is singing and dancing in the streets, and lots of water. Visitors should expect to become totally drenched—and love every minute of it!  On every side street, you’ll find children waiting to throw water at you. Bus riders also need to be careful. Some people have been known to hurl buckets of water through open windows!]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[Songkran is a _____ holiday.]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[seasonal and religious]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[historical and seasonal]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[religious and historical]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 2">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[<b>Thailand’s Wet Water Festival</b>
+
+   Songkran marks the start of the Buddhist New Year in Thailand. It is a wild and wonderful festival in which people of all ages have fun dousing each other with water for three solid days. If you decide to stay indoors, you’ll miss out on a great time!
+   Songkran began nearly a thousand years ago to celebrate the beginning of the farming season. It is a time when Thai people routinely do a thorough cleaning of their homes. Additionally, people make offerings to local temples and provide food and new robes for monks.
+   During Songkran there is singing and dancing in the streets, and lots of water. Visitors should expect to become totally drenched—and love every minute of it!  On every side street, you’ll find children waiting to throw water at you. Bus riders also need to be careful. Some people have been known to hurl buckets of water through open windows!]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[If you don’t want to get wet on Songkran, you shouldn’t _____.]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[go outside]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[clean your home]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[avoid buses]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 3">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[<b>Thailand’s Wet Water Festival</b>
+
+   Songkran marks the start of the Buddhist New Year in Thailand. It is a wild and wonderful festival in which people of all ages have fun dousing each other with water for three solid days. If you decide to stay indoors, you’ll miss out on a great time!
+   Songkran began nearly a thousand years ago to celebrate the beginning of the farming season. It is a time when Thai people routinely do a thorough cleaning of their homes. Additionally, people make offerings to local temples and provide food and new robes for monks.
+   During Songkran there is singing and dancing in the streets, and lots of water. Visitors should expect to become totally drenched—and love every minute of it!  On every side street, you’ll find children waiting to throw water at you. Bus riders also need to be careful. Some people have been known to hurl buckets of water through open windows!]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[Children mainly throw water at people when they are _____.]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[dancing in the streets]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[visiting temples]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[riding buses]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 4">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 5">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 6">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 7">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 8">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 9">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 10">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+	</questions>
+</activity>

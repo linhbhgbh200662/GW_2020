@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="multiple_choice" version="1.0" client="Longman" oae-label="ACTIVITY TYPE: Multiple Choice">
+	<title oae-label="Activity Title" oae-type="textarea" oae-rows="1">
+		<![CDATA[Activity 1]]>
+	</title>
+	<instructions oae-label="Instructions" oae-type="textarea" oae-rows="3">
+		<![CDATA[Read the article about the Tokyo Lost-and-Found. Then click on the best word(s) to complete each statement, according to the article.]]>
+	</instructions>
+	<questions>
+		<question oae-label="Question 1">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[<b>Tokyo Lost-and-Found Keeps Eye On Goods</b>
+
+TOKYO—If it can be lost on the streets of Tokyo, it can be found in the city’s cavernous lost-and-found center, where everything from diamond rings to dentures and millions of dollars in stray cash await their rightful, if forgetful, owners. On any given day, about 800,000 items pack the four-story warehouse, with 5,000 new ones trucked in every morning for an annual total that includes 220,000 articles of clothing, 30,000 cell phones, 18,000 eyeglasses, and 17,000 wallets.
+
+“I’m not surprised anymore by what people lose,” says lost-and-found manager Nobuo Hasuda as he walks along the paths between wheelchairs, snowshoes, motorcycle helmets, and trumpets. There are file cabinets labeled “Cell Phones: April,” “Wallets: March,” and “Eyeglasses: February.”
+
+Last year, about 1.62 million articles passed through the center, making it possibly the world’s biggest lost-and-found. About 250 hopefuls visit each day to see if their lost keys, briefcases, and wallets are there.
+
+Typical of a country obsessed with order and detail, every item is scrupulously labeled with time and place of recovery, then computer archived — no matter how seemingly trivial. One Good Samaritan turned in a phone card worth only 42 cents. It’s now tagged and waiting in a drawer cluttered with half-used train passes.]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[A “lost-and-found” is a place where you can _____.]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[find an item you have lost]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[buy items people have lost]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[leave an item you don’t want]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 2">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[<b>Tokyo Lost-and-Found Keeps Eye On Goods</b>
+
+TOKYO—If it can be lost on the streets of Tokyo, it can be found in the city’s cavernous lost-and-found center, where everything from diamond rings to dentures and millions of dollars in stray cash await their rightful, if forgetful, owners. On any given day, about 800,000 items pack the four-story warehouse, with 5,000 new ones trucked in every morning for an annual total that includes 220,000 articles of clothing, 30,000 cell phones, 18,000 eyeglasses, and 17,000 wallets.
+
+“I’m not surprised anymore by what people lose,” says lost-and-found manager Nobuo Hasuda as he walks along the paths between wheelchairs, snowshoes, motorcycle helmets, and trumpets. There are file cabinets labeled “Cell Phones: April,” “Wallets: March,” and “Eyeglasses: February.”
+
+Last year, about 1.62 million articles passed through the center, making it possibly the world’s biggest lost-and-found. About 250 hopefuls visit each day to see if their lost keys, briefcases, and wallets are there.
+
+Typical of a country obsessed with order and detail, every item is scrupulously labeled with time and place of recovery, then computer archived — no matter how seemingly trivial. One Good Samaritan turned in a phone card worth only 42 cents. It’s now tagged and waiting in a drawer cluttered with half-used train passes.]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[Every day, approximately _____ new items are left at the lost and found.]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[5,000]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[800,000]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[millions of]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 3">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[<b>Tokyo Lost-and-Found Keeps Eye On Goods</b>
+
+TOKYO—If it can be lost on the streets of Tokyo, it can be found in the city’s cavernous lost-and-found center, where everything from diamond rings to dentures and millions of dollars in stray cash await their rightful, if forgetful, owners. On any given day, about 800,000 items pack the four-story warehouse, with 5,000 new ones trucked in every morning for an annual total that includes 220,000 articles of clothing, 30,000 cell phones, 18,000 eyeglasses, and 17,000 wallets.
+
+“I’m not surprised anymore by what people lose,” says lost-and-found manager Nobuo Hasuda as he walks along the paths between wheelchairs, snowshoes, motorcycle helmets, and trumpets. There are file cabinets labeled “Cell Phones: April,” “Wallets: March,” and “Eyeglasses: February.”
+
+Last year, about 1.62 million articles passed through the center, making it possibly the world’s biggest lost-and-found. About 250 hopefuls visit each day to see if their lost keys, briefcases, and wallets are there.
+
+Typical of a country obsessed with order and detail, every item is scrupulously labeled with time and place of recovery, then computer archived — no matter how seemingly trivial. One Good Samaritan turned in a phone card worth only 42 cents. It’s now tagged and waiting in a drawer cluttered with half-used train passes.]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[The most common item that people take to the lost and found are _____.]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[articles of clothing]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[wallets]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[cell phones]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 4">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[<b>Tokyo Lost-and-Found Keeps Eye On Goods</b>
+
+TOKYO—If it can be lost on the streets of Tokyo, it can be found in the city’s cavernous lost-and-found center, where everything from diamond rings to dentures and millions of dollars in stray cash await their rightful, if forgetful, owners. On any given day, about 800,000 items pack the four-story warehouse, with 5,000 new ones trucked in every morning for an annual total that includes 220,000 articles of clothing, 30,000 cell phones, 18,000 eyeglasses, and 17,000 wallets.
+
+“I’m not surprised anymore by what people lose,” says lost-and-found manager Nobuo Hasuda as he walks along the paths between wheelchairs, snowshoes, motorcycle helmets, and trumpets. There are file cabinets labeled “Cell Phones: April,” “Wallets: March,” and “Eyeglasses: February.”
+
+Last year, about 1.62 million articles passed through the center, making it possibly the world’s biggest lost-and-found. About 250 hopefuls visit each day to see if their lost keys, briefcases, and wallets are there.
+
+Typical of a country obsessed with order and detail, every item is scrupulously labeled with time and place of recovery, then computer archived — no matter how seemingly trivial. One Good Samaritan turned in a phone card worth only 42 cents. It’s now tagged and waiting in a drawer cluttered with half-used train passes.]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[About _____ people come to the lost-and-found each day to see if their lost items are there.]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[250]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[5,000]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[1.62 million]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 5">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[<b>Tokyo Lost-and-Found Keeps Eye On Goods</b>
+
+TOKYO—If it can be lost on the streets of Tokyo, it can be found in the city’s cavernous lost-and-found center, where everything from diamond rings to dentures and millions of dollars in stray cash await their rightful, if forgetful, owners. On any given day, about 800,000 items pack the four-story warehouse, with 5,000 new ones trucked in every morning for an annual total that includes 220,000 articles of clothing, 30,000 cell phones, 18,000 eyeglasses, and 17,000 wallets.
+
+“I’m not surprised anymore by what people lose,” says lost-and-found manager Nobuo Hasuda as he walks along the paths between wheelchairs, snowshoes, motorcycle helmets, and trumpets. There are file cabinets labeled “Cell Phones: April,” “Wallets: March,” and “Eyeglasses: February.”
+
+Last year, about 1.62 million articles passed through the center, making it possibly the world’s biggest lost-and-found. About 250 hopefuls visit each day to see if their lost keys, briefcases, and wallets are there.
+
+Typical of a country obsessed with order and detail, every item is scrupulously labeled with time and place of recovery, then computer archived — no matter how seemingly trivial. One Good Samaritan turned in a phone card worth only 42 cents. It’s now tagged and waiting in a drawer cluttered with half-used train passes.]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[The Tokyo lost-and-found might be the _____ lost-and-found in the world.]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[largest]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[only]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[best]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 6">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[<b>Tokyo Lost-and-Found Keeps Eye On Goods</b>
+
+TOKYO—If it can be lost on the streets of Tokyo, it can be found in the city’s cavernous lost-and-found center, where everything from diamond rings to dentures and millions of dollars in stray cash await their rightful, if forgetful, owners. On any given day, about 800,000 items pack the four-story warehouse, with 5,000 new ones trucked in every morning for an annual total that includes 220,000 articles of clothing, 30,000 cell phones, 18,000 eyeglasses, and 17,000 wallets.
+
+“I’m not surprised anymore by what people lose,” says lost-and-found manager Nobuo Hasuda as he walks along the paths between wheelchairs, snowshoes, motorcycle helmets, and trumpets. There are file cabinets labeled “Cell Phones: April,” “Wallets: March,” and “Eyeglasses: February.”
+
+Last year, about 1.62 million articles passed through the center, making it possibly the world’s biggest lost-and-found. About 250 hopefuls visit each day to see if their lost keys, briefcases, and wallets are there.
+
+Typical of a country obsessed with order and detail, every item is scrupulously labeled with time and place of recovery, then computer archived — no matter how seemingly trivial. One Good Samaritan turned in a phone card worth only 42 cents. It’s now tagged and waiting in a drawer cluttered with half-used train passes.]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[_____ left in the Tokyo lost-and-found are labeled and placed in a warehouse.]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[All items]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[Only cell phones and wallets]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[Only valuable items]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 7">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 8">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 9">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 10">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+	</questions>
+</activity>

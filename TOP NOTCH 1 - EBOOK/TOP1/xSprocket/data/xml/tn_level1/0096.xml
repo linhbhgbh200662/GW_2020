@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page id="0096">
+<map name="Map" id="Map">
+<art type="icon" pfunction="audio_icon">
+<scale><![CDATA[80]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 8/4-34 A Listening compr p96.mp3]]></href>
+<icon><![CDATA[audio_button]]></icon>
+<coords><![CDATA[53,79]]></coords>
+</art><art type="icon" pfunction="generic_gotopage">
+<page><![CDATA[146]]></page>
+<scale><![CDATA[80]]></scale>
+<title><![CDATA[Go to Writing Booster]]></title>
+<icon><![CDATA[writing_booster]]></icon>
+<coords><![CDATA[542,629]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<scale><![CDATA[80]]></scale>
+<title><![CDATA[Play Karaoke Version]]></title>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 8/4-36 Karaoke Anything Go p96.mp3]]></href>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<coords><![CDATA[454,343]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<scale><![CDATA[80]]></scale>
+<title><![CDATA[Play Song]]></title>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 8/4-35 Song Anything Goes p96.mp3]]></href>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<coords><![CDATA[408,343]]></coords>
+</art></map></page>

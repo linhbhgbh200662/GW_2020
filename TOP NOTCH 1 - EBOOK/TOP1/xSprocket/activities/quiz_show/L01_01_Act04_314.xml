@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="quiz_show" version="1.0" client="" oae-label="ACTIVITY TYPE: QUIZ SHOW">
+	<title oae-label="Title:">
+		<![CDATA[Quiz Show]]>
+	</title>
+	<shortinst oae-label="Short Instructions:">
+		<![CDATA[Click on a box. Choose the correct answer. You have only three minutes.]]>
+	</shortinst>
+	<detailinst oae-label="Detailed Instructions:">
+		<![CDATA[Click on an amount in a category to answer a question about that topic. Click on the correct answer for each question. If your entry is correct, it will highlight in green and you will "win" the amount of money listed. If you are incorrect, you will "lose" the amount of money listed. You don't gain or lose any money for trying again. Next and Previous buttons navigate among the questions. Try to win as much money as you can!]]>
+	</detailinst>
+	<randomquestions oae-label="Randomize Questions:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomquestions>
+	<randomanswers oae-label="Randomize Answers:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomanswers>
+	<categories>
+		<category oae-lable="Category 1">
+			<![CDATA[Introductions]]>
+		</category>
+		<category oae-lable="Category 2">
+			<![CDATA[Personal information]]>
+		</category>
+		<category oae-lable="Category 3">
+			<![CDATA[Information questions]]>
+		</category>
+		<category oae-lable="Category 4">
+			<![CDATA[The verb <u>Be</u> – short answers]]>
+		</category>
+	</categories>
+	<categoryquestions oae-label="Category 1 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[It's a pleasure to _____ you.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[meet]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[call]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[too]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[introduce]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Just _____ me Sam.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[meet]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[call]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[too]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[introduce]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Great to meet you, _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[meet]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[call]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[too]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[introduce]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I’d like to _____ you to my friend.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[meet]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[call]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[too]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[introduce]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 2 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I was born in Boston. It's my _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[hometown]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[birthplace]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[nationality]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[nickname]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[She's from Paris. Her _____ is French.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[hometown]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[birthplace]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[nationality]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[nickname]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Everyone calls me Coco. It's my _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[hometown]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[birthplace]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[nationality]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[nickname]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[He grew up in Osaka. It's his _____.  ]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[hometown]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[birthplace]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[nationality]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[nickname]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 3 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[_____ is she?  23?  24?]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[Who]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[What]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[Where]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[How old]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[_____ is her occupation?]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[Who]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[What]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[Where]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[How old]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[_____ is she from?]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[Who]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[What]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[Where]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[How old]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[_____ 's that man over there?]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[Who]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[What]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[Where]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[How old]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 4 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[No, I’m _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[not]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[are]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[aren't]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[is]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Yes, we _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[not]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[are]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[aren't]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[is]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[No, they _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[not]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[are]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[aren't]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[is]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Yes, he _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[not]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[are]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[aren't]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[is]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+</activity>

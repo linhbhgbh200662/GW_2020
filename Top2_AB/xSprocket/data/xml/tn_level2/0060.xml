@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<page id="0060">
+<map name="Map" id="Map">
+<art type="icon">
+<coords><![CDATA[50,78]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[82]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 2 MP3 files/Unit_05/3-16_A_Listening_compreh_p60.mp3]]></href>
+</art>
+<art type="icon">
+<coords><![CDATA[426,479]]></coords>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[80]]></scale>
+<title><![CDATA[Play Song]]></title>
+<href><![CDATA[Top Notch 2 MP3 files/Unit_05/3-17_Song_Piece_of_Cake_p60.mp3]]></href>
+</art>
+<art type="icon">
+<coords><![CDATA[469,479]]></coords>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[80]]></scale>
+<title><![CDATA[Play Karaoke Version]]></title>
+<href><![CDATA[Top Notch 2 MP3 files/Unit_05/3-18_Karaoke_Piece_of_Ca_p60.mp3]]></href>
+</art>
+<art type="icon">
+<coords><![CDATA[542,684]]></coords>
+<icon><![CDATA[writing_booster]]></icon>
+<pFunction><![CDATA[generic_gotopage]]></pFunction>
+<scale><![CDATA[80]]></scale>
+<title><![CDATA[Go to Writing Booster]]></title>
+<page><![CDATA[143]]></page>
+</art>
+</map>
+</page>

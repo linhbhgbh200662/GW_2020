@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page id="0149">
+<map name="Map" id="Map">
+<art type="icon" pfunction="audio_icon">
+<coords><![CDATA[29,44]]></coords>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 1/1-15 Song Its Nice to Me p12.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[50]]></scale>
+</art><art type="icon" pfunction="audio_icon">
+<coords><![CDATA[53,44]]></coords>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 1/1-16 Karaoke Its Nice to p12.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[50]]></scale>
+</art><art type="icon" pfunction="audio_icon">
+<coords><![CDATA[30,387]]></coords>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 2/1-34 Song Going Out p24.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[50]]></scale>
+</art><art type="icon" pfunction="audio_icon">
+<coords><![CDATA[55,388]]></coords>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 2/1-35 Karaoke Going Out p24.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[50]]></scale>
+</art><art type="icon" pfunction="audio_icon">
+<coords><![CDATA[228,149]]></coords>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 3/2-19 Karaoke An Only Chi p36.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[50]]></scale>
+</art><art type="icon" pfunction="audio_icon">
+<coords><![CDATA[203,149]]></coords>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 3/2-18 Song An Only Child p36.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[50]]></scale>
+</art><art type="icon" pfunction="audio_icon">
+<coords><![CDATA[204,497]]></coords>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 4/2-34 Song The World Cafe p48.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[50]]></scale>
+</art><art type="icon" pfunction="audio_icon">
+<coords><![CDATA[228,498]]></coords>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 4/2-35 Karaoke The World C p48.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[50]]></scale>
+</art><art type="icon" pfunction="audio_icon">
+<coords><![CDATA[378,269]]></coords>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 5/3-22 Song Its Not Workin p60.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[50]]></scale>
+</art><art type="icon" pfunction="audio_icon">
+<coords><![CDATA[403,270]]></coords>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 5/3-23 Karaoke Its Not Wor p60.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[50]]></scale>
+</art></map></page>

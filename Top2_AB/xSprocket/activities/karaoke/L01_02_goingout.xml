@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="karaoke" version="1.0" client="Longman" oae-label="ACTIVITY TYPE: Karaoke">
+	<video oae-label="Video File" oae-type="textarea" oae-rows="1">
+<![CDATA[tn1_02_goingout.flv]]> 
+	</video>
+	<video_duration>
+	<![CDATA[149]]>
+	</video_duration>
+	<transcript oae-label="Transcript">
+		<line oae-label="Line 1">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[Do you want to see a play?]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[8]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[What time does the play begin?]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[10.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[It starts at eight.  Is that OK?]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[13]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[I'd love to go.  I'll see you then.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[15.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[I heard it got some good reviews.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[18]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[Where's it playing?  What's the show?]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[21]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[It's called "One Single Life to Lose."]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[23.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[I'll think about it.  I don't know.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[26]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[Everything will be all right]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[31]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[when you and I go out tonight.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[33.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[When Thomas Soben gives his talk—]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[40.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[The famous chef?  That's not for me!]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[43]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[The doors open at nine o'clock.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[45.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[There's a movie we could see.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[49]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[at Smith and Second Avenue.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[51]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[That's my favorite neighborhood!]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[54]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[I can't wait to be with you.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[56.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[I can't wait to have some food.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[58.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[Everything will be all right]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[64]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[when you and I go out tonight.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[66.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[We're going to have a good time.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[73.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[Don't keep me up past my bedtime.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[78.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[We'll make a date. ]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[84]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[Tonight's the night.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[86.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[It starts at eight.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[89]]> 
+			</time>	
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[The price is right!]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[92]]> 
+			</time>	
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[I'm a fan of rock and roll.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[97.5]]> 
+			</time>	
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[Classical is more my style.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[100]]> 
+			</time>	
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[I like blues and I like soul.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[103]]> 
+			</time>	
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[Bach and Mozart make me smile!]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[105.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[Around the corner and down the street.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[108]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[That's the entrance to the park.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[110.5]]> 
+			</time>	
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[There's a place where we could meet.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[113]]> 
+			</time>	
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[I wouldn't go there after dark!]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[116]]> 
+			</time>	
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[Everything will be all right]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[120]]> 
+			</time>	
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[when you and I go out tonight.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[123]]> 
+			</time>	
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[Everything will be all right]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[130.5]]> 
+			</time>	
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[when you and I go out tonight.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[132.5]]> 
+			</time>
+			</line>
+	</transcript>
+</activity>

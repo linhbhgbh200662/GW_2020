@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="true_false" version="1.1" client="McGraw-Hill" oae-label="ACTIVITY TYPE: TRUE/FALSE">
+
+	<!-- This activity presents the student with a series of up to 10 True/False questions on a sinlge page. -->
+
+	<title oae-label="Title">
+		<![CDATA[Activity 1]]>
+	</title>
+	<instructions oae-label="Instructions" oae-type="textarea" oae-rows="3">
+		<![CDATA[Read the article about driving a car outside of your own country. Then click on <u>True</u> or <u>False</u> for each statement, according to the article.]]>
+	</instructions>
+	<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</graphic>
+	<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</audio>
+	<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+		<![CDATA[<b>Tips on Driving Abroad</b>
+	
+It can be difficult to drive in another country. Driving rules and laws differ from country to country. So do road signs. Also, people in different countries drive on opposite sides of the road! Here are some tips on driving abroad. 
+	
+First, obtain an International Driving Permit (IDP). Most countries accept this permit. It’s easy to get an IDP. Just enter “International Driving Permit” in any Internet search engine and you will get the information you need. Once you have the IDP, carry your own driver’s license with you any time you drive outside your own country.  
+	
+If possible, get a copy of the foreign country’s rules before you begin driving in that country. An excellent source of information is a car rental company in the foreign country.
+
+Be aware:
+<ol>
+<li>Some countries have a minimum and maximum driving age.</li>
+<li>Some countries have penalties for drivers and / or passengers who don’t wear a seat belt. Always "buckle up."</li>
+<li>Many countries require you to honk your horn before going around a sharp corner or to flash your lights before passing.</li>
+<li>If the drivers in the country you are visiting drive on the opposite side of the road from your own country, it may be a good idea to practice driving in a quiet area before attempting to drive in heavy traffic.</li> 
+</ol>Finally, a word about road signs: In general, the color red on an international road sign signals negative information, such as a warning or prohibition, whereas blue is positive. Simply put, blue says <i>do</i>, red says <i>don't</i>.]]>
+	</reader>
+	<spacer oae-type="spacer">
+</spacer>
+
+	<!-- Use the following options to modify how the activity will be displayed. Use the first to modify the size of the font, and the following two to indicate what the headers of the "True" and "False" columns should display. -->
+
+	<fontsize oae-label="Resize Font?" oae-type="select" value="0 (Normal)" opt1="-3" opt2="-2" opt3="-1" opt4="0 (Normal)" opt5="+1" opt6="+2" opt7="+3">
+</fontsize>
+	<headertrue oae-label="True column header">
+		<![CDATA[True]]>
+	</headertrue>
+	<headerfalse oae-label="False column header">
+		<![CDATA[False]]>
+	</headerfalse>
+
+	<!-- Enter up to 10 statements and indicate if they are true or false; leave "not used" if that item will not be used. -->
+
+	<pairs oae-label="Statement Pairs:">
+		<pair oae-label="Pair 1">
+			<question oae-label="Statement">
+				<![CDATA[It’s difficult to get an IDP to drive in another country.]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="False" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+		<pair oae-label="Pair 2">
+			<question oae-label="Statement">
+				<![CDATA[Driving rules are usually the same from country to country.]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="False" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+		<pair oae-label="Pair 3">
+			<question oae-label="Statement">
+				<![CDATA[Most countries accept the IDP.]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="True" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+		<pair oae-label="Pair 4">
+			<question oae-label="Statement">
+				<![CDATA[You can get information you need about IDPs on the Internet.]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="True" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+		<pair oae-label="Pair 5">
+			<question oae-label="Statement">
+				<![CDATA[Once you have an IDP, it’s not advisable to carry your own home-country driver’s license.]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="False" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+		<pair oae-label="Pair 6">
+			<question oae-label="Statement">
+				<![CDATA[You can usually get driving rules from a car rental company in the country you are visiting.]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="True" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+		<pair oae-label="Pair 7">
+			<question oae-label="Statement">
+				<![CDATA[Some countries don’t permit people to drive if they are too old or too young.]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="True" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+		<pair oae-label="Pair 8">
+			<question oae-label="Statement">
+				<![CDATA[It’s never necessary to wear a seat belt outside of your own country.]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="False" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+		<pair oae-label="Pair 9">
+			<question oae-label="Statement">
+				<![CDATA[Some countries require that drivers honk their horn or flash their lights in some driving situations.]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="True" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+		<pair oae-label="Pair 10">
+			<question oae-label="Statement">
+				<![CDATA[In many countries the color of a road sign can help indicate its meaning.]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="True" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+	</pairs>
+</activity>

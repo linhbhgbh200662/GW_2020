@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page id="0042">
+<map name="Map" id="Map">
+<art type="icon" pfunction="audio_icon">
+<scale><![CDATA[80]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 4/2-26 A Conversation modl p42.mp3]]></href>
+<icon><![CDATA[audio_button]]></icon>
+<coords><![CDATA[54,116]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<scale><![CDATA[80]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 4/2-27 B Rhythm and intona p42.mp3]]></href>
+<icon><![CDATA[audio_button]]></icon>
+<coords><![CDATA[53,269]]></coords>
+</art><art type="icon" pfunction="generic_gotopage">
+<page><![CDATA[129]]></page>
+<scale><![CDATA[80]]></scale>
+<title><![CDATA[Go to Grammar Booster]]></title>
+<icon><![CDATA[grammar_booster]]></icon>
+<coords><![CDATA[540,457]]></coords>
+</art></map></page>

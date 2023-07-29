@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="fill_in_blanks" version="1.1" client="McGraw-Hill" oae-label="ACTIVITY TYPE: FILL IN THE BLANKS">
+
+	<!-- This activity presents the students with a block of text with blank spaces into which they must type in "right answers". -->
+
+	<title oae-label="Title">
+		<![CDATA[Fill in the blanks]]>
+	</title>
+	<instructions oae-label="Instructions" oae-type="textarea" oae-rows="3">
+		<![CDATA[Type the correct form of the verb in each blank.  Use the simple present tense.  Then check your answers.]]>
+	</instructions>
+	<spacer oae-type="spacer">
+	</spacer>
+	<!-- Use the following option to modify how the activity will be displayed. -->
+
+	<fontsize oae-label="Resize Font?" oae-type="select" value="0 (Normal)" opt1="-3" opt2="-2" opt3="-1" opt4="0 (Normal)" opt5="+1" opt6="+2" opt7="+3">
+</fontsize>
+
+	<spacer oae-type="spacer">
+	</spacer>
+	<!-- Write the paragraphs or sentences in the following space, using the <blank word="text"/> tag to indicate where the blank lines will go, the "word" attribute to indicate what word(s) will be dragged into that blank space. Optionally, use the "align" attribute to indicate the alignment of the word dropped into the blank space and the "alternate" attribute to display a different word on the blank line instead of the dragged text. See and test the example below. To show pop-ups use <pop hotwords="text">text that pops up here</pop>. -->
+
+	<page oae-label="Page 1">
+		<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</graphic>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</audio>
+		<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+			<![CDATA[]]>
+		</reader>
+		<text oae-label="Text" oae-type="textarea" oae-rows="15">
+
+			<![CDATA[<b>A:</b>     What's your typical week like?
+<b>B:</b>     Well, on weekdays I <blank word="get" blanksize="Small"/> <i>(get)</i> up at 7:00 A.M.  I <blank word="go" blanksize="Small"/> <i>(go)</i> to work at 8:00.
+<b>A:</b>     &nbsp;<blank word="Do" blanksize="Small"/> you <blank word="walk" blanksize="Small"/> <i>(walk)</i> to work?
+<b>B:</b>     I usually <blank word="take" blanksize="Small"/> <i>(take)</i> the bus.  Sometimes my wife <blank word="drives" blanksize="Small"/> <i>(drive)</i> me to work.
+<b>A:</b>     &nbsp;<blank word="Does" blanksize="Small"/> she <blank word="work" blanksize="Small"/> <i>(work)</i> at the hospital, too?
+<b>B:</b>     No, she <blank word="works" blanksize="Small"/> <i>(work)</i> at the bank between 2nd and 3rd Street.
+<b>A:</b>     &nbsp;<blank word="Do" blanksize="Small"/> you <blank word="come" blanksize="Small"/> <i>(come)</i> home late?
+<b>B:</b>     Usually at 7:00.  My wife <blank word="makes" blanksize="Small"/> <i>(make)</i> dinner.  And I <blank word="wash" blanksize="Small"/> <i>(wash)</i> the dishes, 
+Then we <blank word="watch"/> <i>(watch)</i> TV.  Sometimes she <blank word="reads" blanksize="Small"/> <i>(read)</i>.]]>
+		</text>
+	</page>
+	<page>
+		<![CDATA[]]>
+	</page>
+</activity>

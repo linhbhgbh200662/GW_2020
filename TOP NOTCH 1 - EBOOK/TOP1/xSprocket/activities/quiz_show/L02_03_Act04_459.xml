@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="quiz_show" version="1.0" client="" oae-label="ACTIVITY TYPE: QUIZ SHOW">
+	<title oae-label="Title:">
+		<![CDATA[Quiz Show]]>
+	</title>
+	<shortinst oae-label="Short Instructions:">
+		<![CDATA[Click on a box. Choose the correct answer. You have only three minutes.]]>
+	</shortinst>
+	<detailinst oae-label="Detailed Instructions:">
+		<![CDATA[Click on an amount in a category to answer a question about that topic. Click on the correct answer for each question. If your entry is correct, it will highlight in green and you will "win" the amount of money listed. If you are incorrect, you will "lose" the amount of money listed. You don't gain or lose any money for trying again. Next and Previous buttons navigate among the questions. Try to win as much money as you can!]]>
+	</detailinst>
+	<randomquestions oae-label="Randomize Questions:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomquestions>
+	<randomanswers oae-label="Randomize Answers:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomanswers>
+	<categories>
+		<category oae-lable="Category 1">
+			<![CDATA[Choosing a hotel]]>
+		</category>
+		<category oae-lable="Category 2">
+			<![CDATA[Hotel services]]>
+		</category>
+		<category oae-lable="Category 3">
+			<![CDATA[Hotel room amenities]]>
+		</category>
+		<category oae-lable="Category 4">
+			<![CDATA[Housekeeping services]]>
+		</category>
+	</categories>
+	<categoryquestions oae-label="Category 1 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I want to be near everything, so ____ is the most important factor in choosing a hotel.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[price]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[location]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[amenities]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[atmosphere]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[That hotel has such a romantic ____.  No wonder people like to get married there.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[price]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[service]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[amenities]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[atmosphere]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I can’t afford expensive hotels.  I look for hotels with good service at a low ____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[price]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[location]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[amenities]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[atmosphere]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I like to exercise and relax when I travel.  Hotel ____ are really important to me.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[price]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[location]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[amenities]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[atmosphere]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 2 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[A ____ service takes care of your children in a hotel.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[concierge]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[babysitting]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[room]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[wake-up]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I'm taking a client out to dinner tonight.  I'll ask the ____ to make the reservation.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[concierge]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[babysitting]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[room]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[wake-up]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Call the ____ service if you need to get up very early tomorrow morning.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[concierge]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[babysitting]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[room]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[wake-up]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[The restaurant is closed.  You’d better call ____ service.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[concierge]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[babysitting]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[room]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[wake-up]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 3 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Look at this shirt!  I can’t wear it like this.  I need ____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[a hanger]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[a towel]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[a hair dryer]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[an iron]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Before you wash your hair, take a look to see if there is _____ in the hotel room.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[a skirt hanger]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[a minibar]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[a hair dryer]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[an iron]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Are you going to the sauna?  Bring some _____ with you.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[hangers]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[towels]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[hair dryers]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[irons]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[There aren’t enough ____ in the closet for all our jackets and coats.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[hangers]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[towels]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[dishes]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[irons]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 4 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[The room is dirty.  Could someone ____ the room?]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[take away]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[bring up]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[make up]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[turn down]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[We’ve finished our breakfast.  Could someone ____ the dishes?]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[take away]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[bring up]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[make up]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[turn down]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Someone will ____ the laundry; just leave it outside your hotel room.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[turn down]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[bring up]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[make up]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[pick up]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[This is Room 512.  Could someone ____ a newspaper?]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[take away]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[bring up]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[make up]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[pick up]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+</activity>

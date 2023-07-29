@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="fill_in_blanks" version="1.1" client="McGraw-Hill" oae-label="ACTIVITY TYPE: FILL IN THE BLANKS">
+
+	<!-- This activity presents the students with a block of text with blank spaces into which they must type in "right answers". -->
+
+	<title oae-label="Title">
+		<![CDATA[The Title]]>
+	</title>
+	<instructions oae-label="Instructions" oae-type="textarea" oae-rows="3">
+		<![CDATA[Complete the conversation with the past continuous or the simple past tense.  Type the correct word(s) in each blank.  Then check your answers.]]>
+	</instructions>
+	<spacer oae-type="spacer">
+</spacer>
+
+	<!-- Use the following option to modify how the activity will be displayed. -->
+
+	<fontsize oae-label="Resize Font?" oae-type="select" value="0 (Normal)" opt1="-3" opt2="-2" opt3="-1" opt4="0 (Normal)" opt5="+1" opt6="+2" opt7="+3">
+</fontsize>
+	<spacer oae-type="spacer">
+</spacer>
+
+	<!-- Write the paragraphs or sentences in the following space, using the <blank word="text"/> tag to indicate where the blank lines will go, the "word" attribute to indicate what word(s) will be dragged into that blank space. Optionally, use the "align" attribute to indicate the alignment of the word dropped into the blank space and the "alternate" attribute to display a different word on the blank line instead of the dragged text. See and test the example below. To show pop-ups use <pop hotwords="text">text that pops up here</pop>. -->
+
+	<page oae-label="Page 1">
+		<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</graphic>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</audio>
+		<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+			<![CDATA[]]>
+		</reader>
+		<text oae-label="Text" oae-type="textarea" oae-rows="15">
+			<![CDATA[<b>A:</b>	What <blank word="were" blanksize="Small"/> you <blank word="doing" blanksize="Small"/> (<i>do</i>) last night at 8:00?
+<b>B:</b>	I <blank word="was speaking"/> (<i>speak</i>) to my insurance company.
+<b>A:</b>	How come? Is there something wrong?
+<b>B:</b>	I <blank word="had"/> (<i>have</i>) an accident.
+<b>A:</b>	Oh, no!  What <blank word="happened"/> (<i>happen</i>)?
+<b>B:</b>	I <blank word="was driving"/> (<i>drive</i>) home when suddenly a car <blank word="cut"/> (<i>cut</i>) me off.
+	I <blank word="was thinking"/> (<i>think</i>) about dinner and <blank word="was" blanksize="Small"/> not <blank word="paying" blanksize="Small"/> (<i>pay</i>) attention.
+	That's when I <blank word="hit"/> (<i>hit</i>) the car.
+<b>A:</b>	How awful!  Are you OK?
+<b>B:</b>	I'm fine.  Luckily, I <blank word="was wearing"/> (<i>wear</i>) a set belt.  But I'll have to replace      
+	the bumper and the headlights.]]>
+		</text>
+	</page>
+	<page>
+		<![CDATA[]]>
+	</page>
+</activity>

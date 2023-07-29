@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="fill_in_blanks" version="1.1" client="McGraw-Hill" oae-label="ACTIVITY TYPE: FILL IN THE BLANKS">
+
+	<!-- This activity presents the students with a block of text with blank spaces into which they must type in "right answers". -->
+
+	<title oae-label="Title">
+		<![CDATA[Dictation]]>
+	</title>
+	<instructions oae-label="Instructions" oae-type="textarea" oae-rows="3">
+		<![CDATA[Listen to the statement. Type the words you hear to complete the statement. Then check your answers.]]>
+	</instructions>
+	<spacer oae-type="spacer">
+</spacer>
+
+	<!-- Use the following option to modify how the activity will be displayed. -->
+
+	<fontsize oae-label="Resize Font?" oae-type="select" value="0 (Normal)" opt1="-3" opt2="-2" opt3="-1" opt4="0 (Normal)" opt5="+1" opt6="+2" opt7="+3">
+</fontsize>
+	<spacer oae-type="spacer">
+</spacer>
+	<page oae-label="Page 1">
+
+		<!-- Write the paragraphs or sentences in the following space, using the <blank word="text"/> tag to indicate where the blank lines will go, the "word" attribute to indicate what word(s) will be dragged into that blank space. Optionally, use the "align" attribute to indicate the alignment of the word dropped into the blank space and the "alternate" attribute to display a different word on the blank line instead of the dragged text. See and test the example below. To show pop-ups use <pop hotwords="text">text that pops up here</pop>. -->
+
+		<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</graphic>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+			<![CDATA[tn2e_lc_03_u03_c]]>
+		</audio>
+		<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+			<![CDATA[]]>
+		</reader>
+		<text oae-label="Text" oae-type="textarea" oae-rows="15">
+			<![CDATA[<blank word="I" blanksize="Small"/> <blank word="need" blanksize="Small"/> <blank word="to" blanksize="Small"/> <blank word="have" blanksize="Small"/> <blank word="my" blanksize="Small"/> <blank word="blouse" blanksize="Small"/> <blank word="dry-cleaned" blanksize="Medium"/> <blank word="by" blanksize="Small"/> <blank word="tomorrow" blanksize="Medium"/> <blank word="morning" blanksize="Medium"/>.]]>
+		</text>
+	</page>
+	<page oae-label="Page 2">
+
+		<!-- Write the paragraphs or sentences in the following space, using the <blank word="text"/> tag to indicate where the blank lines will go, the "word" attribute to indicate what word(s) will be dragged into that blank space. Optionally, use the "align" attribute to indicate the alignment of the word dropped into the blank space and the "alternate" attribute to display a different word on the blank line instead of the dragged text. See and test the example below. To show pop-ups use <pop hotwords="text">text that pops up here</pop>. -->
+
+		<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</graphic>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+			<![CDATA[tn2e_lc_03_u03_d]]>
+		</audio>
+		<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+			<![CDATA[]]>
+		</reader>
+		<text oae-label="Text" oae-type="textarea" oae-rows="15">
+			<![CDATA[<blank word="If" blanksize="Small"/> <blank word="you're" blanksize="Small"/><alternate="you are" blanksize="Small"/> <blank word="getting" blanksize="Small"/> <blank word="your" blanksize="Small"/> <blank word="pants" blanksize="Small"/> <blank word="shortened" blanksize="Medium"/>, <blank word="make" blanksize="Small"/> <blank word="sure" blanksize="Small"/> <blank word="you" blanksize="Small"/> <blank word="can" blanksize="Small"/> <blank word="pick" blanksize="Small"/> <blank word="them" blanksize="Small"/> <blank word="up" blanksize="Small"/> <blank word="the" blanksize="Small"/> <blank word="next" blanksize="Small"/> <blank word="day" blanksize="Small"/>.]]>
+		</text>
+	</page>
+	<page oae-label="Page 3">
+
+		<!-- Write the paragraphs or sentences in the following space, using the <blank word="text"/> tag to indicate where the blank lines will go, the "word" attribute to indicate what word(s) will be dragged into that blank space. Optionally, use the "align" attribute to indicate the alignment of the word dropped into the blank space and the "alternate" attribute to display a different word on the blank line instead of the dragged text. See and test the example below. To show pop-ups use <pop hotwords="text">text that pops up here</pop>. -->
+
+		<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</graphic>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+			<![CDATA[tn2e_lc_03_u03_e]]>
+		</audio>
+		<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+			<![CDATA[]]>
+		</reader>
+		<text oae-label="Text" oae-type="textarea" oae-rows="15">
+			<![CDATA[<blank word="You" blanksize="Small"/> <blank word="can" blanksize="Small"/> <blank word="have" blanksize="Small"/> <blank word="your" blanksize="Small"/> <blank word="shoes" blanksize="Small"/> <blank word="repaired" blanksize="Medium"/> <blank word="for" blanksize="Small"/> <blank word="much" blanksize="Small"/> <blank word="less" blanksize="Small"/> <blank word="than" blanksize="Small"/> <blank word="it" blanksize="Small"/> <blank word="costs" blanksize="Small"/> <blank word="to" blanksize="Small"/> <blank word="buy" blanksize="Small"/> <blank word="a" blanksize="Small"/> <blank word="new" blanksize="Small"/> <blank word="pair" blanksize="Small"/>.]]>
+		</text>
+	</page>
+	<page oae-label="Page 4">
+
+		<!-- Write the paragraphs or sentences in the following space, using the <blank word="text"/> tag to indicate where the blank lines will go, the "word" attribute to indicate what word(s) will be dragged into that blank space. Optionally, use the "align" attribute to indicate the alignment of the word dropped into the blank space and the "alternate" attribute to display a different word on the blank line instead of the dragged text. See and test the example below. To show pop-ups use <pop hotwords="text">text that pops up here</pop>. -->
+
+		<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</graphic>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+			<![CDATA[tn2e_lc_03_u03_f]]>
+		</audio>
+		<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+			<![CDATA[]]>
+		</reader>
+		<text oae-label="Text" oae-type="textarea" oae-rows="15">
+			<![CDATA[<blank word="I" blanksize="Small"/> <blank word="think" blanksize="Small"/> <blank word="parents" blanksize="Medium"/> <blank word="should" blanksize="Small"/> <blank word="make" blanksize="Small"/> <blank word="their" blanksize="Small"/> <blank word="kids" blanksize="Small"/> <blank word="help" blanksize="Small"/> <blank word="out" blanksize="Small"/> <blank word="with" blanksize="Small"/> <blank word="daily" blanksize="Small"/> <blank word="chores" blanksize="Small"/> <blank word="around" blanksize="Small"/> <blank word="the" blanksize="Small"/> <blank word="house" blanksize="Small"/>.]]>
+		</text>
+	</page>
+	<page oae-label="Page 5">
+
+		<!-- Write the paragraphs or sentences in the following space, using the <blank word="text"/> tag to indicate where the blank lines will go, the "word" attribute to indicate what word(s) will be dragged into that blank space. Optionally, use the "align" attribute to indicate the alignment of the word dropped into the blank space and the "alternate" attribute to display a different word on the blank line instead of the dragged text. See and test the example below. To show pop-ups use <pop hotwords="text">text that pops up here</pop>. -->
+
+		<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</graphic>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+			<![CDATA[tn2e_lc_03_u03_g]]>
+		</audio>
+		<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+			<![CDATA[]]>
+		</reader>
+		<text oae-label="Text" oae-type="textarea" oae-rows="15">
+			<![CDATA[<blank word="We're" blanksize="Small"/> <alternate="We are" blanksize="Small"/> <blank word="having" blanksize="Small"/> <blank word="a" blanksize="Small"/> <blank word="big" blanksize="Small"/> <blank word="sign" blanksize="Small"/> <blank word="printed" blanksize="Medium"/> <blank word="for" blanksize="Small"/> <blank word="the" blanksize="Small"/> <blank word="meeting" blanksize="Medium"/> <blank word="tomorrow" blanksize="Medium"/>.]]>
+		</text>
+	</page>
+	<page oae-label="Page 6">
+
+		<!-- Write the paragraphs or sentences in the following space, using the <blank word="text"/> tag to indicate where the blank lines will go, the "word" attribute to indicate what word(s) will be dragged into that blank space. Optionally, use the "align" attribute to indicate the alignment of the word dropped into the blank space and the "alternate" attribute to display a different word on the blank line instead of the dragged text. See and test the example below. To show pop-ups use <pop hotwords="text">text that pops up here</pop>. -->
+
+		<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</graphic>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</audio>
+		<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+			<![CDATA[]]>
+		</reader>
+		<text oae-label="Text" oae-type="textarea" oae-rows="15">
+			<![CDATA[]]>
+		</text>
+	</page>
+	<page oae-label="Page 7">
+
+		<!-- Write the paragraphs or sentences in the following space, using the <blank word="text"/> tag to indicate where the blank lines will go, the "word" attribute to indicate what word(s) will be dragged into that blank space. Optionally, use the "align" attribute to indicate the alignment of the word dropped into the blank space and the "alternate" attribute to display a different word on the blank line instead of the dragged text. See and test the example below. To show pop-ups use <pop hotwords="text">text that pops up here</pop>. -->
+
+		<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</graphic>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</audio>
+		<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+			<![CDATA[]]>
+		</reader>
+		<text oae-label="Text" oae-type="textarea" oae-rows="15">
+			<![CDATA[]]>
+		</text>
+	</page>
+</activity>

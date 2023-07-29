@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="quiz_show" version="1.0" client="" oae-label="ACTIVITY TYPE: QUIZ SHOW">
+	<title oae-label="Title:">
+		<![CDATA[Quiz Show]]>
+	</title>
+	<shortinst oae-label="Short Instructions:">
+		<![CDATA[Click on a box. Choose the correct answer. You have only three minutes.]]>
+	</shortinst>
+	<detailinst oae-label="Detailed Instructions:">
+		<![CDATA[Click on an amount in a category to answer a question about that topic. Click on the correct answer for each question. If your entry is correct, it will highlight in green and you will "win" the amount of money listed. If you are incorrect, you will "lose" the amount of money listed. You don't gain or lose any money for trying again. Next and Previous buttons navigate among the questions. Try to win as much money as you can!]]>
+	</detailinst>
+	<randomquestions oae-label="Randomize Questions:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomquestions>
+	<randomanswers oae-label="Randomize Answers:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomanswers>
+	<categories>
+		<category oae-lable="Category 1">
+			<![CDATA[Names]]>
+		</category>
+		<category oae-lable="Category 2">
+			<![CDATA[Cultural Awareness]]>
+		</category>
+		<category oae-lable="Category 3">
+			<![CDATA[Meeting Someone]]>
+		</category>
+		<category oae-lable="Category 4">
+			<![CDATA[Tag Questions]]>
+		</category>
+	</categories>
+	<categoryquestions oae-label="Category 1 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[A _____ is often a short version of a person’s name.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[nickname]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[family name]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[title]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[first name]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[In English, titles are usually used with a person’s _____.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[nickname]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[family name]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[title]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[first name]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA["Mr." is a _____ in English.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[nickname]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[family name]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[title]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[first name]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Mitchell Stuart likes people to call him by his _____, so everyone calls him Mitchell.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[nickname]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[family name]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[title]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[first name]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 2 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Polite is the opposite of _____.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[impolite]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[offensive]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[taboo]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[customary]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Something that’s very impolite is _____.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[impolite]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[offensive]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[taboo]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[customary]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Something that is not allowed in a certain culture is _____.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[impolite]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[offensive]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[taboo]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[customary]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Something that is not unusual in a culture is _____.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[impolite]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[offensive]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[taboo]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[customary]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 3 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[People often make small talk about the _____.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[weather]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[address]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[greetings]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[questions]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA["Do you use 'Ms.' or 'Mrs.'?" is a way to ask about proper _____.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[weather]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[address]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[greetings]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[questions]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Handshakes, kisses, and hugs are examples of _____.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[weather]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[address]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[greetings]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[questions]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[People ask _____ to get to know one another.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[weather]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[address]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[greetings]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[questions]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 4 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[It was an awful movie, _____?]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[wasn't it]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[don't they]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[isn't he]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[didn't she]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[They play well, _____?]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[wasn't it]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[don't they]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[isn't he]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[didn't she]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[He's good at languages, _____?]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[wasn't it]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[don't they]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[isn't he]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[didn't she]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[She left early, _____?]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[wasn't it]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[don't they]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[isn't he]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[didn't she]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+</activity>

@@ -1,0 +1,38 @@
+                                   ASM
+bảng:
+cost
+- chi phí vận hành
+- software 
+- hardware
+
+sales dowloads: phần trăm sale
+- năm 
+- giả định chi phí quản lý, luuw trữ giảm 
+organizational:
+- project
+- senoior: những người quản lý lâu năm: mang lại lợi ích j
+user:
+- dễ dàng truy cập hệ thống
+- tiết kiệm time
+leader: mang lại j
+
+task 1:
+1. lý thuyết
+2. tẹo ra 1 bảng risk 
+task 2:
+1. đánh giá của hệ thống về feasibility. có khả thi về .....
+3. mô tả components
+4. đánh giá tác động của 1 vài cái tiêu trí của feasibility tren tiêu trí thẩm tra của software
+
+                             Feasibility Study
+1. về mặt kỹ thuật có phù hợp..
+2. về mặt kinh tế: ....
+3. 
+ - giảm nhân công
+ - giảm lưu trữ
+a. 4-5 dòng
+b. viết 1 vài phần 
+c. giống trên bảng 
+lập bảng 
+d. theo Feasibility trong classroom
+

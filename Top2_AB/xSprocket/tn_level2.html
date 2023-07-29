@@ -1,0 +1,132 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+<title>Top Notch vPage</title>
+
+<script type="text/javascript" src="flashobject.js"></script>
+
+<script language="JavaScript" src="ebook_js.js"></script>
+
+<style type="text/css" media="print">
+
+	.noPrint {
+
+		display:none;
+
+	}
+
+</style>
+
+
+
+<style type="text/css">
+
+
+
+	/* hide from ie on mac \*/
+
+	html {
+
+		height: 100%;
+
+		overflow: hidden;
+
+	}
+
+
+
+	#flashcontent {
+
+		height: 100%;
+
+	}
+
+	/* end hide */
+
+
+
+	body {
+
+		height: 100%;
+
+		margin: 0;
+
+		padding: 0;
+
+		background-color: #017DB1;
+
+	}
+
+	a {
+
+		color:#FFFFFF;
+
+	}
+
+
+
+</style>
+
+</head>
+
+<body topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" bottommargin="0" rightmargin="0">
+
+	<div id="flashcontent">
+
+		<strong>You need to upgrade your Flash Player</strong><br />
+
+		Please visit <a href="http://www.macromedia.com/go/getflashplayer" target="_blank">http://www.macromedia.com/go/getflashplayer</a><br />
+
+		Once Flash has been installed, click <a href="javascript:window.location.href=unescape(window.location.pathname);">here</a> to continue.
+
+		<!-- <a href="flashobject.html?detectflash=false">bypass the detection</a>-->
+
+	</div>
+
+
+
+	<script type="text/javascript">
+
+		// <![CDATA[
+
+		var bgcolor = "#ffffff";
+
+		document.bgcolor=bgcolor;
+
+		var fo = new FlashObject("main_tn_v2.swf", "main", "100%", "100%", "8", bgcolor);
+
+		fo.addParam("menu","false");
+
+		fo.addVariable("bookID", "tn_level2");
+
+		fo.addVariable("chapter", getQueryValue("chapter"));
+
+		fo.addVariable("page", getQueryValue("page"));
+
+		fo.addVariable("anchory", getQueryValue("anchory"));
+
+		fo.write("flashcontent");
+
+
+
+		// ]]>
+
+	</script>
+
+
+
+	<div id="info">
+
+
+
+	</div>
+
+</body>
+
+</html>
+

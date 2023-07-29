@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Introduction to JS</title>
+    <script type="text/javascript">
+        var x = 5;
+        var y = 6;
+        var z= x + y;
+        document.write(z);
+        document.write("br");
+        document.write(typeof(z));
+        var cars = ['Saab', 'Volvo', 'BMW'];
+        document.write("<br>" + typeof(cars) + "<br>");
+        for(i=0; i<cars.length; i++)
+            document.write(cars[i] + '<br>');
+        var x = {firstname: "Jame", lastname: "Bond"};
+        document.write("<br>" + typeof(x) + "<br>");
+        function add(a,b)
+        {
+            return a+b;
+        }
+        function displayresult()
+        {
+            if(document.forms[0]['numa'].value=="")
+            {
+                alert("Trường này bắt buộc nhập");
+                document.forms[0]['numa'].focus();
+                return;
+            }
+            var a = eval(document.forms[0]['numa'].value);
+            var b = eval(document.forms[0]['numb'].value);
+            var op = document.forms[0]['op'].value;
+            switch(op)
+            {
+                case 1:
+                    alert(a + b);
+                    break;
+                case 2:
+                    alert(a - b);  
+                    break;
+                case 3:
+                    alert( a * b);
+                    break;
+                case 4:
+                    alert(a / b);
+                    break;
+            }
+        }  
+        function dosomething(o)
+        {
+            o.style="background-color: red; color: white;";
+            o.value="";
+        }  
+        function cometodefaul(o)
+        {
+            o.style="background-color: white; color: black;";
+        }
+        function domouseover(o)
+        {
+            o.style="background-color: red; color: white;";
+        }
+        function domouseout(o)
+        {
+            o.style="background-color: white; color: black;";
+        }
+        function dokeypress(o)
+        {
+            o.style="background-color: red; color: white;";
+        }
+        function change()
+        {
+            //tham chiếu tới phần tử iD = "header"
+            var h= document.getElementByID("header");
+            //thay đổi nội dung của phần tử
+            h.innerHTML = "Nội dung mới";
+            h.style = "background-color: yellow;"
+        }
+    </script>
+</head>
+<body>
+
+<ul>
+    <li>mot</li>
+    <li>hai</li>
+    <li>ba</li>
+</ul>
+
+<div id="header">Nội dung cũ</div>
+
+
+
+<form action="" name="myform">
+   Num a: 
+   <input type="text" name="numa" onkeypress="dokeypress(this);"> <br>
+   Num b: 
+   <input type="text" name="numb" onmouseover="domouseover(this);" onmouseout="domouseout(this);"> <br>
+   Operator:
+   <select name="op" id="">
+       <option value="1">+</option>
+       <option value="2">-</option>
+       <option value="3">*</option>
+       <option value="4">/</option>
+   </select><br>
+   <input type="button" value="Calculate" onclick="displayresult();">
+</form>
+</body>
+
+
+
+
+<h1> Thế nào là Query String</h1>
+    <a href="process.php?id=5&name-james">Link to process page</a>
+    <form action="process.php" method="post">
+        username:
+        <input type="text" name="un"> <br>
+        password:
+        <input type="text" name="pw"> <br>
+        <input type="submit" value="Login">
+    </form>
+
+
+
+<body>
+    <from name=""frmAccount" action="abc.jsp">
+        Fullname:
+        <input type="text" name="fullname"/><br>
+        Age:
+        <input type="text" name="age"/><br>
+        Gender:
+        <input type="radio" name="gender"/> Male
+        <input type="radio" name="gender"/> Female <br>
+        Phone:
+        <input type="text" name="phone"/><br>
+        <input type="button" value=""Submit"
+        onclick="validform(document.forms.frmAccount);">
+    </from>
+</body>
+
+    <title>valid form</title>
+    <script>
+        function checknull(txt)
+        {
+            if(txt.value.length == 0)
+               return true;
+            else
+               return false;
+        }
+
+        function validform(f)
+        {
+            if(checknull(f.fullname))
+            {
+                alert(f.fullname.name + " must not be null");
+                f.fullname.focus();
+                return;
+            }
+            if(checknull(f.age))
+            {
+                alert(f.age.name + " must not be null");
+                f.age.focus();
+                return;
+            }
+            if (isNaN(f.age.value))
+            {
+                alert(f.age.name + " must be a number");
+                f.age.value = "";
+                f.age.focus();
+                return;
+            }
+            if (!isInteger(f.age)) 
+            {
+                alert(f.age.name + " must be an integer number");
+                f.age.value = "";
+                f.age.focus();
+                return;
+            }   
+            if (eva(f.age.value) <= 0 || eva(f.age.value) >= 200) 
+            {
+                alert(f.age.name + " must be in (0-200) ");
+                f.age.value = "";
+                f.age.focus();
+                return;
+            }
+            if (notCheck(f.gender))
+            {
+                alert("gender must be choosen");
+                return;
+            }
+            if (!StringMatch(f.phone, /^\(\d{2,4}\)[\s.-]\d{3}[\s.-]\d{3}$/))
+            {
+                alert("not valid")
+                return;
+            }
+        }
+        function StringMatch(txt, reg)
+        {
+            return reg.test(txt.value);
+        }
+        function notCheck(radio)
+        {
+            var rt=true;
+            for(i=0; i<radio.length; i++)
+               if(radio[i].checked)
+                  rt=false;
+                return rt; 
+        }
+        function isInteger(txt)
+        {
+            if (!isNaN(txt.value) && (parseInt(txt.value) === Number(txt.value)))
+                return true;
+            else
+                return false;
+        }
+        // NaN: not a number
+    </script>
+</html>  

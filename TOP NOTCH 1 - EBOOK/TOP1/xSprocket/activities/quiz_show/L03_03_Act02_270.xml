@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="quiz_show" version="1.0" client="" oae-label="ACTIVITY TYPE: QUIZ SHOW">
+	<title oae-label="Title:">
+		<![CDATA[Quiz Show]]>
+	</title>
+	<shortinst oae-label="Short Instructions:">
+		<![CDATA[Click on a box. Choose the correct answer. You have only three minutes.]]>
+	</shortinst>
+	<detailinst oae-label="Detailed Instructions:">
+		<![CDATA[Click on an amount in a category to answer a question about that topic. Click on the correct answer for each question. If your entry is correct, it will highlight in green and you will "win" the amount of money listed. If you are incorrect, you will "lose" the amount of money listed. You don't gain or lose any money for trying again. Next and Previous buttons navigate among the questions. Try to win as much money as you can!]]>
+	</detailinst>
+	<randomquestions oae-label="Randomize Questions:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomquestions>
+	<randomanswers oae-label="Randomize Answers:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomanswers>
+	<categories>
+		<category oae-lable="Category 1">
+			<![CDATA[Types of Services]]>
+		</category>
+		<category oae-lable="Category 2">
+			<![CDATA[Quality of Services]]>
+		</category>
+		<category oae-lable="Category 3">
+			<![CDATA[Planning an Event]]>
+		</category>
+		<category oae-lable="Category 4">
+			<![CDATA[Getting Things Done]]>
+		</category>
+	</categories>
+	<categoryquestions oae-label="Category 1 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[If your pants are too long, you can get them _____ .]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[shortened]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[framed]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[repaired]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[dry-cleaned]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[You can have a piece of artwork _____ and hang it on your wall.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[shortened]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[framed]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[repaired]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[dry-cleaned]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[You can get a broken pair of shoes _____ and still wear them.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[shortened]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[framed]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[repaired]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[dry-cleaned]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Take a dirty suit to get it _____.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[shortened]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[framed]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[repaired]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[dry-cleaned]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 2 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[_____ businesses provide high-quality service.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[Professional]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[Helpful]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[Reliable]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[Reasonable]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[_____ business owners always make sure you get what you need.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[Professional]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[Helpful]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[Reliable]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[Reasonable]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[_____ employees always do what you ask them to do.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[Professional]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[Helpful]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[Reliable]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[Reasonable]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[_____ prices are a good way to attract customers.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[Professional]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[Helpful]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[Reliable]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[Reasonable]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 3 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Make _____ to organize the event.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[an agenga]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[a list]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[an announcement]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[a budget]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Make _____ of the attendees to your event.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[an agenda]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[a list]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[an announcement]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[a budget]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Send _____ to each person you want to come to the event.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[an agenda]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[a list]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[an announcement]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[a budget]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Make _____ to help you plan your expenses.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[an agenda]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[a list]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[an announcement]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[a budget]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 4 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I got Rachel  _____ the catering.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[to plan]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[set up]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[to frame]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[cleaned]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I'm having Stephanie _____ the room.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[to plan]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[set up]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[to print]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[cleaned]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I want to get the shop _____ this sign for the meeting.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[to plan]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[set up]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[to print]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[cleaned]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[They're having the room _____ before the meeting.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[to plan]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[set up]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[to print]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[cleaned]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+</activity>

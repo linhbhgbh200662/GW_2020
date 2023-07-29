@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="matching" version="1.0" client="Longman" oae-label="ACTIVITY TYPE: Matching">
+	<title oae-label="Activity Title" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</title>
+	<instructions oae-label="Instructions" oae-type="textarea" oae-rows="3">
+		<![CDATA[Match the statements that have similar meanings. Drag the first part to the correct place.]]>
+	</instructions>
+	<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</audio>
+	<matches oae-label="The items can be either text, graphic, or audio. Please include the file extension if either a graphic file or an audio file (This is how the engine will determine that the file name is not text, but a file)">
+		<match oae-label="Matching Set 1">
+			<leftitem oae-label="Left column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[It’s not cool to do that. /]]>
+			</leftitem>
+			<rightitem oae-label="Right column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[That's not acceptable.]]>
+			</rightitem>
+		</match>
+		<match oae-label="Matching Set 2">
+			<leftitem oae-label="Left column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[I’m opposed to it. /]]>
+			</leftitem>
+			<rightitem oae-label="Right column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[I think that it's wrong.]]>
+			</rightitem>
+		</match>
+		<match oae-label="Matching Set 3">
+			<leftitem oae-label="Left column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[I’m in favor of it. /]]>
+			</leftitem>
+			<rightitem oae-label="Right column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[I support it.]]>
+			</rightitem>
+		</match>
+		<match oae-label="Matching Set 4">
+			<leftitem oae-label="Left column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[I’m afraid I don’t agree. /]]>
+			</leftitem>
+			<rightitem oae-label="Right column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[I don’t share your opinion.]]>
+			</rightitem>
+		</match>
+		<match oae-label="Matching Set 5">
+			<leftitem oae-label="Left column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[I couldn’t agree more. /]]>
+			</leftitem>
+			<rightitem oae-label="Right column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[That’s exactly what I think.]]>
+			</rightitem>
+		</match>
+		<match oae-label="Matching Set 6">
+			<leftitem oae-label="Left column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[]]>
+			</leftitem>
+			<rightitem oae-label="Right column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[]]>
+			</rightitem>
+		</match>
+	</matches>
+</activity>

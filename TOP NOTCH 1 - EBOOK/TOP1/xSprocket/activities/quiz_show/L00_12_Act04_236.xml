@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="quiz_show" version="1.0" client="" oae-label="ACTIVITY TYPE: QUIZ SHOW">
+	<title oae-label="Title:">
+		<![CDATA[Quiz Show]]>
+	</title>
+	<shortinst oae-label="Short Instructions:">
+		<![CDATA[Click on a box. Choose the correct answer. You have only three minutes.]]>
+	</shortinst>
+	<detailinst oae-label="Detailed Instructions:">
+		<![CDATA[Click on an amount in a category to answer a question about that topic. Click on the correct answer for each question. If your entry is correct, it will highlight in green and you will "win" the amount of money listed. If you are incorrect, you will "lose" the amount of money listed. You don't gain or lose any money for trying again. Next and Previous buttons navigate among the questions. Try to win as much money as you can!]]>
+	</detailinst>
+	<randomquestions oae-label="Randomize Questions:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomquestions>
+	<randomanswers oae-label="Randomize Answers:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomanswers>
+	<categories>
+		<category oae-lable="Category 1">
+			<![CDATA[Adjectives to describe hair]]>
+		</category>
+		<category oae-lable="Category 2">
+			<![CDATA[The face]]>
+		</category>
+		<category oae-lable="Category 3">
+			<![CDATA[Parts of the body]]>
+		</category>
+		<category oae-lable="Category 4">
+			<![CDATA[Accidents and injuries]]>
+		</category>
+	</categories>
+	<categoryquestions oae-label="Category 1 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[She has ____ hair.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_12_21.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[straight]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[white]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[curly]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[blonde]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Richard ____.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_12_22.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[has long hair]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[has a beard]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[has curly hair]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[is bald]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Michael has a ____ and a beard.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_2e_12_23.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[eyelash]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[mustache]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[ear]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[arm]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Emily has long, ____, blonde hair.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_12_24.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[straight]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[dark]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[curly]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[wavy]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 2 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Caroline has big, ____ eyes.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_12_25.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[green]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[blue]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[brown]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[She has very white ____.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_2e_12_26.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[teeth]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[eyes]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[tooth]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Dana's eyes are ____.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_12_27.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[green]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[blue]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[brown]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Sarah has beautiful ____ eyes.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_12_28.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[green]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[blue]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[brown]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 3 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[This is a ____.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_12_29.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[finger]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[toe]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[toenail]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[fingernail]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[This is a ____.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_12_30.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[finger]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[toe]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[toenail]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[fingernail]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[This is a ____.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_12_31.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[finger]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[toe]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[toenail]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[fingernail]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[This is a ____.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_12_32.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[finger]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[toe]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[toenail]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[fingernail]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 4 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Frank _____ the stairs.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_12_33.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[burned]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[fell down]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[cut]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[broke]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Thelma _____ her finger.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_12_34.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[burned]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[fell down]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[cut]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[broke]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Jake _____ his arm.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_12_35.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[burned]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[fell down]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[cut]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[broke]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I _____ my finger.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_12_36.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[burned]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[fell down]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[cut]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[broke]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+</activity>

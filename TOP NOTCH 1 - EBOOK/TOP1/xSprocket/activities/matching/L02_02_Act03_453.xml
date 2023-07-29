@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="matching" version="1.0" client="Longman" oae-label="ACTIVITY TYPE: Matching">
+	<title oae-label="Activity Title" oae-type="textarea" oae-rows="1">
+		<![CDATA[Matching]]>
+	</title>
+	<instructions oae-label="Instructions" oae-type="textarea" oae-rows="3">
+		<![CDATA[Match the sentence parts that go together.  Drag the first part to the correct place.]]>
+	</instructions>
+	<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</audio>
+	<matches oae-label="The items can be either text, graphic, or audio. Please include the file extension if either a graphic file or an audio file (This is how the engine will determine that the file name is not text, but a file)">
+		<match oae-label="Matching Set 1">
+			<leftitem oae-label="Left column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[I've just seen a very]]>
+			</leftitem>
+			<rightitem oae-label="Right column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[thought-provoking movie.]]>
+			</rightitem>
+		</match>
+		<match oae-label="Matching Set 2">
+			<leftitem oae-label="Left column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[We still haven't]]>
+			</leftitem>
+			<rightitem oae-label="Right column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[rented <i>Bonnie and Clyde</i>.]]>
+			</rightitem>
+		</match>
+		<match oae-label="Matching Set 3">
+			<leftitem oae-label="Left column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[Would you rather see]]>
+			</leftitem>
+			<rightitem oae-label="Right column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[a comedy or a drama?]]>
+			</rightitem>
+		</match>
+		<match oae-label="Matching Set 4">
+			<leftitem oae-label="Left column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[Lisa has just seen]]>
+			</leftitem>
+			<rightitem oae-label="Right column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[<i>Gone with the Wind</i>.]]>
+			</rightitem>
+		</match>
+		<match oae-label="Matching Set 5">
+			<leftitem oae-label="Left column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[I'd rather not]]>
+			</leftitem>
+			<rightitem oae-label="Right column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[go to the movies tonight.]]>
+			</rightitem>
+		</match>
+		<match oae-label="Matching Set 6">
+			<leftitem oae-label="Left column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[This is the third time]]>
+			</leftitem>
+			<rightitem oae-label="Right column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[he has seen that comedy.]]>
+			</rightitem>
+		</match>
+	</matches>
+</activity>

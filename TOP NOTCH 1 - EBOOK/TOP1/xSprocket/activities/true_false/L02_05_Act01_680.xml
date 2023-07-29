@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="true_false" version="1.1" client="McGraw-Hill" oae-label="ACTIVITY TYPE: TRUE/FALSE">
+
+	<!-- This activity presents the student with a series of up to 10 True/False questions on a sinlge page. -->
+
+	<title oae-label="Title">
+		<![CDATA[Activity 1]]>
+	</title>
+	<instructions oae-label="Instructions" oae-type="textarea" oae-rows="3">
+		<![CDATA[Read the article about cosmetic surgery vacations. Then click on <u>True</u> or <u>False</u> for each statement, according to the article.]]>
+	</instructions>
+	<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</graphic>
+	<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</audio>
+	<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+		<![CDATA[<b>Cosmetic Surgery Vacations: Sun, Sand, and Surgery?</b>
+	
+What comes to mind when you imagine your next vacation? Maybe your checklist includes lying in the sun on a white sandy beach, playing a round of golf, or visiting famous museums and historical sites? What about a face-lift and some liposuction? As unusual as it sounds, a growing number of travelers are adding cosmetic surgery to their vacation itinerary. In fact, cosmetic surgery vacations, which combine cosmetic surgery with a vacation in a foreign country, are the latest trend. Ads for these vacations promise not only a relaxing trip abroad, but also quick surgical procedures that can offer patients a more attractive, youthful appearance. 
+	
+For many, the best thing about a cosmetic surgery vacation is the price. Cosmetic surgery vacations take you to countries where costs for surgery are much lower. In addition, surgery vacations allow you to recover from your surgery in an exotic setting. Privacy is also a factor: by traveling abroad, it’s easier to keep the surgery a secret from friends, family, and colleagues. You don’t have to tell anyone where you’re going, or why. When you return home, friends and family will think you look great because you’ve just had a relaxing vacation.
+	
+However, medical experts caution that cosmetic surgery and vacations may not be a good match. They point out that it’s difficult to evaluate the skill, training, and experience of a doctor in a foreign country. “Of course, there are excellent cosmetic surgeons in many countries, but unfortunately there is no single international standard for quality in medicine,” says Orestes Alves, president of the International Organization of Cosmetic Surgeons. 
+
+One thing to think about is that patients can’t simply resume their normal activities right after surgery, even minor surgery. "Many people imagine themselves flying someplace exotic, paying half price for a face-lift, and then recovering on the beach," says Dr. Alves, “But the reality is that you won’t be ready to play the tourist after surgery— you need to avoid any kind of exercise and stay out of the sun. Even a long-distance flight should be avoided.” 
+	
+Finally, most cosmetic surgery vacation packages provide little or no follow-up care once you return home. If problems develop, you may not have a doctor available to answer questions and provide further care.
+	
+If you do decide to sign up for a cosmetic surgery vacation, medical experts recommend that you research the type of cosmetic surgery you are interested in, consider the risks involved, and choose your doctor carefully. “After all,” says Dr. Alves, “any kind of surgery is serious. Remember that you will be placing your life in the surgeon’s hands.”]]>
+	</reader>
+	<spacer oae-type="spacer">
+</spacer>
+
+	<!-- Use the following options to modify how the activity will be displayed. Use the first to modify the size of the font, and the following two to indicate what the headers of the "True" and "False" columns should display. -->
+
+	<fontsize oae-label="Resize Font?" oae-type="select" value="0 (Normal)" opt1="-3" opt2="-2" opt3="-1" opt4="0 (Normal)" opt5="+1" opt6="+2" opt7="+3">
+</fontsize>
+	<headertrue oae-label="True column header">
+		<![CDATA[True]]>
+	</headertrue>
+	<headerfalse oae-label="False column header">
+		<![CDATA[False]]>
+	</headerfalse>
+
+	<!-- Enter up to 10 statements and indicate if they are true or false; leave "not used" if that item will not be used. -->
+
+	<pairs oae-label="Statement Pairs:">
+		<pair oae-label="Pair 1">
+			<question oae-label="Statement">
+				<![CDATA[Cosmetic surgery vacations are becoming popular.]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="True" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+		<pair oae-label="Pair 2">
+			<question oae-label="Statement">
+				<![CDATA[Cosmetic surgery is usually more expensive in a foreign country than in your home country.]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="False" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+		<pair oae-label="Pair 3">
+			<question oae-label="Statement">
+				<![CDATA[One benefit of a cosmetic surgery vacation is that you can have surgery without other people knowing about it.]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="True" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+		<pair oae-label="Pair 4">
+			<question oae-label="Statement">
+				<![CDATA[It’s easy to get information about a foreign doctor’s experience and ability.]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="False" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+		<pair oae-label="Pair 5">
+			<question oae-label="Statement">
+				<![CDATA[Dr. Alves recommends that patients relax in the sun after surgery.]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="False" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+		<pair oae-label="Pair 6">
+			<question oae-label="Statement">
+				<![CDATA[It’s not a good idea to take a long flight soon after you have had surgery.]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="True" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+		<pair oae-label="Pair 7">
+			<question oae-label="Statement">
+				<![CDATA[One benefit of a surgery vacation is that your doctor is more available after surgery.]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="False" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+		<pair oae-label="Pair 8">
+			<question oae-label="Statement">
+				<![CDATA[There are health risks involved with any kind of surgery.]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="True" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+		<pair oae-label="Pair 9">
+			<question oae-label="Statement">
+				<![CDATA[]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="not used" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+		<pair oae-label="Pair 10">
+			<question oae-label="Statement">
+				<![CDATA[]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="not used" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+	</pairs>
+</activity>

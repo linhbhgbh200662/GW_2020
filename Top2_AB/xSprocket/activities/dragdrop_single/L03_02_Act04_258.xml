@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="dragdrop_single" version="1.0" client="McGraw-Hill" oae-label="ACTIVITY TYPE: DRAG'N'DROP TEXT">
+
+	<!-- This activity presents the student with a list of words or phrases that can be dragged into blank lines in a paragraph or series of sentences. The author can optionally specify up to 6 "distracter" words will appear in the list but are not associated to any blank space. -->
+
+	<title oae-label="Title">
+		<![CDATA[The DD Single Title]]>
+	</title>
+	<instructions oae-label="Instructions" oae-type="textarea" oae-rows="3">
+		<![CDATA[Drag the correct phrase into the conversation.]]>
+	</instructions>
+	<spacer oae-type="spacer">
+</spacer>
+
+	<!-- Use the following two options to modify how the activity will display. -->
+
+	<fontsize oae-label="Resize Font?" oae-type="select" value="0 (Normal)" opt1="-3" opt2="-2" opt3="-1" opt4="0 (Normal)" opt5="+1" opt6="+2" opt7="+3">
+</fontsize>
+	<dragrows oae-label="Rows in Word Bank">
+		<![CDATA[8]]>
+	</dragrows>
+	<spacer oae-type="spacer">
+</spacer>
+	<page oae-label="Page 1">
+
+		<!-- Write the paragraphs or sentences in the following space, using the <blank word="text"/> tag to indicate where the blank lines will go, the "word" attribute to indicate what word(s) will be dragged into that blank space. Optionally, use the "align" attribute to indicate the alignment of the word dropped into the blank space and the "alternate" attribute to display a different word on the blank line instead of the dragged text. See and test the example below. To show pop-ups use <pop hotwords="text">text that pops up here</pop>. -->
+
+				<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</audio>
+	<text oae-label="Text" oae-type="textarea" oae-rows="25">
+			<![CDATA[<b>A:</b>	I don’t know much about alternative medicine, but I’d like to learn about some more natural options.
+<b>B:</b>	You <blank word="might be"/> interested in homeopathic remedies.  They’re all natural.]]>
+		</text>
+
+		<!-- Up to 6 optional "distracter" words can be placed in the list of draggable words. These will not lock into any of the blank lines in the paragraph. Make sure you do not repeat any of the "word"s indicated in the previous space. -->
+
+		<distracters oae-label="Optional Distracters:">
+			<distracter oae-label="#1">
+				<![CDATA[must not be]]>
+			</distracter>
+			<distracter oae-label="#2">
+				<![CDATA[must not be able to]]>
+			</distracter>
+			<distracter oae-label="#3">
+				<![CDATA[must hurt]]>
+			</distracter>
+			<distracter oae-label="#4">
+				<![CDATA[might be able to]]>
+			</distracter>
+			<distracter oae-label="#5">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#6">
+				<![CDATA[]]>
+			</distracter>
+		</distracters>
+	</page>
+	<page oae-label="Page 2">
+
+		<!-- Write the paragraphs or sentences in the following space, using the <blank word="text"/> tag to indicate where the blank lines will go, the "word" attribute to indicate what word(s) will be dragged into that blank space. Optionally, use the "align" attribute to indicate the alignment of the word dropped into the blank space and the "alternate" attribute to display a different word on the blank line instead of the dragged text. See and test the example below. To show pop-ups use <pop hotwords="text">text that pops up here</pop>. -->
+
+				<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</audio>
+	<text oae-label="Text" oae-type="textarea" oae-rows="25">
+			<![CDATA[<b>A:</b>	I’m so happy I started acupuncture.  It’s a great method of treatment for me.
+<b>B:</b>	Well, you <blank word="must not be"/> afraid of needles.]]>
+		</text>
+
+		<!-- Up to 6 optional "distracter" words can be placed in the list of draggable words. These will not lock into any of the blank lines in the paragraph. Make sure you do not repeat any of the "word"s indicated in the previous space. -->
+
+		<distracters oae-label="Optional Distracters:">
+			<distracter oae-label="#1">
+				<![CDATA[might be]]>
+			</distracter>
+			<distracter oae-label="#2">
+				<![CDATA[must not be able to]]>
+			</distracter>
+			<distracter oae-label="#3">
+				<![CDATA[must hurt]]>
+			</distracter>
+			<distracter oae-label="#4">
+				<![CDATA[might be able to]]>
+			</distracter>
+			<distracter oae-label="#5">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#6">
+				<![CDATA[]]>
+			</distracter>
+		</distracters>
+	</page>
+	<page oae-label="Page 3">
+
+		<!-- Write the paragraphs or sentences in the following space, using the <blank word="text"/> tag to indicate where the blank lines will go, the "word" attribute to indicate what word(s) will be dragged into that blank space. Optionally, use the "align" attribute to indicate the alignment of the word dropped into the blank space and the "alternate" attribute to display a different word on the blank line instead of the dragged text. See and test the example below. To show pop-ups use <pop hotwords="text">text that pops up here</pop>. -->
+
+				<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</audio>
+	<text oae-label="Text" oae-type="textarea" oae-rows="25">
+			<![CDATA[<b>A:</b>	I lost a filling during dinner last night.
+<b>B:</b>	You <blank word="must not be able to"/> eat very much.]]>
+		</text>
+
+		<!-- Up to 6 optional "distracter" words can be placed in the list of draggable words. These will not lock into any of the blank lines in the paragraph. Make sure you do not repeat any of the "word"s indicated in the previous space. -->
+
+		<distracters oae-label="Optional Distracters:">
+			<distracter oae-label="#1">
+				<![CDATA[might be]]>
+			</distracter>
+			<distracter oae-label="#2">
+				<![CDATA[must not have]]>
+			</distracter>
+			<distracter oae-label="#3">
+				<![CDATA[must hurt]]>
+			</distracter>
+			<distracter oae-label="#4">
+				<![CDATA[might be able to]]>
+			</distracter>
+			<distracter oae-label="#5">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#6">
+				<![CDATA[]]>
+			</distracter>
+		</distracters>
+	</page>
+	<page oae-label="Page 4">
+
+		<!-- Write the paragraphs or sentences in the following space, using the <blank word="text"/> tag to indicate where the blank lines will go, the "word" attribute to indicate what word(s) will be dragged into that blank space. Optionally, use the "align" attribute to indicate the alignment of the word dropped into the blank space and the "alternate" attribute to display a different word on the blank line instead of the dragged text. See and test the example below. To show pop-ups use <pop hotwords="text">text that pops up here</pop>. -->
+
+				<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</audio>
+	<text oae-label="Text" oae-type="textarea" oae-rows="25">
+			<![CDATA[<b>A:</b>	I have to take my mom to the dentist this morning.  She broke a tooth.
+<b>B:</b>	Ouch! That <blank word="must hurt"/> a lot.]]>
+		</text>
+
+		<!-- Up to 6 optional "distracter" words can be placed in the list of draggable words. These will not lock into any of the blank lines in the paragraph. Make sure you do not repeat any of the "word"s indicated in the previous space. -->
+
+		<distracters oae-label="Optional Distracters:">
+			<distracter oae-label="#1">
+				<![CDATA[might be]]>
+			</distracter>
+			<distracter oae-label="#2">
+				<![CDATA[must not have]]>
+			</distracter>
+			<distracter oae-label="#3">
+				<![CDATA[must not be able to]]>
+			</distracter>
+			<distracter oae-label="#4">
+				<![CDATA[might be able to]]>
+			</distracter>
+			<distracter oae-label="#5">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#6">
+				<![CDATA[]]>
+			</distracter>
+		</distracters>
+	</page>
+	<page oae-label="Page 5">
+
+		<!-- Write the paragraphs or sentences in the following space, using the <blank word="text"/> tag to indicate where the blank lines will go, the "word" attribute to indicate what word(s) will be dragged into that blank space. Optionally, use the "align" attribute to indicate the alignment of the word dropped into the blank space and the "alternate" attribute to display a different word on the blank line instead of the dragged text. See and test the example below. To show pop-ups use <pop hotwords="text">text that pops up here</pop>. -->
+
+				<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</audio>
+	<text oae-label="Text" oae-type="textarea" oae-rows="25">
+			<![CDATA[<b>A:</b>	The doctor’s schedule is pretty busy today, but I <blank word="might be able to"/> fit you in this afternoon.
+<b>B:</b>	Thanks.  That would be great if you could.]]>
+		</text>
+
+		<!-- Up to 6 optional "distracter" words can be placed in the list of draggable words. These will not lock into any of the blank lines in the paragraph. Make sure you do not repeat any of the "word"s indicated in the previous space. -->
+
+		<distracters oae-label="Optional Distracters:">
+			<distracter oae-label="#1">
+				<![CDATA[might be]]>
+			</distracter>
+			<distracter oae-label="#2">
+				<![CDATA[must not have]]>
+			</distracter>
+			<distracter oae-label="#3">
+				<![CDATA[must not be able to]]>
+			</distracter>
+			<distracter oae-label="#4">
+				<![CDATA[must hurt]]>
+			</distracter>
+			<distracter oae-label="#5">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#6">
+				<![CDATA[]]>
+			</distracter>
+		</distracters>
+	</page>
+	<page oae-label="Page 6">
+
+		<!-- Write the paragraphs or sentences in the following space, using the <blank word="text"/> tag to indicate where the blank lines will go, the "word" attribute to indicate what word(s) will be dragged into that blank space. Optionally, use the "align" attribute to indicate the alignment of the word dropped into the blank space and the "alternate" attribute to display a different word on the blank line instead of the dragged text. See and test the example below. To show pop-ups use <pop hotwords="text">text that pops up here</pop>. -->
+
+				<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</audio>
+	<text oae-label="Text" oae-type="textarea" oae-rows="25">
+			<![CDATA[]]>
+		</text>
+
+		<!-- Up to 6 optional "distracter" words can be placed in the list of draggable words. These will not lock into any of the blank lines in the paragraph. Make sure you do not repeat any of the "word"s indicated in the previous space. -->
+
+		<distracters oae-label="Optional Distracters:">
+			<distracter oae-label="#1">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#2">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#3">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#4">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#5">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#6">
+				<![CDATA[]]>
+			</distracter>
+		</distracters>
+	</page>
+</activity>

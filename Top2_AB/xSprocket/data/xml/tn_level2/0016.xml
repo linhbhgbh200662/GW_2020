@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<page id="0016">
+<map name="Map" id="Map">
+<art type="icon">
+<coords><![CDATA[51,515]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[82]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 2 MP3 files/Unit_02/1-18_A_Vocabulary_p16.mp3]]></href>
+</art>
+<art type="icon">
+<coords><![CDATA[563,127]]></coords>
+<icon><![CDATA[grammar_booster]]></icon>
+<pFunction><![CDATA[generic_gotopage]]></pFunction>
+<scale><![CDATA[80]]></scale>
+<title><![CDATA[Go to Grammar Booster]]></title>
+<page><![CDATA[123]]></page>
+</art>
+</map>
+</page>

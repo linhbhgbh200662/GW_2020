@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page id="0043">
+<map name="Map" id="Map">
+<art type="icon" pfunction="audio_icon">
+<href><![CDATA[Top Notch 2 MP3 files/Unit_04/2-27_Conversation_model_p43.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[82]]></scale>
+<icon><![CDATA[audio_button]]></icon>
+<coords><![CDATA[51,175]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<href><![CDATA[Top Notch 2 MP3 files/Unit_04/2-28_B_Rhythm_and_intona_p43.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[82]]></scale>
+<icon><![CDATA[audio_button]]></icon>
+<coords><![CDATA[52,312]]></coords>
+</art></map></page>

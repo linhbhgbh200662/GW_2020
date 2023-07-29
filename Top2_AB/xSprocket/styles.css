@@ -1,0 +1,196 @@
+
+/* * * * *
+styles.css
+
+NB: Please be careful to leave NO SPACE between a style property name (e.g., text-align) and the colon that follows it! Also, font-family (and any other property which references a font) supports only a SINGLE font name.
+* * * * */
+
+/*
+ColorMap : color names can be created here for use in every style property below whose name includes "color"
+*/
+
+ColorMap {
+	black: #000000;
+	brown: #4C0F09;
+	white: #FFFFFF;
+	gray: #666666;
+	lightgray: #777777;
+	gray3: #CCCCCC;
+	gray4: #DADADA;
+	red: #B22113;
+	darkred: #990000;
+	darkblue: #01466F;
+	blue: #0065A4;
+	lightblue: #2163AF;
+	blue3: #000D28;
+	pink: #B30337;
+	darkgreen: #01525B;
+	green: #60998A;
+	aqua: #649C88;
+	grass: #8E9A71;
+	khaki: #8C8865;
+	tan: #C6C4B2;
+	stone: #E3E2D9;
+	aeblue: #468692;
+	background_yellow: #FDF2C7;
+	lightgreen: #03B4C7;
+	tocgreen: #018D9C;
+	assetbgyellow: #FDF2C7;
+	toc_section_green: #DCDEA4;
+	bottom_brown: #3D3217;
+	dark_red: #4C0F09;
+	tocyellow: #E79B19;
+	dark_yellow: #E79B19;
+	babyblue: #C0D1FB;
+	dark_green: #578F73;
+	blue2: #4F7098;
+	cream: #FFFFCC;
+	lightgray:#999999;
+	mudbrown: #7C5816;
+	sfred: #A72C31;
+	sf_drkBlue: #465D51;
+	sf_drkDrkGreen: #2A3730;
+	sf_screen_reader_word: #FFFF00;
+	sf_screen_reader_sentence: #FFFF00;
+	section_toc_blue: #8EA2BF;
+	blue4: #5487C1;
+	teal: #55846C;
+	lightgray2: #333333;
+	lightgray3: #C5C5C5;
+}
+
+/*
+LanguageMap : resolves language codes (see APPENDIX A for full list) to font names; if font name is that of embedded font (in shell.swf/Fonts symbol, that font is used; otherwise, the closest available device font is used. As a rule, embedded fonts are anti-aliased and device fonts are aliased. It is possible to embed aliased, bitmapped versions of a font at specific point sizes; such an aliased font will be used when the current text node's lang attribute's mapped font lines up with the corresponding textfield style's font-size to form a match. When the lang attribute is explicit, it's corresponding font always overrides the current style's font.
+
+The language code "en" will be ignored here. English text will always have the BaseTextFormat style or one of its derivatives applied to it - the 'font-family' property of the style in question will determine the font face used.
+*/
+
+LanguageMap {
+	sp: Times New Roman;
+	fr: Arial;
+	it: Tw Cen MT;
+	de: Arial;
+	ja: MS Gothic;
+}
+
+/*
+Layer Metrics Styles
+playerFullScreen, playerShowMenu: these properties only apply when the layer in question is the root layer in a stand-alone player window
+stageScaleMode: "exactFit", "showAll", "noBorder", or "noScale"
+displayZoomControl: determines whether or not zoom-in/out control is displayed
+stageAlign: "T" (top center), "B" (bottom center), "L" (center left), "R" (center right), "TL" (top left), "TR" (top right), "BL" (bottom left), "BR" (bottom right), and any other value will be (center center)
+minWidth, maxWidth, minHeight, maxHeight: these properties only apply when the layer in question is the root layer
+cellPadding: controls padding around each Cell of content (e.g., instrux, qstem, etc.)
+cellSpacing: controls spacing between Cells of content
+matSpacing: controls spacing between infra-Cell material (e.g., flashtext, flashmedia, etc.)
+borderStyle: "none", "inset", "outset", or "solid"; determines item scrollpane border styles
+showBgnd: "true" to draw layer's default background; "false" to leave it transparent
+*/
+
+App {
+	playerFullScreen:false;
+	playerShowMenu:true;
+	stageScaleMode:exactFit;
+	displayZoomControl:false;
+	stageAlign:TL;
+	minWidth:790;
+	maxWidth:1280;
+	minHeight:560;
+	maxHeight:1024;
+	tocWidth:520;
+	cellPadding:0;
+	cellSpacing:5;
+	matSpacing:5;
+}
+Act {
+	playerFullScreen:false;
+	playerShowMenu:true;
+	stageScaleMode:exactFit;
+	stageAlign:TL;
+	minWidth:300;
+	maxWidth:1280;
+	minHeight:457;
+	maxHeight:1024;
+	cellPadding:0;
+	cellSpacing:5;
+	matSpacing:5;
+	showBgnd:true;
+}
+Item {
+	playerFullScreen:false;
+	playerShowMenu:true;
+	stageScaleMode:exactFit;
+	stageAlign:TL;
+	minWidth:400;
+	maxWidth:1280;
+	minHeight:400;
+	maxHeight:1024;
+	cellPadding:0;
+	cellSpacing:10;
+	matSpacing:5;
+	borderStyle:none;
+	showBgnd:true;
+}
+
+/*
+Color Scheme
+Drives the tinting of all UI elements in default design.
+c1: drives 'background' colors - layer & popup backgrounds
+c2: drives 'foreground colors' - buttons, media controller, popup frames
+*/
+
+ColorScheme { c1:tan; c2:blue; }
+
+/*
+Component Theme
+Determines style colors for standard Flash components (e.g., ScrollPane)
+*/
+
+ComponentTheme { color:orange; bgcolor:gray; }
+
+
+/*
+BUTTON STYLE DEFINITIONS
+supported properties:
+	font-size
+	text-decoration ( normal | underline )
+	font-weight ( normal | bold )
+	font-style ( normal | italic )
+	font-family
+	color ( #RRGGBB | color name)
+	bgcolor ( #RRGGBB | color name )
+*/
+
+/*
+Button Styles
+BaseBtn: does NOT inherit from BaseTextFormat; all other Btn styles inherit from BaseBtn
+*/
+
+BaseBtn {
+	font-size: 16;
+	text-decoration: none;
+	font-weight: normal;
+	font-style: normal;
+	font-family: Tw Cen MT;
+	color: black;
+	leading: 0;
+}
+
+main_background { color:#1a5129; }
+report_background { color:#1a5129; }
+nav_button_up { color:#febe07; }
+nav_button_over { color:#febe07; }
+nav_button_down { color:#febe07; }
+
+
+double_page_background { color:#ffffff; }
+
+single_page_load_background { color:#ffffff; }
+double_page_load_background { color:#ffffff; }
+
+main_load_background { color:#ffffff; }
+
+contents_menu_entry { text-align:left; font-size:18; font-family:Myriad Pro Cond; color:#000000; }
+contents_menu_entry_bold { text-align:left; font-size:18; font-family:Myriad Pro Bold Cond; color:#000000; }
+contents_menu_entry_italic { text-align:left; font-size:18; font-family:Myriad Pro Cond It; color:#000000; }
+contents_menu_entry_bold_italic { text-align:left; font-size:18; font-family:Myriad Pro Bold Cond It; color:#000000; }

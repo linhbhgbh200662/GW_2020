@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<page id="0089">
+<map name="Map" id="Map">
+<art type="icon">
+<coords><![CDATA[50.3999999999998,48.799999999999798]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[82]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 2 MP3 files/Unit_08/4-18_A_Conversation_mode_p89.mp3]]></href>
+</art>
+<art type="icon">
+<coords><![CDATA[50.799999999999798,183.8]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[82]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 2 MP3 files/Unit_08/4-19_B_Rhythm_and_intona_p89.mp3]]></href>
+</art>
+<art type="icon">
+<coords><![CDATA[49.8999999999998,258.89999999999901]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[82]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 2 MP3 files/Unit_08/4-20_A_Pronunciation_p89.mp3]]></href>
+</art>
+</map>
+</page>

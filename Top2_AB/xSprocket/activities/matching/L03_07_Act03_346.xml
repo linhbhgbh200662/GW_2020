@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="matching" version="1.0" client="Longman" oae-label="ACTIVITY TYPE: Matching">
+	<title oae-label="Activity Title" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</title>
+	<instructions oae-label="Instructions" oae-type="textarea" oae-rows="3">
+		<![CDATA[Match the sentence parts that go together.  Drag the first part to the correct place.]]>
+	</instructions>
+	<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</audio>
+	<matches oae-label="The items can be either text, graphic, or audio. Please include the file extension if either a graphic file or an audio file (This is how the engine will determine that the file name is not text, but a file)">
+		<match oae-label="Matching Set 1">
+			<leftitem oae-label="Left column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[<font size="12">Carnival is a holiday for people</font>]]>
+			</leftitem>
+			<rightitem oae-label="Right column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[<font size="12">who love to dance.</font>]]>
+			</rightitem>
+		</match>
+		<match oae-label="Matching Set 2">
+			<leftitem oae-label="Left column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[<font size="12">Boxing Day is a holiday</font>]]>
+			</leftitem>
+			<rightitem oae-label="Right column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[<font size="12">that is observed on December 26th.</font>]]>
+			</rightitem>
+		</match>
+		<match oae-label="Matching Set 3">
+			<leftitem oae-label="Left column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[<font size="12">Take an inexpensive gift to a person</font>]]>
+			</leftitem>
+			<rightitem oae-label="Right column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[<font size="12">that you’re visiting.</font>]]>
+			</rightitem>
+		</match>
+		<match oae-label="Matching Set 4">
+			<leftitem oae-label="Left column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[<font size="12">A guest is someone</font>]]>
+			</leftitem>
+			<rightitem oae-label="Right column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[<font size="12">who is invited to a party.</font>]]>
+			</rightitem>
+		</match>
+		<match oae-label="Matching Set 5">
+			<leftitem oae-label="Left column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[<font size="12">Newlyweds are people</font>]]>
+			</leftitem>
+			<rightitem oae-label="Right column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[<font size="12">that just got married.</font>]]>
+			</rightitem>
+		</match>
+		<match oae-label="Matching Set 6">
+			<leftitem oae-label="Left column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[<font size="12">There are traditional dishes</font>]]>
+			</leftitem>
+			<rightitem oae-label="Right column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[<font size="12">that are eaten for many holidays.</font>]]>
+			</rightitem>
+		</match>
+	</matches>
+</activity>

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="concentration" version="1.0" client="Longman" oae-label="ACTIVITY TYPE: Concentration">
+	<title oae-label="Activity Title" oae-type="textarea" oae-rows="1">
+		<![CDATA[Concentration]]>
+	</title>
+	<instructions oae-label="Instructions" oae-type="textarea" oae-rows="3">
+		<![CDATA[Click on the cards.  Match the words you see with the words you hear.]]>
+	</instructions>
+	<correctFlipDelay oae-label="Delay time (milliseconds) before a correct match is cleared" oae-type="textarea" oae-rows="1" value="1000">
+		<![CDATA[1300]]>
+	</correctFlipDelay>
+	<incorrectFlipDelay oae-label="Delay time (milliseconds) before an incorrect match is flipped over" oae-type="textarea" oae-rows="1" value="2000">
+		<![CDATA[1300]]>
+	</incorrectFlipDelay>
+	<matches>
+		<match oae-label="Matching Set 1">
+			<card_one oae-label="First Card">
+				<text oae-label="Text" oae-type="textarea" oae-rows="2">
+					<![CDATA[a rug]]>
+				</text>
+				<graphic oae-label="Graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</graphic>
+				<audio oae-label="Audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</audio>
+			</card_one>
+			<card_two oae-label="Second Card">
+				<text oae-label="Text" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</text>
+				<graphic oae-label="Graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</graphic>
+				<audio oae-label="Audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+					<![CDATA[tnf_iw0708_1-2.mp3]]>
+				</audio>
+			</card_two>
+		</match>
+		<match oae-label="Matching Set 2">
+			<card_one oae-label="First Card">
+				<text oae-label="Text" oae-type="textarea" oae-rows="2">
+					<![CDATA[a mirror]]>
+				</text>
+				<graphic oae-label="Graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</graphic>
+				<audio oae-label="Audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</audio>
+			</card_one>
+			<card_two oae-label="Second Card">
+				<text oae-label="Text" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</text>
+				<graphic oae-label="Graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</graphic>
+				<audio oae-label="Audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+					<![CDATA[tnf_iw0709_1-2.mp3]]>
+				</audio>
+			</card_two>
+		</match>
+		<match oae-label="Matching Set 3">
+			<card_one oae-label="First Card">
+				<text oae-label="Text" oae-type="textarea" oae-rows="2">
+					<![CDATA[a stove]]>
+				</text>
+				<graphic oae-label="Graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</graphic>
+				<audio oae-label="Audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</audio>
+			</card_one>
+			<card_two oae-label="Second Card">
+				<text oae-label="Text" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</text>
+				<graphic oae-label="Graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</graphic>
+				<audio oae-label="Audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+					<![CDATA[tnf_iw0710_1-2.mp3]]>
+				</audio>
+			</card_two>
+		</match>
+		<match oae-label="Matching Set 4">
+			<card_one oae-label="First Card">
+				<text oae-label="Text" oae-type="textarea" oae-rows="2">
+					<![CDATA[a chair]]>
+				</text>
+				<graphic oae-label="Graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</graphic>
+				<audio oae-label="Audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</audio>
+			</card_one>
+			<card_two oae-label="Second Card">
+				<text oae-label="Text" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</text>
+				<graphic oae-label="Graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</graphic>
+				<audio oae-label="Audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+					<![CDATA[tnf_iw0711_1-2.mp3]]>
+				</audio>
+			</card_two>
+		</match>
+		<match oae-label="Matching Set 5">
+			<card_one oae-label="First Card">
+				<text oae-label="Text" oae-type="textarea" oae-rows="2">
+					<![CDATA[a lamp]]>
+				</text>
+				<graphic oae-label="Graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</graphic>
+				<audio oae-label="Audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</audio>
+			</card_one>
+			<card_two oae-label="Second Card">
+				<text oae-label="Text" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</text>
+				<graphic oae-label="Graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</graphic>
+				<audio oae-label="Audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+					<![CDATA[tnf_iw0712_1-2.mp3]]>
+				</audio>
+			</card_two>
+		</match>
+		<match oae-label="Matching Set 6">
+			<card_one oae-label="First Card">
+				<text oae-label="Text" oae-type="textarea" oae-rows="2">
+					<![CDATA[a shower]]>
+				</text>
+				<graphic oae-label="Graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</graphic>
+				<audio oae-label="Audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</audio>
+			</card_one>
+			<card_two oae-label="Second Card">
+				<text oae-label="Text" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</text>
+				<graphic oae-label="Graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</graphic>
+				<audio oae-label="Audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+					<![CDATA[tnf_iw0713_1-2.mp3]]>
+				</audio>
+			</card_two>
+		</match>
+		<match oae-label="Matching Set 7">
+			<card_one oae-label="First Card">
+				<text oae-label="Text" oae-type="textarea" oae-rows="2">
+					<![CDATA[a bookcase]]>
+				</text>
+				<graphic oae-label="Graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</graphic>
+				<audio oae-label="Audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</audio>
+			</card_one>
+			<card_two oae-label="Second Card">
+				<text oae-label="Text" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</text>
+				<graphic oae-label="Graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</graphic>
+				<audio oae-label="Audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+					<![CDATA[tnf_2e_iw0713_1-2.mp3]]>
+				</audio>
+			</card_two>
+		</match>
+		<match oae-label="Matching Set 8">
+			<card_one oae-label="First Card">
+				<text oae-label="Text" oae-type="textarea" oae-rows="2">
+					<![CDATA[a cabinet]]>
+				</text>
+				<graphic oae-label="Graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</graphic>
+				<audio oae-label="Audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</audio>
+			</card_one>
+			<card_two oae-label="Second Card">
+				<text oae-label="Text" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</text>
+				<graphic oae-label="Graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</graphic>
+				<audio oae-label="Audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+					<![CDATA[tnf_iw0715_1-2.mp3]]>
+				</audio>
+			</card_two>
+		</match>
+	</matches>
+</activity>

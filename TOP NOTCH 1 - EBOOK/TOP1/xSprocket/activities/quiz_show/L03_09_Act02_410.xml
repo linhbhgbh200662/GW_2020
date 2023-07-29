@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="quiz_show" version="1.0" client="" oae-label="ACTIVITY TYPE: QUIZ SHOW">
+	<title oae-label="Title:">
+		<![CDATA[Quiz Show]]>
+	</title>
+	<shortinst oae-label="Short Instructions:">
+		<![CDATA[Click on a box. Choose the correct answer. You have only three minutes.]]>
+	</shortinst>
+	<detailinst oae-label="Detailed Instructions:">
+		<![CDATA[Click on an amount in a category to answer a question about that topic. Click on the correct answer for each question. If your entry is correct, it will highlight in green and you will "win" the amount of money listed. If you are incorrect, you will "lose" the amount of money listed. You don't gain or lose any money for trying again. Next and Previous buttons navigate among the questions. Try to win as much money as you can!]]>
+	</detailinst>
+	<randomquestions oae-label="Randomize Questions:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomquestions>
+	<randomanswers oae-label="Randomize Answers:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomanswers>
+	<categories>
+		<category oae-lable="Category 1">
+			<![CDATA[Leadership]]>
+		</category>
+		<category oae-lable="Category 2">
+			<![CDATA[Actions in Government]]>
+		</category>
+		<category oae-lable="Category 3">
+			<![CDATA[Political Beliefs]]>
+		</category>
+		<category oae-lable="Category 4">
+			<![CDATA[Global Problems]]>
+		</category>
+	</categories>
+	<categoryquestions oae-label="Category 1 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[In _____, citizens vote for their leaders.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[a democracy]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[a government]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[a monarchy]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[a dictatorship]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Decisions about a country's laws, taxes, public services, etc, are made by _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[a democracy]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[a government]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[a monarchy]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[a dictatorship]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[A king or queen is the head of _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[a democracy]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[a government]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[a monarchy]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[a dictatorship]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[In _____, one person holds all the power.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[a democracy]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[a government]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[a monarchy]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[a dictatorship]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 2 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[In an election, people ____ to choose their leaders.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[vote]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[raise]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[prohibit]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[lower]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Some citizens want to ____ the voting age from 18 to 21.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[vote]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[raise]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[prohibit]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[lower]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[If officials _____ smoking indoors, people will have to smoke outside.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[vote]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[raise]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[prohibit]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[lower]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Leaders have decided to _____ the driving age from 18 to 16.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[vote]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[raise]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[prohibit]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[lower]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 3 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Bob is _____. He generally supports changes that let people do what they want.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[a liberal]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[a reactionary]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[a moderate]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[a radical]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[As _____, Ian strongly opposes almost any social changes.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[a liberal]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[a reactionary]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[a moderate]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[a radical]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Cindy is more of _____; her political beliefs are reasonable, not extreme.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[a liberal]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[a reactionary]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[a moderate]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[a radical]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[As _____, Maureen is in favor of complete social change.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[a liberal]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[a reactionary]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[a moderate]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[a radical]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 4 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[_____ refers to the use of violence for political reasons.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[Terrorism]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[Racism]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[Corruption]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[Poverty]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[_____ is the unfair treatment of people because of their physical features, especially skin color.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[Terrorism]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[Racism]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[Corruption]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[Poverty]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[_____ is dishonest or illegal behavior, especially by someone with power.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[Terrorism]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[Racism]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[Corruption]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[Poverty]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[_____ refers to being extremely poor and lacking basic necessities.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[Terrorism]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[Racism]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[Corruption]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[Poverty]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+</activity>

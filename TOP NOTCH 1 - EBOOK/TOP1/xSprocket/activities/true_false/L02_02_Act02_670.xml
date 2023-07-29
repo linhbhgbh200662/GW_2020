@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="true_false" version="1.1" client="McGraw-Hill" oae-label="ACTIVITY TYPE: TRUE/FALSE">
+
+	<!-- This activity presents the student with a series of up to 10 True/False questions on a sinlge page. -->
+
+	<title oae-label="Title">
+		<![CDATA[Activity 2]]>
+	</title>
+	<instructions oae-label="Instructions" oae-type="textarea" oae-rows="3">
+		<![CDATA[Read the article about violence in movies. Then click on <u>True</u> or <u>False</u> for each statement, according to the article.]]>
+	</instructions>
+	<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</graphic>
+	<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</audio>
+	<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+		<![CDATA[<b>Can violent movies be dangerous?</b>
+
+     Before the 1960s, most movies did not show much graphic violence. When fighting or shooting occurred on the screen, it was clean: Bang! You’re dead! The victim fell to the ground and died, perhaps after speaking a few final words. The viewer never saw blood or suffering. But in the late 60s filmmakers such as Arthur Penn and Sam Peckinpah began making movies with more graphic violence, such as <i>Bonnie and Clyde</i> and <i>The Wild Bunch</i>. They believed that if audiences could see how truly horrible real violence was, people would be less violent in their own lives. 
+     Today, special effects technology has made it possible to create very realistic images of bloodshed and violence. Steven Prince, author of <i>Savage Cinema: Sam Peckinpah and the Rise of Ultraviolent Movies</i>, describes the difference between early movies and the movies of today “...filmmakers can create any image that they can dream up.” So, Prince believes, because of the technology, movies today have become more and more violent and bloody. 
+     Some people are worried that viewing a lot of violence in movies and video games can be dangerous. They feel that it can make violence seem normal and can cause people to imitate the violent behavior, to do the same thing themselves. Other people disagree. They believe that showing violence is honest and can even be helpful. 
+     One popular South American filmmaker asks why violent images on the screen are a problem since we live in such a violent world.
+     "Just open any newspaper," he says. "Any newspaper is much more violent. And those are true stories about what happens in real life. Or open any history book and read about what happens when a people are conquered."
+     "There's so much violence right now." says a well-known European actress. "And maybe this is the way that filmmakers speak against violence: by making violent movies."]]>
+	</reader>
+	<spacer oae-type="spacer">
+</spacer>
+
+	<!-- Use the following options to modify how the activity will be displayed. Use the first to modify the size of the font, and the following two to indicate what the headers of the "True" and "False" columns should display. -->
+
+	<fontsize oae-label="Resize Font?" oae-type="select" value="0 (Normal)" opt1="-3" opt2="-2" opt3="-1" opt4="0 (Normal)" opt5="+1" opt6="+2" opt7="+3">
+</fontsize>
+	<headertrue oae-label="True column header">
+		<![CDATA[True]]>
+	</headertrue>
+	<headerfalse oae-label="False column header">
+		<![CDATA[False]]>
+	</headerfalse>
+
+	<!-- Enter up to 10 statements and indicate if they are true or false; leave "not used" if that item will not be used. -->
+
+	<pairs oae-label="Statement Pairs:">
+		<pair oae-label="Pair 1">
+			<question oae-label="Statement">
+				<![CDATA[Movies have always been very violent.]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="False" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+		<pair oae-label="Pair 2">
+			<question oae-label="Statement">
+				<![CDATA[Graphic violence has been common since Bonnie and Clyde and The Wild Bunch.]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="True" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+		<pair oae-label="Pair 3">
+			<question oae-label="Statement">
+				<![CDATA[Peckinpah and Penn thought that violence on the screen can never be good.]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="False" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+		<pair oae-label="Pair 4">
+			<question oae-label="Statement">
+				<![CDATA[Peckinpah and Penn thought that violent movies would make people behave more violently in their own lives.]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="False" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+		<pair oae-label="Pair 5">
+			<question oae-label="Statement">
+				<![CDATA[The South American filmmaker feels that the newspaper is more violent than his movies.]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="True" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+		<pair oae-label="Pair 6">
+			<question oae-label="Statement">
+				<![CDATA[Everyone agrees that graphic violence on the movie screen is OK.]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="False" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+		<pair oae-label="Pair 7">
+			<question oae-label="Statement">
+				<![CDATA[]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="not used" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+		<pair oae-label="Pair 8">
+			<question oae-label="Statement">
+				<![CDATA[]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="not used" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+		<pair oae-label="Pair 9">
+			<question oae-label="Statement">
+				<![CDATA[]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="not used" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+		<pair oae-label="Pair 10">
+			<question oae-label="Statement">
+				<![CDATA[]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="not used" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+	</pairs>
+</activity>

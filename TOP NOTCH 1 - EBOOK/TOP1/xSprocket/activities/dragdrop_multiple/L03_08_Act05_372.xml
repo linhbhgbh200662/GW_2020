@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="dragdrop_multiple">
+	<title oae-label="Title">
+		<![CDATA[Drag and Drop Multi]]>
+	</title>
+	<instructions oae-label="Instructions" oae-type="textarea" oae-rows="3">
+		<![CDATA[Drag the correct word(s) into each sentence.]]>
+	</instructions>
+	<spacer oae-type="spacer">
+</spacer>
+
+	<!-- Enter the text using <blank word="the word"/> syntax for the blank words/phrases. Enter optional distracters. -->
+
+
+	<!-- There can be up to 3 blanks/distracters, e.g. one blank, one distracter, two blanks and one distracter, one blank two distracters, three blanks and no distracters, etc. -->
+
+	<question>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</audio>
+	<text>
+			<![CDATA[If you care about quality, then look for a <blank word="first-rate"/> &nbsp; product.]]>
+		</text>
+		<distracter1>
+			<![CDATA[cutting-edge]]>
+		</distracter1>
+		<distracter2>
+			<![CDATA[]]>
+		</distracter2>
+	</question>
+	<question>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</audio>
+	<text>
+			<![CDATA[Henry <blank word="would"/> &nbsp; tell us the truth if he knew it.]]>
+		</text>
+		<distracter1>
+			<![CDATA[will]]>
+		</distracter1>
+		<distracter2>
+			<![CDATA[]]>
+		</distracter2>
+	</question>
+	<question>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</audio>
+	<text>
+			<![CDATA[I don’t care much about technology. In fact, <blank word="low-tech"/> &nbsp; products are fine with me.]]>
+		</text>
+		<distracter1>
+			<![CDATA[efficient]]>
+		</distracter1>
+		<distracter2>
+			<![CDATA[]]>
+		</distracter2>
+	</question>
+	<question>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</audio>
+	<text>
+			<![CDATA[If you <blank word="hadn’t shown"/> &nbsp; me that website, I wouldn’t have known what to buy.]]>
+		</text>
+		<distracter1>
+			<![CDATA[didn’t show]]>
+		</distracter1>
+		<distracter2>
+			<![CDATA[]]>
+		</distracter2>
+	</question>
+	<question>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</audio>
+	<text>
+			<![CDATA[I guess I'll just have to <blank word="bite the bullet"/> and do it.]]>
+		</text>
+		<distracter1>
+			<![CDATA[eating me alive]]>
+		</distracter1>
+		<distracter2>
+			<![CDATA[]]>
+		</distracter2>
+	</question>
+	<question>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</audio>
+	<text>
+			<![CDATA[No one has a collection like Katie’s. Hers is very <blank word="unique"/> .]]>
+		</text>
+		<distracter1>
+			<![CDATA[high-end]]>
+		</distracter1>
+		<distracter2>
+			<![CDATA[]]>
+		</distracter2>
+	</question>
+	<question>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</audio>
+	<text>
+			<![CDATA[That loud music is driving me <blank word="crazy"/> .]]>
+		</text>
+		<distracter1>
+			<![CDATA[ashamed]]>
+		</distracter1>
+		<distracter2>
+			<![CDATA[]]>
+		</distracter2>
+	</question>
+	<question>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</audio>
+	<text>
+			<![CDATA[]]>
+		</text>
+		<distracter1>
+			<![CDATA[]]>
+		</distracter1>
+		<distracter2>
+			<![CDATA[]]>
+		</distracter2>
+	</question>
+	<question>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</audio>
+	<text>
+			<![CDATA[]]>
+		</text>
+		<distracter1>
+			<![CDATA[]]>
+		</distracter1>
+		<distracter2>
+			<![CDATA[]]>
+		</distracter2>
+	</question>
+	<question>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</audio>
+	<text>
+			<![CDATA[]]>
+		</text>
+		<distracter1>
+			<![CDATA[]]>
+		</distracter1>
+		<distracter2>
+			<![CDATA[]]>
+		</distracter2>
+	</question>
+</activity>

@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="karaoke" version="1.0" client="Longman" oae-label="ACTIVITY TYPE: Karaoke">
+	<video oae-label="Video File" oae-type="textarea" oae-rows="1">
+<![CDATA[tn1_06_typday.flv]]> 
+	</video>
+	<video_duration>
+	<![CDATA[148]]>
+	</video_duration>
+	<transcript oae-label="Transcript">
+		<line oae-label="Line 1">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[The Couch Potato sits around.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[He eats junk food by the pound.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[7.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[It's just a typical day.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[10.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[Watching as the world goes by,]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[15]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[he's out of shape and wonders why.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[17]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[It's just a typical day.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[20]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[Every night he dreams]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[25]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[that he's skydiving through the air.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[26.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[And sometimes you appear.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[31.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[He says, "What are you doing here?"]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[36.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[He cleans the house and plays guitar,]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[41.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[takes a shower, drives the car.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[44.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[It's just a typical day.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[47]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[He watches TV all alone,]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[51.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[reads and sleeps, talks on the phone.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[54]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[It's just a typical day.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[57]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[Every night he dreams]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[61.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[ that he's skydiving through the air.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[63.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[And sometimes you appear.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[68.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[He says, "What are you doing here?"]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[73]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[I'm sorry,]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[78]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[Mr. Couch Potato's resting right now.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[79.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[Can he call you back?]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[83]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[He usually lies down]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[88]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[every day of the week,]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[90.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[and he always has to have a snack.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[93]]> 
+			</time>	
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[Now all his dreams are coming true.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[100.5]]> 
+			</time>	
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[He's making plans to be with you.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[103]]> 
+			</time>		
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[It's just a typical day.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[106]]> 
+			</time>	
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[He goes dancing once a week.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[110.5]]> 
+			</time>	
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[He's at the theater as we speak!]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[112.5]]> 
+			</time>	
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[It's just a typical day.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[115.5]]> 
+			</time>	
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[Every night he dreams]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[120.5]]> 
+			</time>		
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[that he's skydiving through the air.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[122]]> 
+			</time>	
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[And sometimes you appear.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[127]]> 
+			</time>	
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[He says, "What are you doing here?"]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[132]]> 
+			</time>
+			</line>
+	</transcript>
+</activity>

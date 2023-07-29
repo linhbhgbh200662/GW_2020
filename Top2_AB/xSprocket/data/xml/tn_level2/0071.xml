@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page id="0071">
+<map name="Map" id="Map">
+<art type="icon" pfunction="audio_icon">
+<coords><![CDATA[52,21]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<scale><![CDATA[82]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 2 MP3 files/Unit_06/3-34_Listen_to_personal_p71.mp3]]></href>
+</art></map></page>

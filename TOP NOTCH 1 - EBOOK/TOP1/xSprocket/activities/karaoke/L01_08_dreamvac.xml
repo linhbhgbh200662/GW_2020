@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="karaoke" version="1.0" client="Longman" oae-label="ACTIVITY TYPE: Karaoke">
+	<video oae-label="Video File" oae-type="textarea" oae-rows="1">
+<![CDATA[tn1_08_dreamvac.flv]]> 
+	</video>
+	<video_duration>
+	<![CDATA[177]]>
+	</video_duration>
+	<transcript oae-label="Transcript">
+		<line oae-label="Line 1">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[The ride was bumpy]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[9]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[and much too long.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[11]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[It was pretty boring.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[13]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[It felt so wrong.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[15.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[I slept all night,]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[18]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[and it rained all day.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[20]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[We left the road,]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[22.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[and we lost the way.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[24.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[Then you came along]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[26.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[and you took my hand.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[29]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[You whispered words]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[31.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[I could understand.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[33.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[On my dream vacation,]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[36]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[I dream of you.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[38.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[I don't ever want to wake up.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[40.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[On my dream vacation,]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[45]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[this much is true:]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[47.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[I don't ever want it to stop.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[50]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[The food was awful.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[54.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[They stole my purse.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[56.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[The whole two weeks went]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[59]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[from bad to worse.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[61]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[They canceled my ticket.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[63.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[I missed my flight.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[66]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[They were so unfriendly]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[67.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[it just wasn't right.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[70.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[So I called a taxi,]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[72.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[and I got inside,]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[74.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[and there you were,]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[77]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[sitting by my side.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[79]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[On my dream vacation,]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[81.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[I dream of you.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[84]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[I don't ever want to wake up.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[86.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[On my dream vacation,]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[90.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[this much is true:]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[93]]> 
+			</time>	
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[I don't ever want it to stop.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[95.5]]> 
+			</time>		
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[You were so unusual.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[100]]> 
+			</time>		
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[The day was so exciting.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[104.5]]> 
+			</time>		
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[I opened up my eyes,]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[109.5]]> 
+			</time>		
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[and you were gone.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[112.5]]> 
+			</time>		
+	</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[I waited for hours.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[122.5]]> 
+			</time>		
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[You never called.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[125]]> 
+			</time>		
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[I watched TV]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[127.5]]> 
+			</time>		
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[and looked at the walls.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[129.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[Where did you go to?]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[132]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[Why weren't you near?]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[134]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[Did you have a reason to disappear?]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[136.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[So I flew a plane to the south of France,]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[140.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[and I heard you say,]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[145.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA["Would you like to dance?"]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[147.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[On my dream vacation,]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[150]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[I dream of you.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[152.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[I don't ever want to wake up.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[155]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[On my dream vacation,]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[159]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[this much is true:]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[161.5]]> 
+			</time>
+		</line>
+		<line oae-label="Line">
+			<text oae-label="Text" oae-type="textarea" oae-rows="2">
+<![CDATA[I don't ever want it to stop.]]> 
+			</text>
+			<time oae-label="Time" oae-type="textarea" oae-rows="1">
+<![CDATA[164]]> 
+			</time>	
+			</line>
+	</transcript>
+</activity>

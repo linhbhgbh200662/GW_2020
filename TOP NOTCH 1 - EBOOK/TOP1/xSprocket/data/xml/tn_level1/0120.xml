@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page id="0120">
+<map name="Map" id="Map">
+<art type="icon" pfunction="audio_icon">
+<scale><![CDATA[80]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 10/5-33 A Listening compr p120.mp3]]></href>
+<icon><![CDATA[audio_button]]></icon>
+<coords><![CDATA[53,89]]></coords>
+</art><art type="icon" pfunction="generic_gotopage">
+<page><![CDATA[148]]></page>
+<scale><![CDATA[80]]></scale>
+<title><![CDATA[Go to Writing Booster]]></title>
+<icon><![CDATA[writing_booster]]></icon>
+<coords><![CDATA[471,674]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<scale><![CDATA[80]]></scale>
+<title><![CDATA[Play Karaoke Version]]></title>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 10/5-35 Karaoke Shopping f p120.mp3]]></href>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<coords><![CDATA[441,529]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<scale><![CDATA[80]]></scale>
+<title><![CDATA[Play Song]]></title>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 10/5-34 Song Shopping for p120.mp3]]></href>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<coords><![CDATA[397,529]]></coords>
+</art></map></page>

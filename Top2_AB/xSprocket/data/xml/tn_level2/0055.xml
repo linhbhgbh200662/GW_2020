@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<page id="0055">
+<map name="Map" id="Map">
+<art type="icon">
+<coords><![CDATA[49.8999999999998,269.89999999999901]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[82]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 2 MP3 files/Unit_05/3-11_A_Pronunciation_p55.mp3]]></href>
+</art>
+</map>
+</page>

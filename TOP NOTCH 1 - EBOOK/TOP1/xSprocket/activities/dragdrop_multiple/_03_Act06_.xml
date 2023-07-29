@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="dragdrop_multiple">
+	<title oae-label="Title">
+		<![CDATA[Drag and Drop Multi]]>
+	</title>
+	<instructions oae-label="Instructions" oae-type="textarea" oae-rows="3">
+		<![CDATA[Drag the correct word into each sentence.]]>
+	</instructions>
+	<spacer oae-type="spacer">
+</spacer>
+
+	<!-- Enter the text using <blank word="the word"/> syntax for the blank words/phrases. Enter optional distracters. -->
+
+
+	<!-- There can be up to 3 blanks/distracters, e.g. one blank, one distracter, two blanks and one distracter, one blank two distracters, three blanks and no distracters, etc. -->
+
+	<question>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</audio>
+	<text>
+			<![CDATA[If you’re in a hurry, go to Quick Cuts. They’re incredibly __________. fast 	]]>
+		</text>
+		<distracter1>
+			<![CDATA[helpful ]]>
+		</distracter1>
+		<distracter2>
+			<![CDATA[]]>
+		</distracter2>
+	</question>
+	<question>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</audio>
+	<text>
+			<![CDATA[If you’re looking for ideas for your menu, talk to Katie’s Catering Service. They’re very __________ when it comes to suggesting types of food.		helpful]]>
+		</text>
+		<distracter1>
+			<![CDATA[honest]]>
+		</distracter1>
+		<distracter2>
+			<![CDATA[]]>
+		</distracter2>
+	</question>
+	<question>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</audio>
+	<text>
+			<![CDATA[When I need something printed or copied quickly, I always go to The Paper Shop. They are so __________. efficient They never make you wait more than a minute.]]>
+		</text>
+		<distracter1>
+			<![CDATA[reasonable ]]>
+		</distracter1>
+		<distracter2>
+			<![CDATA[]]>
+		</distracter2>
+	</question>
+	<question>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</audio>
+	<text>
+			<![CDATA[I totally trust my mechanic. He’s always been completely __________ about the repairs on my car.	honest	]]>
+		</text>
+		<distracter1>
+			<![CDATA[efficient]]>
+		</distracter1>
+		<distracter2>
+			<![CDATA[]]>
+		</distracter2>
+	</question>
+	<question>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</audio>
+	<text>
+			<![CDATA[Take your blouse to Susie’s Stitches if you want to be sure that it will be done on time. Susie is extremely __________reliable and always has things ready when she promises.]]>
+		</text>
+		<distracter1>
+			<![CDATA[professional]]>
+		</distracter1>
+		<distracter2>
+			<![CDATA[]]>
+		</distracter2>
+	</question>
+	<question>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</audio>
+	<text>
+			<![CDATA[If you really want the invitations to look good, then I’d have them done by a __________ professionalprinting service. Don’t do them on your own home computer.	]]>
+		</text>
+		<distracter1>
+			<![CDATA[helpful]]>
+		</distracter1>
+		<distracter2>
+			<![CDATA[]]>
+		</distracter2>
+	</question>
+	<question>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</audio>
+	<text>
+			<![CDATA[]]>
+		</text>
+		<distracter1>
+			<![CDATA[]]>
+		</distracter1>
+		<distracter2>
+			<![CDATA[]]>
+		</distracter2>
+	</question>
+	<question>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</audio>
+	<text>
+			<![CDATA[]]>
+		</text>
+		<distracter1>
+			<![CDATA[]]>
+		</distracter1>
+		<distracter2>
+			<![CDATA[]]>
+		</distracter2>
+	</question>
+	<question>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</audio>
+	<text>
+			<![CDATA[]]>
+		</text>
+		<distracter1>
+			<![CDATA[]]>
+		</distracter1>
+		<distracter2>
+			<![CDATA[]]>
+		</distracter2>
+	</question>
+	<question>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</audio>
+	<text>
+			<![CDATA[]]>
+		</text>
+		<distracter1>
+			<![CDATA[]]>
+		</distracter1>
+		<distracter2>
+			<![CDATA[]]>
+		</distracter2>
+	</question>
+</activity>

@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="quiz_show" version="1.0" client="" oae-label="ACTIVITY TYPE: QUIZ SHOW">
+	<title oae-label="Title:">
+		<![CDATA[Quiz Show]]>
+	</title>
+	<shortinst oae-label="Short Instructions:">
+		<![CDATA[Click on a box. Choose the correct answer. You have only three minutes.]]>
+	</shortinst>
+	<detailinst oae-label="Detailed Instructions:">
+		<![CDATA[Click on an amount in a category to answer a question about that topic. Click on the correct answer for each question. If your entry is correct, it will highlight in green and you will "win" the amount of money listed. If you are incorrect, you will "lose" the amount of money listed. You don't gain or lose any money for trying again. Next and Previous buttons navigate among the questions. Try to win as much money as you can!]]>
+	</detailinst>
+	<randomquestions oae-label="Randomize Questions:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomquestions>
+	<randomanswers oae-label="Randomize Answers:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomanswers>
+	<categories>
+		<category oae-lable="Category 1">
+			<![CDATA[Comparatives]]>
+		</category>
+		<category oae-lable="Category 2">
+			<![CDATA[<u>Should</u> or <u>could</u>?]]>
+		</category>
+		<category oae-lable="Category 3">
+			<![CDATA[Airline passenger information]]>
+		</category>
+		<category oae-lable="Category 4">
+			<![CDATA[Travel language]]>
+		</category>
+	</categories>
+	<categoryquestions oae-label="Category 1 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[An express is faster than _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[a local]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[a taxi]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[an aisle seat]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[a direct flight]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[A limousine is more comfortable than _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[a local]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[a taxi]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[an aisle seat]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[a direct flight]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[A window seat is more scenic than _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[a local]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[a taxi]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[an aisle seat]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[a direct flight]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[A non-stop flight is more convenient than _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[a local]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[a taxi]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[an aisle seat]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[a direct flight]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 2 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[You _____ be at the airport two hours before your flight.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[should]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[could]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[shouldn’t]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[couldn’t]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[You _____ rent a car, but it’s easier to take a taxi.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[should]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[could]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[shouldn’t]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[couldn’t]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[You _____ take the local bus.  It’s very slow.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[should]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[could]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[shouldn’t]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[couldn’t]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I _____ buy a ticket.  The flight was overbooked.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[should]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[could]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[shouldn’t]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[couldn’t]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 3 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I'll call you when I arrive.  You don't have to meet me at the _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[gate]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[boarding pass]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[security]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[passengers]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[You have to give your _____ to the agent.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[gate]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[boarding pass]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[security]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[passengers]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[You have to open your luggage when you go through _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[gate]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[boarding pass]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[security]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[passengers]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[A flight is overbooked when there are more _____ than seats.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[gate]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[boarding pass]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[security]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[passengers]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 4 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Can I still _____ the 5:30 train?]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[make]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[left]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[check]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[stay]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[It _____ two minutes ago.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[make]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[left]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[check]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[stay]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Let me _____ what time I arrive.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[make]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[left]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[check]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[stay]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[How long are you going to _____?]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[make]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[left]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[get in]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[stay]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+</activity>

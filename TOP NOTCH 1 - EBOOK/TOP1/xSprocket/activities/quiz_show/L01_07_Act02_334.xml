@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="quiz_show" version="1.0" client="" oae-label="ACTIVITY TYPE: QUIZ SHOW">
+	<title oae-label="Title:">
+		<![CDATA[Quiz Show]]>
+	</title>
+	<shortinst oae-label="Short Instructions:">
+		<![CDATA[Click on a box. Choose the correct answer. You have only three minutes.]]>
+	</shortinst>
+	<detailinst oae-label="Detailed Instructions:">
+		<![CDATA[Click on an amount in a category to answer a question about that topic. Click on the correct answer for each question. If your entry is correct, it will highlight in green and you will "win" the amount of money listed. If you are incorrect, you will "lose" the amount of money listed. You don't gain or lose any money for trying again. Next and Previous buttons navigate among the questions. Try to win as much money as you can!]]>
+	</detailinst>
+	<randomquestions oae-label="Randomize Questions:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomquestions>
+	<randomanswers oae-label="Randomize Answers:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomanswers>
+	<categories>
+		<category oae-lable="Category 1">
+			<![CDATA[Types of travel]]>
+		</category>
+		<category oae-lable="Category 2">
+			<![CDATA[Problems on a trip]]>
+		</category>
+		<category oae-lable="Category 3">
+			<![CDATA[Simple past tense]]>
+		</category>
+		<category oae-lable="Category 4">
+			<![CDATA[Adjective for travel conditions]]>
+		</category>
+	</categories>
+	<categoryquestions oae-label="Category 1 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[We traveled by plane.  The _____ was really bumpy.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[flight]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[drive]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[cruise]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[train trip]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[He took a ____ on the Baltic Sea. It was so exciting!]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[flight]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[drive]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[cruise]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[train trip]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[We traveled by car.  The _____ was so boring.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[flight]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[drive]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[cruise]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[train trip]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I took a _____ from Northern Italy to Southern Italy. It was more expensive than going by car, but I didn't want to drive.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[flight]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[drive]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[cruise]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[train trip]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 2 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[The food in the hotel restaurant was _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[terrible]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[unfriendly]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[lost]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[stole]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[The taxi drivers were not very nice.  They were really _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[amazing]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[unfriendly]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[lost]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[stole]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[The airline _____ my luggage. ]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[terrible]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[unfriendly]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[lost]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[stole]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Someone _____ my wallet.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[terrible]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[unfriendly]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[warm]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[stole]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 3 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I _____ my husband in Eastern Europe.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[met]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[went]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[had]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[arrived]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[They _____ swimming every day in Phuket.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[met]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[went]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[had]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[arrived]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[She _____ a great time in Mexico.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[met]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[went]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[had]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[arrived]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[His bus _____ at 8:15.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[met]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[went]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[had]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[arrived]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 4 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[The flight was only two hours.  It was really _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[short]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[long]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[comfortable]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[scary]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[The bus trip took ten hours.  It was _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[short]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[long]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[comfortable]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[scary]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Our seats were quite big.  It was so _____ that we fell asleep.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[short]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[long]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[comfortable]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[scary]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[We hit a terrible storm and our flight was really bumpy.  It was pretty _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[short]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[long]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[comfortable]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[scary]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+</activity>

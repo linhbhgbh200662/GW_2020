@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="quiz_show" version="1.0" client="" oae-label="ACTIVITY TYPE: QUIZ SHOW">
+	<title oae-label="Title:">
+		<![CDATA[Quiz Show]]>
+	</title>
+	<shortinst oae-label="Short Instructions:">
+		<![CDATA[Click on a box. Choose the correct answer. You have only three minutes.]]>
+	</shortinst>
+	<detailinst oae-label="Detailed Instructions:">
+		<![CDATA[Click on an amount in a category to answer a question about that topic. Click on the correct answer for each question. If your entry is correct, it will highlight in green and you will "win" the amount of money listed. If you are incorrect, you will "lose" the amount of money listed. You don't gain or lose any money for trying again. Next and Previous buttons navigate among the questions. Try to win as much money as you can!]]>
+	</detailinst>
+	<randomquestions oae-label="Randomize Questions:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomquestions>
+	<randomanswers oae-label="Randomize Answers:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomanswers>
+	<categories>
+		<category oae-lable="Category 1">
+			<![CDATA[<u>some</u> / <u>any</u> / <u>many</u> / <u>much</u>]]>
+		</category>
+		<category oae-lable="Category 2">
+			<![CDATA[Salon services]]>
+		</category>
+		<category oae-lable="Category 3">
+			<![CDATA[Reading a store directory]]>
+		</category>
+		<category oae-lable="Category 4">
+			<![CDATA[Ways to improve appearance]]>
+		</category>
+	</categories>
+	<categoryquestions oae-label="Category 1 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[<b>A:</b> Can I use your toothpaste?
+<b>B:</b> I'm sorry, I don't have _____ left.  I ran out this morning.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[some]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[much]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[many]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[any]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[<b>A:</b> It's very sunny today.
+<b>B:</b> We should buy _____ sunscreen.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[some]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[much]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[many]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[any]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[<b>A:</b> I don't use _____ makeup.  I just wear lipstick.
+<b>B:</b> You look good that way.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[some]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[much]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[many]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[any]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[<b>A:</b> There aren't ____ people working at the salon today.
+<b>B:</b> I know.  I had to wait a long time to get a haircut.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[some]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[much]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[many]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[any]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 2 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[A ____ can make your face feel soft and smooth.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[manicure]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[pedicure]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[massage]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[facial]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[My fingernails are a mess.  I really need a ____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[manicure]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[pedicure]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[massage]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[facial]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I've been so busy and need to relax.  I think I'll get a ____ this weekend.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[manicure]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[pedicure]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[massage]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[facial]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[You’d better get a ____.  Your toenails are too long.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[manicure]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[pedicure]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[massage]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[facial]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 3 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Conditioner is in aisle ____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[tn2_5_17.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[one]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[two]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[three]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[four]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Aspirin is in aisle ____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[tn2_5_17.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[one]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[two]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[three]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[four]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Dental floss is in aisle ____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[tn2_5_17.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[one]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[two]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[three]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[four]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Nail polish is in aisle ____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[tn2_5_17.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[one]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[two]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[three]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[four]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 4 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[<b>A:</b> I have too much hair on my body.  Should I try ____?
+<b>B:</b> Before you do that, try a depilatory cream first.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[diet]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[hair removal]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[hair restoration]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[chemical peel]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[<b>A:</b> 	I’m thinking of getting a face-lift.
+<b>B:</b> 	Really?  I’ve heard that a ____ can improve
+ 	your skin without surgery.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[diet]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[hair removal]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[hair restoration]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[chemical peel]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[<b>A:</b> What’s the safest way to lose weight? 
+<b>B:</b> Exercise and ____.  But they’re not the easiest.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[diet]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[hair removal]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[hair restoration]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[chemical peel]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[<b>A:</b> I’m going bald.  What should I do?
+<b>B:</b> You may want to try ____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[diet]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[hair removal]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[hair restoration]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[chemical peel]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+</activity>

@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="quiz_show" version="1.0" client="" oae-label="ACTIVITY TYPE: QUIZ SHOW">
+	<title oae-label="Title:">
+		<![CDATA[Quiz Show]]>
+	</title>
+	<shortinst oae-label="Short Instructions:">
+		<![CDATA[Click on a box. Choose the correct answer. You have only three minutes.]]>
+	</shortinst>
+	<detailinst oae-label="Detailed Instructions:">
+		<![CDATA[Click on an amount in a category to answer a question about that topic. Click on the correct answer for each question. If your entry is correct, it will highlight in green and you will "win" the amount of money listed. If you are incorrect, you will "lose" the amount of money listed. You don't gain or lose any money for trying again. Next and Previous buttons navigate among the questions. Try to win as much money as you can!]]>
+	</detailinst>
+	<randomquestions oae-label="Randomize Questions:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomquestions>
+	<randomanswers oae-label="Randomize Answers:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomanswers>
+	<categories>
+		<category oae-lable="Category 1">
+			<![CDATA[Possessive pronouns]]>
+		</category>
+		<category oae-lable="Category 2">
+			<![CDATA[Conditional sentences]]>
+		</category>
+		<category oae-lable="Category 3">
+			<![CDATA[Moral dilemmas]]>
+		</category>
+		<category oae-lable="Category 4">
+			<![CDATA[Personal values]]>
+		</category>
+	</categories>
+	<categoryquestions oae-label="Category 1 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[That is Caroline's purse.  It's ____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[mine]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[theirs]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[ours]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[hers]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[That car belongs to my sister and me.  It's ____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[mine]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[theirs]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[ours]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[hers]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[The green house belongs to my mom and my dad.  It's ____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[mine]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[theirs]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[ours]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[hers]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Those are my gloves.  They're ____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[mine]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[theirs]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[ours]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[hers]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 2 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I would correct that mistake if I _____ you.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[return]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[found]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[leaves]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[were]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[If you _____ $100 on the ground, what would you do with it?]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[return]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[found]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[leaves]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[were]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[She will forget her purse if she _____ it there.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[return]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[found]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[leaves]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[were]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[If you found my suitcase, would you ____ it to me?]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[return]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[found]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[leaves]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[were]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 3 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[We had two desserts and two coffees, but the check only showed two coffees.  They ____ us for the desserts.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[undercharged]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[didn't charge]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[too much change]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[ordered]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[The price tag on the shoes read $120, but the bill showed $100.  They _____ me.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[undercharged]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[didn't charge]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[too much change]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[ordered]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[The book cost $18. I gave the clerk $20, and he gave me $9.  He gave me ____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[undercharged]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[didn't charge]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[too much change]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[ordered]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I paid for one shirt, but they sent me two shirts.  They sent me more than I ____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[undercharged]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[didn't charge]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[too much change]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[ordered]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 4 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[<b>A:</b>	Men are better than women in math and science.
+<b>B:</b>	That is such a _____ comment!]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[sexist]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[old-fashioned]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[modesty]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[double standard]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[<b>A:</b>	My grandmother thinks all women should get married and have children.
+<b>B:</b>	She's so _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[sexist]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[old-fashioned]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[modesty]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[double standard]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[<b>A:</b>	Teenage girls show off their bodies too much.
+<b>B:</b>	I agree.  Nowadays _____ is definitely not popular.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[sexist]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[old-fashioned]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[modesty]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[double standard]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[<b>A:</b>	Sally, I want you back home at 10:00 P.M.
+<b>B:</b>	But, Mom!  That is such a _____!  Brian gets to stay out until midnight!]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[sexist]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[old-fashioned]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[modesty]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[double standard]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+</activity>

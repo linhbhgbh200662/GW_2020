@@ -1,0 +1,70 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    color: #fff;
+    background-color: red;
+    width: 960px;
+    margin: 0 auto;
+}
+h1, h2, h3{
+    font-family: forte, Arial, sans-serif;
+}
+header h1{
+    text-align: center;
+    font-size: 50px;
+    padding: 20px 0;
+}
+header h3{
+    text-align: right;
+    font-size: 28px;
+}
+
+nav ul{
+    list-style: none;
+}
+nav li{
+    display: inline-block;
+    padding: 0 10px;
+}
+nav li a{
+    color: #fff;
+    text-transform: uppercase;
+    font-family: Arial, sans-serif;
+    font-size: 28px;
+}
+nav ul li:first-child a{
+    color: #7cb3e9;
+    text-transform: lowercase;
+}
+nav a[title="sweet tabs"]{
+    color: #8ec45b;
+    text-transform: capitalize;
+}
+article{
+    background-color: #213e4a;
+    overflow: auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+article figure{
+    float: right;
+    width: 55%;
+}
+article img{
+    width: 100%;
+}
+article h2{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 40px;
+    letter-spacing: 15px;
+}
+figure + p{
+    color: #94c258;
+}
+footer{
+    clear: both;
+    text-align: center;
+}

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="matching" version="1.0" client="Longman" oae-label="ACTIVITY TYPE: Matching">
+	<title oae-label="Activity Title" oae-type="textarea" oae-rows="1">
+		<![CDATA[Matching]]>
+	</title>
+	<instructions oae-label="Instructions" oae-type="textarea" oae-rows="3">
+		<![CDATA[Match the sentence parts that go together.  Drag the first part to the correct place.]]>
+	</instructions>
+	<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</audio>
+	<matches oae-label="The items can be either text, graphic, or audio. Please include the file extension if either a graphic file or an audio file (This is how the engine will determine that the file name is not text, but a file)">
+		<match oae-label="Matching Set 1">
+			<leftitem oae-label="Left column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[Dan wasn't in class]]>
+			</leftitem>
+			<rightitem oae-label="Right column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[yesterday.]]>
+			</rightitem>
+		</match>
+		<match oae-label="Matching Set 2">
+			<leftitem oae-label="Left column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[What did you]]>
+			</leftitem>
+			<rightitem oae-label="Right column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[do last weekend?]]>
+			</rightitem>
+		</match>
+		<match oae-label="Matching Set 3">
+			<leftitem oae-label="Left column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[I went to the]]>
+			</leftitem>
+			<rightitem oae-label="Right column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[beach twice last week.]]>
+			</rightitem>
+		</match>
+		<match oae-label="Matching Set 4">
+			<leftitem oae-label="Left column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[Kate and I were classmates]]>
+			</leftitem>
+			<rightitem oae-label="Right column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[in 1988.]]>
+			</rightitem>
+		</match>
+		<match oae-label="Matching Set 5">
+			<leftitem oae-label="Left column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[My parents went bike]]>
+			</leftitem>
+			<rightitem oae-label="Right column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[riding this morning.]]>
+			</rightitem>
+		</match>
+		<match oae-label="Matching Set 6">
+			<leftitem oae-label="Left column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[What movie did you]]>
+			</leftitem>
+			<rightitem oae-label="Right column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[watch on TV last night?]]>
+			</rightitem>
+		</match>
+	</matches>
+</activity>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="dragdrop_convo" version="1.0" client="McGraw-Hill" oae-label="ACTIVITY TYPE: DRAG'N'DROP TEXT">
+
+	<!-- This activity presents the student with a list of words or phrases that can be dragged into blank lines in a paragraph or series of sentences. The author can optionally specify up to 6 "distracter" words will appear in the list but are not associated to any blank space. -->
+
+	<title oae-label="Title">
+		<![CDATA[Drag and drop convo]]>
+	</title>
+	<instructions oae-label="Instructions" oae-type="textarea" oae-rows="3">
+		<![CDATA[Complete the conversation.  Drag each line to the correct place.]]>
+	</instructions>
+	<spacer oae-type="spacer">
+</spacer>
+
+	<!-- Use the following two options to modify how the activity will display. -->
+
+	<fontsize oae-label="Resize Font?" oae-type="select" value="0 (Normal)" opt1="-3" opt2="-2" opt3="-1" opt4="0 (Normal)" opt5="+1" opt6="+2" opt7="+3">
+</fontsize>
+	<dragrows oae-label="Rows in Word Bank">
+		<![CDATA[8]]>
+	</dragrows>
+	<spacer oae-type="spacer">
+</spacer>
+
+	<!-- To make a conversation, just put the first person's name then a blank with the first person's line like this <blank word="Hello!"/>. Then type a hard return to get the next line. Then type the second person's line (presumably without blanks, but it could have them too). -->
+
+	<page>
+				<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</audio>
+	<text oae-label="Text" oae-type="textarea" oae-rows="25">
+			<![CDATA[<b>A:</b>     &nbsp;<blank word="Hi, Iva.  How's the weather in New York?" align="left"/>
+<b>B:</b>     Beautiful.  It's windy and warm.  I'm not wearing a jacket!
+<b>A:</b>     &nbsp;<blank word="No kidding!  It's raining in London." align="left"/>
+<b>B:</b>     When are you coming to New York?
+<b>A:</b>     &nbsp;<blank word="The day after tomorrow.  Do you want to get together this weekend?" align="left"/>
+<b>B:</b>     Well, I'm going to a party at my parent's house on Saturday.  How about Sunday?
+<b>A:</b>     &nbsp;<blank word="Sure.  I'm not doing anything special.  Call me Sunday morning." align="left"/>]]>
+		</text>
+
+		<!-- Up to 6 optional "distracter" words can be placed in the list of draggable words. These will not lock into any of the blank lines in the paragraph. Make sure you do not repeat any of the "word"s indicated in the previous space. -->
+
+		<distracters oae-label="Optional Distracters:">
+			<distracter oae-label="#1">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#2">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#3">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#4">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#5">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#6">
+				<![CDATA[]]>
+			</distracter>
+		</distracters>
+	</page>
+	<page>
+				<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</audio>
+	<text oae-label="Text" oae-type="textarea" oae-rows="25">
+			<![CDATA[<b>A:</b>     Hello?
+<b>B:</b>     &nbsp;<blank word="Hi, Glenn.  This is Anita.  What are you doing?" align="left"/>
+<b>A:</b>     I'm shopping right now.
+<b>B:</b>     &nbsp;<blank word="Should I call you back later?" align="left"/>
+<b>A:</b>     Yes, thanks. 
+<b>B:</b>     &nbsp;<blank word="What time?" align="left"/>
+<b>A:</b>     Around 4:00.
+<b>B:</b>     &nbsp;<blank word="OK.  Talk to you later." align="left"/>
+<b>A:</b>     Bye.]]>
+		</text>
+
+		<!-- Up to 6 optional "distracter" words can be placed in the list of draggable words. These will not lock into any of the blank lines in the paragraph. Make sure you do not repeat any of the "word"s indicated in the previous space. -->
+
+		<distracters oae-label="Optional Distracters:">
+			<distracter oae-label="#1">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#2">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#3">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#4">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#5">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#6">
+				<![CDATA[]]>
+			</distracter>
+		</distracters>
+	</page>
+</activity>

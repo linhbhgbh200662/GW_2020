@@ -1,0 +1,272 @@
+<hierarchy>
+	<global/>
+	<children>
+	<child>
+			<data>
+				<title><![CDATA[<b>TOP NOTCH POP</b>]]></title>
+		 <enabled>0</enabled>
+			</data>
+	</child>
+		<child>
+			<data>
+				<title><![CDATA[<b>Unit 1: </b> Greetings and Small Talk]]></title>
+			</data>
+			<children>
+				
+				<child>
+					<data>
+						<title><![CDATA[Top Notch Pop song]]></title>
+						<function name="loadVideo">
+							<parameter name="file"><![CDATA[media/video/L2_U1_Pop_TN.flv]]></parameter>
+							<parameter name="title"><![CDATA[]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+						<title><![CDATA[Karaoke version]]></title>
+						<function name="loadVideo">
+							<parameter name="file"><![CDATA[media/video/L2_U1_Kar_TN.flv]]></parameter>
+							<parameter name="title"><![CDATA[]]></parameter>
+						</function>
+					</data>
+				</child>			
+			</children>
+		</child>
+		<child>
+			<data>
+				<title><![CDATA[<b>Unit 2: </b> Movies and Entertainment]]></title>
+			</data>
+			<children>
+				
+				<child>
+					<data>
+						<title><![CDATA[Top Notch Pop song]]></title>
+						<function name="loadVideo">
+							<parameter name="file"><![CDATA[media/video/L2_U2_Pop_TN.flv]]></parameter>
+							<parameter name="title"><![CDATA[]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+						<title><![CDATA[Karaoke version]]></title>
+						<function name="loadVideo">
+							<parameter name="file"><![CDATA[media/video/L2_U2_Kar_TN.flv]]></parameter>
+							<parameter name="title"><![CDATA[]]></parameter>
+						</function>
+					</data>
+				</child>
+			</children>
+		</child>
+		<child>
+			<data>
+				<title><![CDATA[<b>Unit 3:</b> Staying at Hotels]]></title>
+			</data>
+			<children>
+				
+				<child>
+					<data>
+						<title><![CDATA[Top Notch Pop song]]></title>
+						<function name="loadVideo">
+							<parameter name="file"><![CDATA[media/video/song23_checking_out.flv]]></parameter>
+							<parameter name="title"><![CDATA[]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+						<title><![CDATA[Karaoke version]]></title>
+						<function name="loadVideo">
+							<parameter name="file"><![CDATA[media/video/song23_checking_out_kar.flv]]></parameter>
+							<parameter name="title"><![CDATA[]]></parameter>
+						</function>
+					</data>
+				</child>
+			</children>
+		</child>
+		<child>
+			<data>
+				<title><![CDATA[<b>Unit 4:</b> Cars and Driving]]></title>
+			</data>
+			<children>
+				
+				<child>
+					<data>
+						<title><![CDATA[Top Notch Pop song]]></title>
+						<function name="loadVideo">
+							<parameter name="file"><![CDATA[media/video/L2_U4_Pop_TN.flv]]></parameter>
+							<parameter name="title"><![CDATA[]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+						<title><![CDATA[Karaoke version]]></title>
+						<function name="loadVideo">
+							<parameter name="file"><![CDATA[media/video/L2_U4_Kar_TN.flv]]></parameter>
+							<parameter name="title"><![CDATA[]]></parameter>
+						</function>
+					</data>
+				</child>
+			</children>
+		</child>
+        <child>
+            <data>
+				<title><![CDATA[<b>Unit 5:</b> Personal Care and Appearance]]></title>
+			</data>
+            <children>
+				
+                <child>
+					<data>
+						<title><![CDATA[Top Notch Pop song]]></title>
+						<function name="loadVideo">
+							<parameter name="file"><![CDATA[media/video/song25_cake.flv]]></parameter>
+							<parameter name="title"><![CDATA[]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+						<title><![CDATA[Karaoke version]]></title>
+						<function name="loadVideo">
+							<parameter name="file"><![CDATA[media/video/song25_cake_kar.flv]]></parameter>
+							<parameter name="title"><![CDATA[]]></parameter>
+						</function>
+					</data>
+				</child>
+			</children>
+		</child>
+		<child>
+			<data>
+				<title><![CDATA[<b>Unit 6:</b> Eating Well]]></title>
+			</data>
+            <children>
+				
+				<child>
+					<data>
+						<title><![CDATA[Top Notch Pop song]]></title>
+						<function name="loadVideo">
+							<parameter name="file"><![CDATA[media/video/song26_perfect_dish.flv]]></parameter>
+							<parameter name="title"><![CDATA[]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+						<title><![CDATA[Karaoke version]]></title>
+						<function name="loadVideo">
+							<parameter name="file"><![CDATA[media/video/song26_perfect_dish_kar.flv]]></parameter>
+							<parameter name="title"><![CDATA[]]></parameter>
+						</function>
+					</data>
+				</child>
+			</children>
+		</child>
+		<child>
+			<data>
+				<title><![CDATA[<b>Unit 7:</b> About Personality]]></title>
+			</data>
+            <children>
+			
+					
+				<child>
+					<data>
+						<title><![CDATA[Top Notch Pop song]]></title>
+						<function name="loadVideo">
+							<parameter name="file"><![CDATA[media/video/L2_U7_Pop_TN.flv]]></parameter>
+							<parameter name="title"><![CDATA[]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+						<title><![CDATA[Karaoke version]]></title>
+						<function name="loadVideo">
+							<parameter name="file"><![CDATA[media/video/L2_U7_Kar_TN.flv]]></parameter>
+							<parameter name="title"><![CDATA[]]></parameter>
+						</function>
+					</data>
+				</child>
+			</children>
+		</child>
+		<child>
+			<data>
+				<title><![CDATA[<b>Unit 8:</b> The Arts]]></title>
+			</data>
+            <children>
+				
+				<child>
+					<data>
+						<title><![CDATA[Top Notch Pop song]]></title>
+						<function name="loadVideo">
+							<parameter name="file"><![CDATA[media/video/L2_U8_Pop_TN.flv]]></parameter>
+							<parameter name="title"><![CDATA[]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+						<title><![CDATA[Karaoke version]]></title>
+						<function name="loadVideo">
+							<parameter name="file"><![CDATA[media/video/L2_U8_Kar_TN.flv]]></parameter>
+							<parameter name="title"><![CDATA[]]></parameter>
+						</function>
+					</data>
+				</child>
+			</children>
+		</child>
+		<child>
+			<data>
+				<title><![CDATA[<b>Unit 9:</b> Living with Computers]]></title>
+			</data>
+            <children>
+				
+				<child>
+					<data>
+						<title><![CDATA[Top Notch Pop song]]></title>
+						<function name="loadVideo">
+							<parameter name="file"><![CDATA[media/video/song29_cyberspace.flv]]></parameter>
+							<parameter name="title"><![CDATA[]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+						<title><![CDATA[Karaoke version]]></title>
+						<function name="loadVideo">
+							<parameter name="file"><![CDATA[media/video/song29_cyberspace_kar.flv]]></parameter>
+							<parameter name="title"><![CDATA[]]></parameter>
+						</function>
+					</data>
+				</child>
+			</children>
+		</child>
+		<child>
+			<data>
+				<title><![CDATA[<b>Unit 10:</b> Ethics and Values]]></title>
+			</data>
+            <children>
+				
+				<child>
+					<data>
+						<title><![CDATA[Top Notch Pop song]]></title>
+						<function name="loadVideo">
+							<parameter name="file"><![CDATA[media/video/song30_what_would_you_do.flv]]></parameter>
+							<parameter name="title"><![CDATA[]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+						<title><![CDATA[Karaoke version]]></title>
+						<function name="loadVideo">
+							<parameter name="file"><![CDATA[media/video/song30_what_would_you_do_kar.flv]]></parameter>
+							<parameter name="title"><![CDATA[]]></parameter>
+						</function>
+					</data>
+				</child>
+			</children>
+        </child>
+	</children>
+</hierarchy>

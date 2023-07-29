@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page id="0072">
+<map name="Map" id="Map">
+<art type="icon" pfunction="audio_icon">
+<href><![CDATA[Top Notch 2 MP3 files/Unit_06/3-35_A_Listening_compreh_p72.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[82]]></scale>
+<icon><![CDATA[audio_button]]></icon>
+<coords><![CDATA[50,77]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<href><![CDATA[Top Notch 2 MP3 files/Unit_06/3-36_B_Listen_again_p72.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[83]]></scale>
+<icon><![CDATA[audio_button]]></icon>
+<coords><![CDATA[51,158]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<href><![CDATA[Top Notch 2 MP3 files/Unit_06/3-37_Song_A_Perfect_Dish_p72.mp3]]></href>
+<title><![CDATA[Play Song]]></title>
+<scale><![CDATA[80]]></scale>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<coords><![CDATA[393,397]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<href><![CDATA[Top Notch 2 MP3 files/Unit_06/3-38_Karaoke_A_Perfect_D_p72.mp3]]></href>
+<title><![CDATA[Play Karaoke Version]]></title>
+<scale><![CDATA[80]]></scale>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<coords><![CDATA[437,397]]></coords>
+</art><art type="icon" pfunction="generic_gotopage">
+<page><![CDATA[144]]></page>
+<title><![CDATA[Go to Writing Booster]]></title>
+<scale><![CDATA[80]]></scale>
+<icon><![CDATA[writing_booster]]></icon>
+<coords><![CDATA[497,608]]></coords>
+</art></map></page>

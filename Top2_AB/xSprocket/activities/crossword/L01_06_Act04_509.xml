@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<activity type="Crossword">
+		<dimensions><![CDATA[[15,15]]]></dimensions>
+		<title><![CDATA[Crossword]]></title>
+		<shortinst><![CDATA[- Click a clue to view the corresponding answer squares 
+- Or click a number on the answer squares to view the corresponding clue
+- Click square twice to change directions
+- Begin typing in the darker square]]></shortinst>
+		<detailinst><![CDATA[This activity allows you to type answers to questions posed in the across or down clue windows.
+
+Clues
+- Click an across or down clue to highlight the corresponding answer squares
+- Use the scroll bars to view more clues
+
+Answer Squares
+- Click a numbered answer square to view the corresponding clue
+- Click a numbered square a second time to view the corresponding clue in the opposite direction
+- If a numbered square is already filled, click the second or any empty square in the same direction to view the clue
+- Dark square indicates where text will be entered when typing begins
+- Fill answer squares by typing the answer. Correct or Incorrect feedback will be presented as soon as the final square of the word is filled.
+- Answers that require more than one word will not use spaces
+- Backspace deletes characters
+
+Scoring
+- Scores for crosswords are not calculated or recorded
+- Multiple attempts may be allowed to fill each answer correctly
+- A correct mark will display next to the clue when the answer squares are filled correctly
+- An incorrect mark will display next to the clue after the allotted number of incorrect tries. 
+- The correct answer will fill automatically after the allotted number of incorrect tries
+- Click 'Show Completed Puzzle' to reveal all answers
+- Click 'Reset' to start the puzzle again]]></detailinst>
+		<autofill_number><![CDATA[3]]></autofill_number>
+					<across>
+						<word>
+							<text><![CDATA[LIFTINGWEIGHTS]]></text>
+							<clue><![CDATA[Max is at the gym.  He's _____.]]></clue>
+							<gridloc><![CDATA[06_01]]></gridloc>
+						</word>
+						<word>
+							<text><![CDATA[AEROBICS]]></text>
+							<clue><![CDATA[With a DVD, you can do this physical activity in your living room.]]></clue>
+							<gridloc><![CDATA[10_03]]></gridloc>
+						</word>
+						<word>
+							<text><![CDATA[NEVER]]></text>
+							<clue><![CDATA[0% of the time]]></clue>
+							<gridloc><![CDATA[14_03]]></gridloc>
+						</word>
+					</across>
+					<down>
+						<word>
+							<text><![CDATA[CALORIES]]></text>
+							<clue><![CDATA[When you exercise, you burn _____.]]></clue>
+							<gridloc><![CDATA[01_10]]></gridloc>
+						</word>
+						<word>
+							<text><![CDATA[GOWSWIMMING]]></text>
+							<clue><![CDATA[You can do this at the beach.]]></clue>
+							<gridloc><![CDATA[02_08]]></gridloc>
+						</word>
+						<word>
+							<text><![CDATA[COUCHPOTATO]]></text>
+							<clue><![CDATA[A person who spends lots of time sitting and watching television]]></clue>
+							<gridloc><![CDATA[02_12]]></gridloc>
+						</word>
+						<word>
+							<text><![CDATA[OCCASIONALLY]]></text>
+							<clue><![CDATA[sometimes]]></clue>
+							<gridloc><![CDATA[02_14]]></gridloc>
+						</word>
+						<word>
+							<text><![CDATA[JUNKFOOD]]></text>
+							<clue><![CDATA[Fatty foods and sweets]]></clue>
+							<gridloc><![CDATA[04_06]]></gridloc>
+						</word>
+						<word>
+							<text><![CDATA[ALWAYS]]></text>
+							<clue><![CDATA[100% of the time]]></clue>
+							<gridloc><![CDATA[05_01]]></gridloc>
+						</word>
+						<word>
+							<text><![CDATA[TWICEAWEEK]]></text>
+							<clue><![CDATA[Every Tuesday and Thursday]]></clue>
+							<gridloc><![CDATA[06_04]]></gridloc>
+						</word>
+					</down>
+	</activity>

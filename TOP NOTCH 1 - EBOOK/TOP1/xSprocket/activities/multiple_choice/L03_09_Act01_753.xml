@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="multiple_choice" version="1.0" client="Longman" oae-label="ACTIVITY TYPE: Multiple Choice">
+	<title oae-label="Activity Title" oae-type="textarea" oae-rows="1">
+		<![CDATA[Activity 1]]>
+	</title>
+	<instructions oae-label="Instructions" oae-type="textarea" oae-rows="3">
+		<![CDATA[Read the newspaper column. Then click on the best choice to complete the statement.]]>
+	</instructions>
+	<questions>
+		<question oae-label="Question 1">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[<b>Dear Get Green:</b>
+<p>I have two young children, and I’m concerned about the environmental problems our world is facing. Do you have any suggestions for ways that we can help preserve the environment?</p>
+
+<b>Sincerely,</b>
+<b>Wanna Be Green</b>
+
+<b>Dear Wanna Be Green:</b>
+There are many simple ways to keep our planet healthy. For example. here are some ways to reduce the amount of garbage or trash your family produces:
+<ul>
+<li>Many communities have recycling programs. If yours doesn’t, do some research. You can probably find a place to take materials to be recycled.</li>
+<li>If you have a garden, then you probably have “plant trash” like grass clippings and dead leaves. Don’t throw them away. Recycle them! Sprinkle them on your lawn; those things will provide the grass with nutrients and keep it looking great.</li>
+<li>You can also combine your “plant trash” and fruit and vegetable food scraps from your kitchen to make compost. The plants and food decompose and create a very rich topsoil for your garden.</li>
+<li>Instead of throwing away items that you no longer use, give them away or sell them. Think of new ways to reuse items that you normally throw away.</li>
+<li>Take your own bags to the store instead of getting new ones each time you shop.</li>
+<li>Use e-mail instead of sending paper letters and cards. Pay your bills and read your newspaper online. Call companies that send you junk mail and get off their mailing lists.</li>
+<li>Buy products made with recycled contents. A lot of things can now be made from recycled materials.</li>
+</ul>
+
+Together we can make a difference!
+
+<p><b>Sincerely,</b><br/>
+  <b>Get Green</b><br/>
+Information source: <u>www.erie.gov</u></p>]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[“Get Green” suggests ways to _____.]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[make less trash]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[learn about what happens to trash]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[use other people’s trash]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 2">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[<b>Dear Get Green:</b>
+<p>I have two young children, and I’m concerned about the environmental problems our world is facing. Do you have any suggestions for ways that we can help preserve the environment?</p>
+
+<b>Sincerely,</b>
+<b>Wanna Be Green</b>
+
+<b>Dear Wanna Be Green:</b>
+There are many simple ways to keep our planet healthy. For example. here are some ways to reduce the amount of garbage or trash your family produces:
+<ul>
+<li>Many communities have recycling programs. If yours doesn’t, do some research. You can probably find a place to take materials to be recycled.</li>
+<li>If you have a garden, then you probably have “plant trash” like grass clippings and dead leaves. Don’t throw them away. Recycle them! Sprinkle them on your lawn; those things will provide the grass with nutrients and keep it looking great.</li>
+<li>You can also combine your “plant trash” and fruit and vegetable food scraps from your kitchen to make compost. The plants and food decompose and create a very rich topsoil for your garden.</li>
+<li>Instead of throwing away items that you no longer use, give them away or sell them. Think of new ways to reuse items that you normally throw away.</li>
+<li>Take your own bags to the store instead of getting new ones each time you shop.</li>
+<li>Use e-mail instead of sending paper letters and cards. Pay your bills and read your newspaper online. Call companies that send you junk mail and get off their mailing lists.</li>
+<li>Buy products made with recycled contents. A lot of things can now be made from recycled materials.</li>
+</ul>
+
+Together we can make a difference!
+
+<p><b>Sincerely,</b><br/>
+  <b>Get Green</b><br/>
+Information source: <u>www.erie.gov</u></p>]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[According to the column, you should _____ if your community doesn’t have a recycling program.]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[find a place to take recyclable materials]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[not recycle]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[start a recycling program]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 3">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[<b>Dear Get Green:</b>
+<p>I have two young children, and I’m concerned about the environmental problems our world is facing. Do you have any suggestions for ways that we can help preserve the environment?</p>
+
+<b>Sincerely,</b>
+<b>Wanna Be Green</b>
+
+<b>Dear Wanna Be Green:</b>
+There are many simple ways to keep our planet healthy. For example. here are some ways to reduce the amount of garbage or trash your family produces:
+<ul>
+<li>Many communities have recycling programs. If yours doesn’t, do some research. You can probably find a place to take materials to be recycled.</li>
+<li>If you have a garden, then you probably have “plant trash” like grass clippings and dead leaves. Don’t throw them away. Recycle them! Sprinkle them on your lawn; those things will provide the grass with nutrients and keep it looking great.</li>
+<li>You can also combine your “plant trash” and fruit and vegetable food scraps from your kitchen to make compost. The plants and food decompose and create a very rich topsoil for your garden.</li>
+<li>Instead of throwing away items that you no longer use, give them away or sell them. Think of new ways to reuse items that you normally throw away.</li>
+<li>Take your own bags to the store instead of getting new ones each time you shop.</li>
+<li>Use e-mail instead of sending paper letters and cards. Pay your bills and read your newspaper online. Call companies that send you junk mail and get off their mailing lists.</li>
+<li>Buy products made with recycled contents. A lot of things can now be made from recycled materials.</li>
+</ul>
+
+Together we can make a difference!
+
+<p><b>Sincerely,</b><br/>
+  <b>Get Green</b><br/>
+Information source: <u>www.erie.gov</u></p>]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[Compost is _____.]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[plant trash and foods that decompose]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[trash such as plastic bags]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[a place to take recyclable materials]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 4">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[<b>Dear Get Green:</b>
+<p>I have two young children, and I’m concerned about the environmental problems our world is facing. Do you have any suggestions for ways that we can help preserve the environment?</p>
+
+<b>Sincerely,</b>
+<b>Wanna Be Green</b>
+
+<b>Dear Wanna Be Green:</b>
+There are many simple ways to keep our planet healthy. For example. here are some ways to reduce the amount of garbage or trash your family produces:
+<ul>
+<li>Many communities have recycling programs. If yours doesn’t, do some research. You can probably find a place to take materials to be recycled.</li>
+<li>If you have a garden, then you probably have “plant trash” like grass clippings and dead leaves. Don’t throw them away. Recycle them! Sprinkle them on your lawn; those things will provide the grass with nutrients and keep it looking great.</li>
+<li>You can also combine your “plant trash” and fruit and vegetable food scraps from your kitchen to make compost. The plants and food decompose and create a very rich topsoil for your garden.</li>
+<li>Instead of throwing away items that you no longer use, give them away or sell them. Think of new ways to reuse items that you normally throw away.</li>
+<li>Take your own bags to the store instead of getting new ones each time you shop.</li>
+<li>Use e-mail instead of sending paper letters and cards. Pay your bills and read your newspaper online. Call companies that send you junk mail and get off their mailing lists.</li>
+<li>Buy products made with recycled contents. A lot of things can now be made from recycled materials.</li>
+</ul>
+
+Together we can make a difference!
+
+<p><b>Sincerely,</b><br/>
+  <b>Get Green</b><br/>
+Information source: <u>www.erie.gov</u></p>]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[In order to make less trash, “Get Green” suggests _____.]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[reusing items instead of throwing them away]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[throwing away items you no longer use]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[using new paper or plastic bags each time you shop]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 5">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[<b>Dear Get Green:</b>
+<p>I have two young children, and I’m concerned about the environmental problems our world is facing. Do you have any suggestions for ways that we can help preserve the environment?</p>
+
+<b>Sincerely,</b>
+<b>Wanna Be Green</b>
+
+<b>Dear Wanna Be Green:</b>
+There are many simple ways to keep our planet healthy. For example. here are some ways to reduce the amount of garbage or trash your family produces:
+<ul>
+<li>Many communities have recycling programs. If yours doesn’t, do some research. You can probably find a place to take materials to be recycled.</li>
+<li>If you have a garden, then you probably have “plant trash” like grass clippings and dead leaves. Don’t throw them away. Recycle them! Sprinkle them on your lawn; those things will provide the grass with nutrients and keep it looking great.</li>
+<li>You can also combine your “plant trash” and fruit and vegetable food scraps from your kitchen to make compost. The plants and food decompose and create a very rich topsoil for your garden.</li>
+<li>Instead of throwing away items that you no longer use, give them away or sell them. Think of new ways to reuse items that you normally throw away.</li>
+<li>Take your own bags to the store instead of getting new ones each time you shop.</li>
+<li>Use e-mail instead of sending paper letters and cards. Pay your bills and read your newspaper online. Call companies that send you junk mail and get off their mailing lists.</li>
+<li>Buy products made with recycled contents. A lot of things can now be made from recycled materials.</li>
+</ul>
+
+Together we can make a difference!
+
+<p><b>Sincerely,</b><br/>
+  <b>Get Green</b><br/>
+Information source: <u>www.erie.gov</u></p>]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[The column suggests using e-mail and the Internet in order to _____.]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[use less paper]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[send junk mail]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[make phone calls]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 6">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[<b>Dear Get Green:</b>
+<p>I have two young children, and I’m concerned about the environmental problems our world is facing. Do you have any suggestions for ways that we can help preserve the environment?</p>
+
+<b>Sincerely,</b>
+<b>Wanna Be Green</b>
+
+<b>Dear Wanna Be Green:</b>
+There are many simple ways to keep our planet healthy. For example. here are some ways to reduce the amount of garbage or trash your family produces:
+<ul>
+<li>Many communities have recycling programs. If yours doesn’t, do some research. You can probably find a place to take materials to be recycled.</li>
+<li>If you have a garden, then you probably have “plant trash” like grass clippings and dead leaves. Don’t throw them away. Recycle them! Sprinkle them on your lawn; those things will provide the grass with nutrients and keep it looking great.</li>
+<li>You can also combine your “plant trash” and fruit and vegetable food scraps from your kitchen to make compost. The plants and food decompose and create a very rich topsoil for your garden.</li>
+<li>Instead of throwing away items that you no longer use, give them away or sell them. Think of new ways to reuse items that you normally throw away.</li>
+<li>Take your own bags to the store instead of getting new ones each time you shop.</li>
+<li>Use e-mail instead of sending paper letters and cards. Pay your bills and read your newspaper online. Call companies that send you junk mail and get off their mailing lists.</li>
+<li>Buy products made with recycled contents. A lot of things can now be made from recycled materials.</li>
+</ul>
+
+Together we can make a difference!
+
+<p><b>Sincerely,</b><br/>
+  <b>Get Green</b><br/>
+Information source: <u>www.erie.gov</u></p>]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[The column does not tell readers to _____.]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[talk to their neighbors about recycling]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[pay their bills online]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[buy things made from recycled materials]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 7">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 8">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 9">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 10">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+	</questions>
+</activity>

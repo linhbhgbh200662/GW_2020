@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page id="0036">
+<map name="Map" id="Map">
+<art type="icon" pfunction="audio_icon">
+<scale><![CDATA[80]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 3/2-17 A Listening compre  p36.mp3]]></href>
+<icon><![CDATA[audio_button]]></icon>
+<coords><![CDATA[54,77]]></coords>
+</art><art type="icon" pfunction="generic_gotopage">
+<page><![CDATA[143]]></page>
+<scale><![CDATA[80]]></scale>
+<title><![CDATA[Go to Writing Booster]]></title>
+<icon><![CDATA[writing_booster]]></icon>
+<coords><![CDATA[449,685]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<scale><![CDATA[80]]></scale>
+<title><![CDATA[Play Karaoke Version]]></title>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 3/2-19 Karaoke An Only Chi p36.mp3]]></href>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<coords><![CDATA[501,582]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<scale><![CDATA[80]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 3/2-18 Song An Only Child p36.mp3]]></href>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<coords><![CDATA[459,582]]></coords>
+</art></map></page>

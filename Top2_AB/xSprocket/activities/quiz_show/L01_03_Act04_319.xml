@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="quiz_show" version="1.0" client="" oae-label="ACTIVITY TYPE: QUIZ SHOW">
+	<title oae-label="Title:">
+		<![CDATA[Quiz Show]]>
+	</title>
+	<shortinst oae-label="Short Instructions:">
+		<![CDATA[Click on a box. Choose the correct answer. You have only three minutes.]]>
+	</shortinst>
+	<detailinst oae-label="Detailed Instructions:">
+		<![CDATA[Click on an amount in a category to answer a question about that topic. Click on the correct answer for each question. If your entry is correct, it will highlight in green and you will "win" the amount of money listed. If you are incorrect, you will "lose" the amount of money listed. You don't gain or lose any money for trying again. Next and Previous buttons navigate among the questions. Try to win as much money as you can!]]>
+	</detailinst>
+	<randomquestions oae-label="Randomize Questions:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomquestions>
+	<randomanswers oae-label="Randomize Answers:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomanswers>
+	<categories>
+		<category oae-lable="Category 1">
+			<![CDATA[Family relationships]]>
+		</category>
+		<category oae-lable="Category 2">
+			<![CDATA[Simple present tense]]>
+		</category>
+		<category oae-lable="Category 3">
+			<![CDATA[More simple present tense]]>
+		</category>
+		<category oae-lable="Category 4">
+			<![CDATA[Marital status and relationships]]>
+		</category>
+	</categories>
+	<categoryquestions oae-label="Category 1 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[This is my father's second wife, Rose.  She’s my _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[children]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[sister-in-law]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[stepmother]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[uncle]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[This is my _____, Elaine.  She’s my brother’s wife.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[children]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[sister-in-law]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[stepmother]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[uncle]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I have three _____, a daughter and two sons.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[children]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[sister-in-law]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[stepmother]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[uncle]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[This is my _____, Frank.  He’s my mother’s brother.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[children]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[sister-in-law]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[stepmother]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[uncle]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 2 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I _____ in New York.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[live]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[lives]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[Do]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[Where]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[My brother _____ in California.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[live]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[lives]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[Do]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[Where]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[_____ you live in the U.S.?]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[live]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[lives]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[Do]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[Where]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[_____ do you live?]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[live]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[lives]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[Do]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[Where]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 3 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I _____ one sister.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[have]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[works]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[look]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[likes]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[My sister _____ at a bank in London.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[have]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[works]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[look]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[likes]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[We _____ alike.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[have]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[works]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[look]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[likes]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[She _____ Indian food, but I don’t.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[have]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[works]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[look]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[likes]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 4 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Annabel is married.  Her _____ is a photographer.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[fiancé]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[husband]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[ex-husband]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[wife]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Kate is divorced. She doesn't see her _____ often.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[fiancé]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[husband]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[ex-husband]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[wife]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[My brother and his _____ don't have children.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[fiancé]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[husband]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[ex-husband]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[wife]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[My sister just got engaged. Her _____ is a teacher.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[fiancé]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[husband]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[ex-husband]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[wife]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+</activity>

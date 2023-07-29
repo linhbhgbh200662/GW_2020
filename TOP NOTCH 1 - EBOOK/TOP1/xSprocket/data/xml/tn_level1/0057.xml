@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<page id="0057">
+<map name="Map" id="Map">
+<art type="icon">
+<coords><![CDATA[54,21]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 5/3-17 C Listening compreh p57.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[80]]></scale>
+</art>
+<art type="icon">
+<coords><![CDATA[53,249]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 5/3-18 D Pair work p57.mp3 ]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[80]]></scale>
+</art>
+</map>
+</page>

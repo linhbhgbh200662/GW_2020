@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><activity type="Crossword"><dimensions><![CDATA[[14,10]]]></dimensions><title><![CDATA[Crossword]]></title><shortinst><![CDATA[- Click a clue to view the corresponding answer squares 
+- Or click a number on the answer squares to view the corresponding clue
+- Click square twice to change directions
+- Begin typing in the darker square]]></shortinst><detailinst><![CDATA[This activity allows you to type answers to questions posed in the across or down clue windows.
+
+Clues
+- Click an across or down clue to highlight the corresponding answer squares
+- Use the scroll bars to view more clues
+
+Answer Squares
+- Click a numbered answer square to view the corresponding clue
+- Click a numbered square a second time to view the corresponding clue in the opposite direction
+- If a numbered square is already filled, click the second or any empty square in the same direction to view the clue
+- Dark square indicates where text will be entered when typing begins
+- Fill answer squares by typing the answer. Correct or Incorrect feedback will be presented as soon as the final square of the word is filled.
+- Answers that require more than one word will not use spaces
+- Backspace deletes characters
+
+Scoring
+- Scores for crosswords are not calculated or recorded
+- Multiple attempts may be allowed to fill each answer correctly
+- A correct mark will display next to the clue when the answer squares are filled correctly
+- An incorrect mark will display next to the clue after the allotted number of incorrect tries. 
+- The correct answer will fill automatically after the allotted number of incorrect tries
+- Click 'Show Completed Puzzle' to reveal all answers
+- Click 'Reset' to start the puzzle again]]></detailinst><autofill_number><![CDATA[3]]></autofill_number><across><word><text><![CDATA[fourteen]]></text><clue><![CDATA[_____ spells 14.]]></clue><gridloc><![CDATA[01_06]]></gridloc></word><word><text><![CDATA[three]]></text><clue><![CDATA[_____ spells 3.]]></clue><gridloc><![CDATA[03_04]]></gridloc></word><word><text><![CDATA[zero]]></text><clue><![CDATA[_____ spells 0.]]></clue><gridloc><![CDATA[06_02]]></gridloc></word><word><text><![CDATA[twelve]]></text><clue><![CDATA[_____ spells 12.]]></clue><gridloc><![CDATA[07_08]]></gridloc></word><word><text><![CDATA[last]]></text><clue><![CDATA[My _____ name is Anderson.]]></clue><gridloc><![CDATA[09_11]]></gridloc></word><word><text><![CDATA[cellphone]]></text><clue><![CDATA[I have a phone number and a _____ number.]]></clue><gridloc><![CDATA[10_01]]></gridloc></word></across><down><word><text><![CDATA[first]]></text><clue><![CDATA[Her _____ name is Maria.]]></clue><gridloc><![CDATA[01_06]]></gridloc></word><word><text><![CDATA[eighteen]]></text><clue><![CDATA[_____ spells 18.]]></clue><gridloc><![CDATA[03_08]]></gridloc></word><word><text><![CDATA[number]]></text><clue><![CDATA[901-874-9894 is my phone _____.]]></clue><gridloc><![CDATA[03_10]]></gridloc></word><word><text><![CDATA[address]]></text><clue><![CDATA[10 Market Street is our _____.]]></clue><gridloc><![CDATA[03_13]]></gridloc></word><word><text><![CDATA[email]]></text><clue><![CDATA[My _____ address is helen@mp.net.]]></clue><gridloc><![CDATA[06_03]]></gridloc></word><word><text><![CDATA[one]]></text><clue><![CDATA[_____ spells 1.]]></clue><gridloc><![CDATA[06_05]]></gridloc></word></down></activity>

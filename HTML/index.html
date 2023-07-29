@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Bootstrap Example</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
+</head>
+
+<body>
+
+    <div class="jumbotron text-center">
+        <h1>My First Bootstrap Page</h1>
+        <p>Resize this responsive page to see the effect!</p>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-4">
+                <h3>Column 1</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
+                <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+            </div>
+            <div class="col-sm-4">
+                <h3>Column 2</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
+                <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+            </div>
+            <div class="col-sm-4">
+                <h3>Column 3</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
+                <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+            </div>
+        </div>
+    </div>
+    
+</body>
+<head>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm-8 col-lg-4">Colum one</div>
+            <div class="col-sm-2 col-lg-4">Colum two</div>
+            <div class="col-sm-2 col-lg-4">Colum three</div>
+        </div>
+    </div>
+</head>
+<!--thêm sm để thu nhỏ table-->
+
+</html>
+
+<div class="jumbotron text-center">
+    <h1>My First Bootstrap Page</h1>
+    <p>Resize this responsive page to see the effect!</p>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-4">
+            <h3>Column 1</h3>
+            <p>Lorem ipsum dolor..</p>
+        </div>
+        <div class="col-sm-4">
+            <h3>Column 2</h3>
+            <p>Lorem ipsum dolor..</p>
+        </div>
+        <div class="col-sm-4">
+            <h3>Column 3</h3>
+            <p>Lorem ipsum dolor..</p>
+        </div>
+    </div>
+</div>
+
+
+<div class="container-fuild">
+    <div class="container">
+        <h2>Nav</h2>
+        <p>Basic horizontal menu:</p>
+        <ul class="nav">
+            <li class="nav-item">
+                <a class="nav-link" href="#">Link</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Link</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Link</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link disabled" href="#">Disabled</a>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<div class="col-lg-9">
+    <main>
+        <div class="row">
+            <div class="trai-col-lg-9">
+                <article>
+                    <h1>heading</h1>
+                    <p> Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                        Autem neque vitae optio error doloremque debitis
+                        voluptas quia velit nobis fugiat soluta fugit veritatis praesentium illum nisi consectetur veniam, sed
+                        eum.</p>
+                </article>
+
+                <article> Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                    Autem neque vitae optio error doloremque debitis
+                    voluptas quia velit nobis fugiat soluta fugit veritatis praesentium illum nisi consectetur veniam, sed
+                    eum.</article>
+            </div>
+        </div>
+    </main>
+</div>
+<div class="col-lg-9">
+    <main>
+        <div class="row">
+
+        </div>
+    </main>
+</div>
+
+<span class="glyphicon glyphicon-cloud"></span>
+
+<!--tạo form-->
+<form class="form-horizontal">
+    <div class="form-group">
+        <labe class="control-label col-sm-2">Username:</labe>
+        <div class="col-sm-4">
+            <input class="form-control" type="text"/>
+        </div>
+    </div>
+ ...
+</form>
+<script>
+    function dosomething(o){
+        o.style="Background-color: red; color: white;";
+        o.value="";
+    }
+    function cometodefault(o)
+    {
+        o.style="background-color: white; color: black;";
+    }
+    function domouseover(o)
+    {
+        o.style="background-color: red; color: white;";
+    }
+    function domouseout(o)
+    {
+        o.style="background-color: white; color: black;";
+    }
+    function dokeypress(o)
+    {
+        o.style="background-color: red; color: white;";
+    }
+</script>
+<form actoion="" name="myform">
+    Num a:
+    <input type="text" name="numa" onkeypress="dokeypress(this)";> <br> 
+    Num b:
+    <input type="text" name="numb" onmouseover="domouseover(this);" omouseout="domouseout(this);">
+
+    <input type="button" value="Add" onclick="displayresult();">/
+</form>
+
+
+
+<!-- hiển thị màu sắc use table-->
+<table class="table table-hover">
+    <tr>
+        <th>
+
+        </th>
+    </tr>
+</table>

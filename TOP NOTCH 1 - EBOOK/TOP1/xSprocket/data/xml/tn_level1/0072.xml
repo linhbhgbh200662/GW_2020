@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page id="0072">
+<map name="Map" id="Map">
+<art type="icon" pfunction="audio_icon">
+<scale><![CDATA[80]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 6/3-39 A Listening compreh p72.mp3]]></href>
+<icon><![CDATA[audio_button]]></icon>
+<coords><![CDATA[53,77]]></coords>
+</art><art type="icon" pfunction="generic_gotopage">
+<page><![CDATA[145]]></page>
+<scale><![CDATA[80]]></scale>
+<title><![CDATA[Go to Writing Booster]]></title>
+<icon><![CDATA[writing_booster]]></icon>
+<coords><![CDATA[505,582]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<scale><![CDATA[80]]></scale>
+<title><![CDATA[Play Song]]></title>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 6/3-40 Song A Typical Day p72.mp3]]></href>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<coords><![CDATA[393,393]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<scale><![CDATA[80]]></scale>
+<title><![CDATA[Play Karaoke Version]]></title>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 6/3-41 Karaoke A Typical D p72.mp3]]></href>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<coords><![CDATA[438,393]]></coords>
+</art></map></page>

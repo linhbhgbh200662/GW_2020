@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page id="0149">
+<map name="Map" id="Map">
+<art type="icon" pfunction="audio_icon">
+<href><![CDATA[Top Notch 2 MP3 files/Unit_01/1-16_Karaoke_Greetings_a_p12.mp3]]></href>
+<title><![CDATA[Play Karaoke version]]></title>
+<scale><![CDATA[55]]></scale>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<coords><![CDATA[53,43]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<href><![CDATA[Top Notch 2 MP3 files/Unit_03/2-17_Karaoke_Checking_Ou_p36.mp3]]></href>
+<title><![CDATA[Play Karaoke version]]></title>
+<scale><![CDATA[50]]></scale>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<coords><![CDATA[227,160]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<href><![CDATA[Top Notch 2 MP3 files/Unit_03/2-16_Song_Checking_Out_p36.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[50]]></scale>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<coords><![CDATA[202,160]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<href><![CDATA[Top Notch 2 MP3 files/Unit_01/1-15_Song_Greetings_and_p12.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[55]]></scale>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<coords><![CDATA[26,42]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<href><![CDATA[Top Notch 2 MP3 files/Unit_02/1-33_Song_Better_Late_Th_p24.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[50]]></scale>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<coords><![CDATA[29,468]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<href><![CDATA[Top Notch 2 MP3 files/Unit_02/1-34_Karaoke_Better_Late_p24.mp3]]></href>
+<title><![CDATA[Play Karaoke version]]></title>
+<scale><![CDATA[50]]></scale>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<coords><![CDATA[53,468]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<href><![CDATA[Top Notch 2 MP3 files/Unit_04/2-34_Karaoke_Wheels_Arou_p48.mp3]]></href>
+<title><![CDATA[Play Karaoke version]]></title>
+<scale><![CDATA[50]]></scale>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<coords><![CDATA[228,538]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<href><![CDATA[Top Notch 2 MP3 files/Unit_04/2-33_Song_Wheels_Around_p48.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[50]]></scale>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<coords><![CDATA[203,537]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<href><![CDATA[Top Notch 2 MP3 files/Unit_05/3-17_Song_Piece_of_Cake_p60.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[50]]></scale>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<coords><![CDATA[376,437]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<href><![CDATA[Top Notch 2 MP3 files/Unit_05/3-18_Karaoke_Piece_of_Ca_p60.mp3]]></href>
+<title><![CDATA[Play Karaoke version]]></title>
+<scale><![CDATA[50]]></scale>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<coords><![CDATA[401,438]]></coords>
+</art></map></page>

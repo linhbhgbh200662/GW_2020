@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="true_false" version="1.1" client="McGraw-Hill" oae-label="ACTIVITY TYPE: TRUE/FALSE">
+
+	<!-- This activity presents the student with a series of up to 10 True/False questions on a sinlge page. -->
+
+	<title oae-label="Title">
+		<![CDATA[Activity 2]]>
+	</title>
+	<instructions oae-label="Instructions" oae-type="textarea" oae-rows="3">
+		<![CDATA[Read the article. Mark each statement <u>True</u> or <u>False</u>, according to the article.]]>
+	</instructions>
+	<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</graphic>
+	<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</audio>
+	<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+		<![CDATA[<b>What’s Good to Read?</b>
+
+   Any reading is good for kids. If they like it, let them read it. 
+
+   At least that’s what many experts are now saying. After a long time of believing that only certain types of reading materials were appropriate, educators and child experts are changing their minds. 
+
+   They now say that any reading is good for developing and improving comprehension skills, and that children increase their vocabulary by reading, which also increases their comprehension. 
+
+   Some parents might be concerned that if left to choose their own books, their children would only choose easy material. They might think that children won’t challenge themselves by reading above their level. But, in fact, the opposite is true. When children choose their own materials, they generally pick books at a higher level than what a teacher would, if the topic of the reading is interesting to them. 
+
+   Studies show that children who read for pleasure or for their own learning often do well in school subjects. Good readers often make better students. The only way to become a better reader is to practice. 
+
+   So whether it’s a teen romance novel, a music magazine, a comic book about superheroes, or an Internet website, reading is good for the brain.]]>
+	</reader>
+	<spacer oae-type="spacer">
+</spacer>
+
+	<!-- Use the following options to modify how the activity will be displayed. Use the first to modify the size of the font, and the following two to indicate what the headers of the "True" and "False" columns should display. -->
+
+	<fontsize oae-label="Resize Font?" oae-type="select" value="0 (Normal)" opt1="-3" opt2="-2" opt3="-1" opt4="0 (Normal)" opt5="+1" opt6="+2" opt7="+3">
+</fontsize>
+	<headertrue oae-label="True column header">
+		<![CDATA[True]]>
+	</headertrue>
+	<headerfalse oae-label="False column header">
+		<![CDATA[False]]>
+	</headerfalse>
+
+	<!-- Enter up to 10 statements and indicate if they are true or false; leave "not used" if that item will not be used. -->
+
+	<pairs oae-label="Statement Pairs:">
+		<pair oae-label="Pair 1">
+			<question oae-label="Statement">
+				<![CDATA[All experts now believe that all reading is good for children, no matter who chooses their reading material.]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="False" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+		<pair oae-label="Pair 2">
+			<question oae-label="Statement">
+				<![CDATA[Not many experts are changing their thinking about what children should be allowed to read.]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="False" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+		<pair oae-label="Pair 3">
+			<question oae-label="Statement">
+				<![CDATA[Some experts believe that reading teen magazines and comic books can increase children’s vocabularies.]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="True" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+		<pair oae-label="Pair 4">
+			<question oae-label="Statement">
+				<![CDATA[One benefit is that children tend to choose books that are very easy to read.]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="False" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+		<pair oae-label="Pair 5">
+			<question oae-label="Statement">
+				<![CDATA[One advantage of comic books and teen romances is that they help children become better readers.]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="True" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+		<pair oae-label="Pair 6">
+			<question oae-label="Statement">
+				<![CDATA[]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="not used" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+		<pair oae-label="Pair 7">
+			<question oae-label="Statement">
+				<![CDATA[]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="not used" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+		<pair oae-label="Pair 8">
+			<question oae-label="Statement">
+				<![CDATA[]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="not used" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+		<pair oae-label="Pair 9">
+			<question oae-label="Statement">
+				<![CDATA[]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="not used" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+		<pair oae-label="Pair 10">
+			<question oae-label="Statement">
+				<![CDATA[]]>
+			</question>
+			<answer oae-label="Answer" oae-type="select" value="not used" opt1="True" opt2="False" opt3="not used">
+</answer>
+			<feedback oae-label="Feedback">
+				<![CDATA[]]>
+			</feedback>
+		</pair>
+	</pairs>
+</activity>

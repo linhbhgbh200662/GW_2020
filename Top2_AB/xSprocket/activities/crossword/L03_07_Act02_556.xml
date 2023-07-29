@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><activity type="Crossword"><dimensions><![CDATA[[17,14]]]></dimensions><title><![CDATA[Crossword]]></title><shortinst><![CDATA[- Click a clue to view the corresponding answer squares 
+- Or click a number on the answer squares to view the corresponding clue
+- Click square twice to change directions
+- Begin typing in the darker square]]></shortinst><detailinst><![CDATA[This activity allows you to type answers to questions posed in the across or down clue windows.
+
+Clues
+- Click an across or down clue to highlight the corresponding answer squares
+- Use the scroll bars to view more clues
+
+Answer Squares
+- Click a numbered answer square to view the corresponding clue
+- Click a numbered square a second time to view the corresponding clue in the opposite direction
+- If a numbered square is already filled, click the second or any empty square in the same direction to view the clue
+- Dark square indicates where text will be entered when typing begins
+- Fill answer squares by typing the answer. Correct or Incorrect feedback will be presented as soon as the final square of the word is filled.
+- Answers that require more than one word will not use spaces
+- Backspace deletes characters
+
+Scoring
+- Scores for crosswords are not calculated or recorded
+- Multiple attempts may be allowed to fill each answer correctly
+- A correct mark will display next to the clue when the answer squares are filled correctly
+- An incorrect mark will display next to the clue after the allotted number of incorrect tries. 
+- The correct answer will fill automatically after the allotted number of incorrect tries
+- Click 'Show Completed Puzzle' to reveal all answers
+- Click 'Reset' to start the puzzle again]]></detailinst><autofill_number><![CDATA[3]]></autofill_number><across><word><text><![CDATA[hardtofollow]]></text><clue><![CDATA[Difficult to understand]]></clue><gridloc><![CDATA[01_06]]></gridloc></word><word><text><![CDATA[character]]></text><clue><![CDATA[A person in a fictional book]]></clue><gridloc><![CDATA[04_06]]></gridloc></word><word><text><![CDATA[clipping]]></text><clue><![CDATA[An article or picture that has been cut out of a newspaper or magazine]]></clue><gridloc><![CDATA[06_01]]></gridloc></word><word><text><![CDATA[treasure]]></text><clue><![CDATA[Something that is valuable or important ]]></clue><gridloc><![CDATA[06_10]]></gridloc></word><word><text><![CDATA[trash]]></text><clue><![CDATA[A book of very poor quality]]></clue><gridloc><![CDATA[11_10]]></gridloc></word><word><text><![CDATA[bestseller]]></text><clue><![CDATA[A very popular book that sells a lot of copies]]></clue><gridloc><![CDATA[13_01]]></gridloc></word></across><down><word><text><![CDATA[fastread]]></text><clue><![CDATA[A book that is enjoyable because it's easy to read]]></clue><gridloc><![CDATA[01_12]]></gridloc></word><word><text><![CDATA[comics]]></text><clue><![CDATA[Stories told through a combination of words and illustrations]]></clue><gridloc><![CDATA[02_01]]></gridloc></word><word><text><![CDATA[review]]></text><clue><![CDATA[An opinion about a new book printed in a newspaper or magazine]]></clue><gridloc><![CDATA[03_03]]></gridloc></word><word><text><![CDATA[cliffhanger]]></text><clue><![CDATA[A story that keeps you interested because you don't know what will happen]]></clue><gridloc><![CDATA[04_06]]></gridloc></word><word><text><![CDATA[browsing]]></text><clue><![CDATA[Looking at things for sale without wanting to buy any particular thing ]]></clue><gridloc><![CDATA[05_16]]></gridloc></word><word><text><![CDATA[mystery]]></text><clue><![CDATA[A fictional book, usually about murder or other crimes]]></clue><gridloc><![CDATA[08_10]]></gridloc></word><word><text><![CDATA[puzzle]]></text><clue><![CDATA[A game in which you have to think hard to solve a difficult question or problem ]]></clue><gridloc><![CDATA[09_08]]></gridloc></word><word><text><![CDATA[skim]]></text><clue><![CDATA[Read something quickly to find the main ideas in it]]></clue><gridloc><![CDATA[11_13]]></gridloc></word></down></activity>

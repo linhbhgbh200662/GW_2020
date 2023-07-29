@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="quiz_show" version="1.0" client="" oae-label="ACTIVITY TYPE: QUIZ SHOW">
+	<title oae-label="Title:">
+		<![CDATA[Quiz Show]]>
+	</title>
+	<shortinst oae-label="Short Instructions:">
+		<![CDATA[Click on a box. Choose the correct answer. You have only three minutes.]]>
+	</shortinst>
+	<detailinst oae-label="Detailed Instructions:">
+		<![CDATA[Click on an amount in a category to answer a question about that topic. Click on the correct answer for each question. If your entry is correct, it will highlight in green and you will "win" the amount of money listed. If you are incorrect, you will "lose" the amount of money listed. You don't gain or lose any money for trying again. Next and Previous buttons navigate among the questions. Try to win as much money as you can!]]>
+	</detailinst>
+	<randomquestions oae-label="Randomize Questions:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomquestions>
+	<randomanswers oae-label="Randomize Answers:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomanswers>
+	<categories>
+		<category oae-lable="Category 1">
+			<![CDATA[Clothes]]>
+		</category>
+		<category oae-lable="Category 2">
+			<![CDATA[<u>This</u> / <u>that</u> / <u>these</u> / <u>those</u>]]>
+		</category>
+		<category oae-lable="Category 3">
+			<![CDATA[Adjectives]]>
+		</category>
+		<category oae-lable="Category 4">
+			<![CDATA[Information questions]]>
+		</category>
+	</categories>
+	<categoryquestions oae-label="Category 1 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[She wants that ____.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_2e_6_20.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[shoes]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[ties]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[sweater]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[shirt]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I like these ____.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_2e_6_21.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[shoes]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[ties]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[sweater]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[shirt]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[She wants this ____.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_2e_6_22.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[shoes]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[ties]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[sweater]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[shirts]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[He likes those ____.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_2e_6_23.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[shoes]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[ties]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[sweater]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[shirts]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 2 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[____ jackets are new.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_6_24.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[This]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[That]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[These]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[Those]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I want ____ shoes.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_6_25.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[this]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[that]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[these]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[those]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[____ skirt is purple.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_6_26.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[This]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[That]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[These]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[Those]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[____ suit is nice.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_6_27.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[This]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[That]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[These]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[Those]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 3 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[This shirt is ____ .]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_6_28.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[dirty]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[old]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[blue]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[orange]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[That dress is ____.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_6_29.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[dirty]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[old]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[blue]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[orange]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Those shoes are ____.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_6_30.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[dirty]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[old]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[blue]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[orange]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[These skirts are ____.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_6_31.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[dirty]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[old]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[blue]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[orange]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 4 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[____ do you want this jacket?]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[Why]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[What color]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[Which]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[What size]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[____ sweater do you need? All we have is large.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[Why]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[What color]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[Which]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[What size]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[____ skirt do you like?  The short one or the long one?]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[Why]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[What color]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[Which]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[What size]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[____ do you have?  I need brown.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[Why]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[What color]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[Which]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[What size]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+</activity>

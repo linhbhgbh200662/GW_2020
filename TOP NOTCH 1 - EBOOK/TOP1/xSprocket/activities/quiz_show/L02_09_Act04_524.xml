@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="quiz_show" version="1.0" client="" oae-label="ACTIVITY TYPE: QUIZ SHOW">
+	<title oae-label="Title:">
+		<![CDATA[Quiz Show]]>
+	</title>
+	<shortinst oae-label="Short Instructions:">
+		<![CDATA[Click on a box. Choose the correct answer. You have only three minutes.]]>
+	</shortinst>
+	<detailinst oae-label="Detailed Instructions:">
+		<![CDATA[Click on an amount in a category to answer a question about that topic. Click on the correct answer for each question. If your entry is correct, it will highlight in green and you will "win" the amount of money listed. If you are incorrect, you will "lose" the amount of money listed. You don't gain or lose any money for trying again. Next and Previous buttons navigate among the questions. Try to win as much money as you can!]]>
+	</detailinst>
+	<randomquestions oae-label="Randomize Questions:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomquestions>
+	<randomanswers oae-label="Randomize Answers:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomanswers>
+	<categories>
+		<category oae-lable="Category 1">
+			<![CDATA[Computer users]]>
+		</category>
+		<category oae-lable="Category 2">
+			<![CDATA[Computer commands]]>
+		</category>
+		<category oae-lable="Category 3">
+			<![CDATA[More computer commands]]>
+		</category>
+		<category oae-lable="Category 4">
+			<![CDATA[Internet activities]]>
+		</category>
+	</categories>
+	<categoryquestions oae-label="Category 1 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[A computer ____ is a person who spends too much time on computers.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[hacker]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[addict]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[cyberbully]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[expert]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[A computer ____ is a person who is very knowledgeable about computers.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[criminal]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[addict]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[cyberbully]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[expert]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[____ is a person who enters computer systems without being asked.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[A hacker]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[An addict]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[A cyberbully]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[An expert]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[A  ____ is a person who sends messages online with the goal of hurting other people.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[hacker]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[addict]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[cyberbully]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[expert]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 2 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[You have to ____ text before you can copy or cut it.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[cut]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[select]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[scroll]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[click]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[To ____ up or down means to move up or down.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[cut]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[select]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[scroll]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[click]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[You use a mouse to _____ on an icon.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[cut]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[select]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[scroll]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[click]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[After you _____ or copy text, you can paste it somewhere else.
+]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[cut]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[select]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[scroll]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[click]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 3 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Be sure to ____ the file before you close it, or you’ll lose all the work you’ve done.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[save]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[copy]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[paste]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[cut]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[You have to turn on the printer before you can ____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[print]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[open]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[save]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[close]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Don’t ____ that e-mail attachment; it has a virus in it.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[open]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[close]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[paste]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[scroll]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[To move text, just cut and ____ it where you need it.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[paste]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[select]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[print]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[close]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 4 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Have you ____ this online group yet? It's so much fun!]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[downloaded]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[joined]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[attached]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[surfed]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I ____ the music files from a music website to my MP3 player.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[downloaded]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[joined]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[attached]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[surfed]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[My brother ____ the pictures to an e-mail and sent them to me.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[downloaded]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[joined]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[attached]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[surfed]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[She ____ the Internet all night.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[downloaded]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[joined]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[attached]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[surfed]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+</activity>

@@ -1,0 +1,521 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<skin>
+<!--Measured from top left corner of app to top left corner of button-->
+	<title_coordinates>
+		point(1000,5) 
+	</title_coordinates>
+<!--Title for app-->
+	<title>
+<![CDATA[]]> 
+	</title>
+<!--Font for title-->
+	<title_font>
+		Arial 
+	</title_font>
+<!--Font size for title-->
+	<title_font_size>
+		14 
+	</title_font_size>
+<!--Color of title-->
+	<title_font_color>
+		rgb("001B4A")  
+	</title_font_color>
+<!--Text for help pop-up. HTML styled.-->
+	<help_text>
+<![CDATA[Click the <b>Record</b> button to start recording your voice.  Click the <b>Stop Record</b> button to stop recording your voice.  Click the <b>Playback</b> button to replay what you recorded.  Make sure the volume on your computer is turned up so you can hear your voice.<br>Click the <b>Save</b> button to save your recorded audio file to your computer.  Note the default filename will appear as "recording.mp3".  <b><i>Be sure to update this default filename for each separate recording so you do not overwrite existing recordings!</i></b>  Also, be sure to remember the filename and location of your saved audio file, especially if you plan to email the file to your instructor.<br>If you wish to email your audio file, you may open your preferred email application and insert your audio file as an attachment.]]> 
+	</help_text>
+<!--Font for help-->
+	<help_font>
+		Arial 
+	</help_font>
+<!--Font size for help-->
+	<help_font_size>
+		12 
+	</help_font_size>
+	<buttons>
+<!--Font for button labels-->
+		<button_font>
+			Arial 
+		</button_font>
+<!--Font size for button labels-->
+		<button_font_size>
+			12 
+		</button_font_size>
+<!--Delay time for tool tips (in milliseconds). Ignore if using only labels-->
+		<tip_delay>
+			1000 
+		</tip_delay>
+		<!--Help button info-->
+		<help_button>
+<!--Measured from top left corner of app to top left corner of button-->
+			<button_coordinates>
+				point(180,2) 
+			</button_coordinates>
+<!--Custom graphic for the normal state. leave as "none" if using the internal default buttons.-->
+			<button_up_file>
+				none
+			</button_up_file>
+<!--Custom graphic for the mouse over state. leave as "none" if using the internal default buttons.-->
+			<button_over_file>
+				none
+			</button_over_file>
+<!--Custom graphic for the mouse down state. leave as "none" if using the internal default buttons.-->
+			<button_down_file>
+				none
+			</button_down_file>
+<!--Custom graphic for the inactive state. leave as "none" if using the internal default buttons.-->
+			<button_inactive_file>
+				none
+			</button_inactive_file>
+			<label_or_tool_tip>
+				none 
+			</label_or_tool_tip>
+			<label>
+<![CDATA[Help]]> 
+			</label>
+			<label_text_color>
+				rgb("000000") 
+			</label_text_color>
+			<label_text_rollover_color>
+				rgb("ff0000") 
+			</label_text_rollover_color>
+			<label_back_opacity>
+				0 
+			</label_back_opacity>
+			<label_back_color>
+				rgb("ffffff") 
+			</label_back_color>
+			<label_back_roll_color>
+				rgb("ffffff") 
+			</label_back_roll_color>
+		</help_button>
+<!--Help close button info-->
+		<help_close_button>
+<!--Measured from top left corner of app to top left corner of button-->
+			<button_coordinates>
+				point(140,2) 
+			</button_coordinates>
+<!--Custom graphic for the normal state. leave as "none" if using the internal default buttons.-->
+			<button_up_file>
+				none 
+			</button_up_file>
+<!--Custom graphic for the mouse over state. leave as "none" if using the internal default buttons.-->
+			<button_over_file>
+				none  
+			</button_over_file>
+<!--Custom graphic for the mouse down state. leave as "none" if using the internal default buttons.-->
+			<button_down_file>
+				none  
+			</button_down_file>
+<!--Custom graphic for the inactive state. leave as "none" if using the internal default buttons.-->
+			<button_inactive_file>
+				none  
+			</button_inactive_file>
+			<label_or_tool_tip>
+				none 
+			</label_or_tool_tip>
+			<label>
+<![CDATA[Close Help]]> 
+			</label>
+			<label_text_color>
+				rgb("000000") 
+			</label_text_color>
+			<label_text_rollover_color>
+				rgb("ff0000") 
+			</label_text_rollover_color>
+			<label_back_opacity>
+				0 
+			</label_back_opacity>
+			<label_back_color>
+				rgb("ffffff") 
+			</label_back_color>
+			<label_back_roll_color>
+				rgb("ffffff") 
+			</label_back_roll_color>
+		</help_close_button>
+<!--Minimize button info-->
+		<minimize_button>
+<!--Measured from top left corner of app to top left corner of button-->
+			<button_coordinates>
+				point(258,2) 
+			</button_coordinates>
+<!--Custom graphic for the normal state. leave as "none" if using the internal default buttons.-->
+			<button_up_file>
+				none 
+			</button_up_file>
+<!--Custom graphic for the mouse over state. leave as "none" if using the internal default buttons.-->
+			<button_over_file>
+				none  
+			</button_over_file>
+<!--Custom graphic for the mouse down state. leave as "none" if using the internal default buttons.-->
+			<button_down_file>
+				none  
+			</button_down_file>
+<!--Custom graphic for the inactive state. leave as "none" if using the internal default buttons.-->
+			<button_inactive_file>
+				none  
+			</button_inactive_file>
+			<label_or_tool_tip>
+				none 
+			</label_or_tool_tip>
+			<label>
+<![CDATA[]]> 
+			</label>
+			<label_text_color>
+				rgb("000000") 
+			</label_text_color>
+			<label_text_rollover_color>
+				rgb("ff0000") 
+			</label_text_rollover_color>
+			<label_back_opacity>
+				0 
+			</label_back_opacity>
+			<label_back_color>
+				rgb("ffffff") 
+			</label_back_color>
+			<label_back_roll_color>
+				rgb("ffffff") 
+			</label_back_roll_color>
+		</minimize_button>
+<!--Exit button info-->
+		<exit_button>
+<!--Measured from top left corner of app to top left corner of button-->
+			<button_coordinates>
+				point(278,2) 
+			</button_coordinates>
+<!--Custom graphic for the normal state. leave as "none" if using the internal default buttons.-->
+			<button_up_file>
+				none 
+			</button_up_file>
+<!--Custom graphic for the mouse over state. leave as "none" if using the internal default buttons.-->
+			<button_over_file>
+				none  
+			</button_over_file>
+<!--Custom graphic for the mouse down state. leave as "none" if using the internal default buttons.-->
+			<button_down_file>
+				none  
+			</button_down_file>
+<!--Custom graphic for the inactive state. leave as "none" if using the internal default buttons.-->
+			<button_inactive_file>
+				none  
+			</button_inactive_file>
+			<label_or_tool_tip>
+				none 
+			</label_or_tool_tip>
+			<label>
+<![CDATA[]]> 
+			</label>
+			<label_text_color>
+				rgb("000000") 
+			</label_text_color>
+			<label_text_rollover_color>
+				rgb("ff0000") 
+			</label_text_rollover_color>
+			<label_back_opacity>
+				0 
+			</label_back_opacity>
+			<label_back_color>
+				rgb("ffffff") 
+			</label_back_color>
+			<label_back_roll_color>
+				rgb("ffffff") 
+			</label_back_roll_color>
+		</exit_button>
+<!--Open button info-->
+		<open_button>
+<!--Measured from top left corner of app to top left corner of button-->
+			<button_coordinates>
+				point(86,26) 
+			</button_coordinates>
+<!--Custom graphic for the normal state. leave as "none" if using the internal default buttons.-->
+			<button_up_file>
+				none 
+			</button_up_file>
+<!--Custom graphic for the mouse over state. leave as "none" if using the internal default buttons.-->
+			<button_over_file>
+				none 
+			</button_over_file>
+<!--Custom graphic for the mouse down state. leave as "none" if using the internal default buttons.-->
+			<button_down_file>
+				none 
+			</button_down_file>
+<!--Custom graphic for the inactive state. leave as "none" if using the internal default buttons.-->
+			<button_inactive_file>
+				none 
+			</button_inactive_file>
+<!--Labelling - choose between a persistent "label", or a "tool tip" that appears on roll over, or "none".-->
+			<label_or_tool_tip>
+				tool tip 
+			</label_or_tool_tip>
+<!--Text of label or tool tip.-->
+			<label>
+<![CDATA[Open]]> 
+			</label>
+<!--Text color of label or tool tip.-->
+			<label_text_color>
+				rgb("333333") 
+			</label_text_color>
+<!--If a label, color of the label text when button is rolled over. Ignore if using tool tips.-->
+			<label_text_rollover_color>
+				rgb("333333") 
+			</label_text_rollover_color>
+<!--Opacity of the bounding rectangle of the label. Set to zero for no background rectangle.-->
+			<label_back_opacity>
+				100 
+			</label_back_opacity>
+<!--Color of the bounding rectangle.-->
+			<label_back_color>
+				rgb("F8E947") 
+			</label_back_color>
+<!--If a label, color of the bounding rectangle when button is rolled over. Ignore if using tool tips.-->
+			<label_back_roll_color>
+				rgb("F8E947") 
+			</label_back_roll_color>
+		</open_button>
+<!--Save button info-->
+		<save_button>
+<!--Measured from top left corner of app to top left corner of button-->
+			<button_coordinates>
+				point(480,360) 
+			</button_coordinates>
+<!--Custom graphic for the normal state. leave as "none" if using the internal default buttons.-->
+			<button_up_file>
+				none 
+			</button_up_file>
+<!--Custom graphic for the mouse over state. leave as "none" if using the internal default buttons.-->
+			<button_over_file>
+				none 
+			</button_over_file>
+<!--Custom graphic for the mouse down state. leave as "none" if using the internal default buttons.-->
+			<button_down_file>
+				none 
+			</button_down_file>
+<!--Custom graphic for the inactive state. leave as "none" if using the internal default buttons.-->
+			<button_inactive_file>
+				none 
+			</button_inactive_file>
+			<label_or_tool_tip>
+				label
+			</label_or_tool_tip>
+			<label>
+<![CDATA[]]> 
+			</label>
+			<label_text_color>
+				rgb("000000") 
+			</label_text_color>
+			<label_text_rollover_color>
+				rgb("ff0000") 
+			</label_text_rollover_color>
+			<label_back_opacity>
+				0 
+			</label_back_opacity>
+			<label_back_color>
+				rgb("ffffff") 
+			</label_back_color>
+			<label_back_roll_color>
+				rgb("ffffff") 
+			</label_back_roll_color>
+		</save_button>
+<!--Record button info-->
+		<record_button>
+<!--Measured from top left corner of app to top left corner of button-->
+			<button_coordinates>
+				point(480,360) 
+			</button_coordinates>
+<!--Custom graphic for the normal state. leave as "none" if using the internal default buttons.-->
+			<button_up_file>
+				none 
+			</button_up_file>
+<!--Custom graphic for the mouse over state. leave as "none" if using the internal default buttons.-->
+			<button_over_file>
+				none 
+			</button_over_file>
+<!--Custom graphic for the mouse down state. leave as "none" if using the internal default buttons.-->
+			<button_down_file>
+				none 
+			</button_down_file>
+<!--Custom graphic for the inactive state. leave as "none" if using the internal default buttons.-->
+			<button_inactive_file>
+				none 
+			</button_inactive_file>
+			<label_or_tool_tip>
+				label 
+			</label_or_tool_tip>
+			<label>
+<![CDATA[]]> 
+			</label>
+			<label_text_color>
+				rgb("790000") 
+			</label_text_color>
+			<label_text_rollover_color>
+				rgb("F73038") 
+			</label_text_rollover_color>
+			<label_back_opacity>
+				0 
+			</label_back_opacity>
+			<label_back_color>
+				rgb("ffffff") 
+			</label_back_color>
+			<label_back_roll_color>
+				rgb("ffffff") 
+			</label_back_roll_color>
+		</record_button>
+<!--Stop button info-->
+		<stop_button>
+<!--Measured from top left corner of app to top left corner of button-->
+			<button_coordinates>
+				point(480,360)  
+			</button_coordinates>
+<!--Custom graphic for the normal state. leave as "none" if using the internal default buttons.-->
+			<button_up_file>
+				none 
+			</button_up_file>
+<!--Custom graphic for the mouse over state. leave as "none" if using the internal default buttons.-->
+			<button_over_file>
+				none 
+			</button_over_file>
+<!--Custom graphic for the mouse down state. leave as "none" if using the internal default buttons.-->
+			<button_down_file>
+				none 
+			</button_down_file>
+<!--Custom graphic for the inactive state. leave as "none" if using the internal default buttons.-->
+			<button_inactive_file>
+				none 
+			</button_inactive_file>
+			<label_or_tool_tip>
+				label 
+			</label_or_tool_tip>
+			<label>
+<![CDATA[]]> 
+			</label>
+			<label_text_color>
+				rgb("010959") 
+			</label_text_color>
+			<label_text_rollover_color>
+				rgb("228DBE") 
+			</label_text_rollover_color>
+			<label_back_opacity>
+				0 
+			</label_back_opacity>
+			<label_back_color>
+				rgb("ffffff") 
+			</label_back_color>
+			<label_back_roll_color>
+				rgb("ffffff") 
+			</label_back_roll_color>
+		</stop_button>
+<!--Play button info-->
+		<play_button>
+<!--Measured from top left corner of app to top left corner of button-->
+			<button_coordinates>
+				point(480,360) 
+			</button_coordinates>
+<!--Custom graphic for the normal state. leave as "none" if using the internal default buttons.-->
+			<button_up_file>none</button_up_file>
+<!--Custom graphic for the mouse over state. leave as "none" if using the internal default buttons.-->
+			<button_over_file>
+				none
+			</button_over_file>
+<!--Custom graphic for the mouse down state. leave as "none" if using the internal default buttons.-->
+			<button_down_file>
+				none  
+			</button_down_file>
+<!--Custom graphic for the inactive state. leave as "none" if using the internal default buttons.-->
+			<button_inactive_file>
+				none 
+			</button_inactive_file>
+			<label_or_tool_tip>
+				label 
+			</label_or_tool_tip>
+			<label>
+<![CDATA[]]> 
+			</label>
+			<label_text_color>
+				rgb("006C03") 
+			</label_text_color>
+			<label_text_rollover_color>
+				rgb("28E63E") 
+			</label_text_rollover_color>
+			<label_back_opacity>
+				0 
+			</label_back_opacity>
+			<label_back_color>
+				rgb("ffffff") 
+			</label_back_color>
+			<label_back_roll_color>
+				rgb("ffffff") 
+			</label_back_roll_color>
+		</play_button>
+	</buttons>
+<!--custom graphic for the background-->
+	<background_image_file>
+		none 
+	</background_image_file>
+<!--Label for the volume slider-->
+	<volume_slider_label>
+		<![CDATA[]]> 
+	</volume_slider_label>
+<!--Formatting info the volume slider-->
+	<volume_slider_label_color>
+		rgb("777777")
+	</volume_slider_label_color>
+	<volume_slider_label_font>
+		Arial
+	</volume_slider_label_font>
+	<volume_slider_label_fontsize>
+		10
+	</volume_slider_label_fontsize>
+	<volume_slider_label_loc>
+		point(-100,-140) 
+	</volume_slider_label_loc>
+<!--custom graphic for the volume icon-->
+	<volume_icon_image_file>
+		none 
+	</volume_icon_image_file>
+<!--measured from top left corner of app to top left corner of icon-->
+	<volume_icon_coordinates>
+		point(-86,-135) 
+	</volume_icon_coordinates>
+<!--custom graphic for the volume track-->
+	<volume_track_image_file>
+		none 
+	</volume_track_image_file>
+<!--measured from top left corner of app to top left corner of volume track-->
+	<volume_track_coordinates>
+		point(412,606) 
+	</volume_track_coordinates>
+<!--custom graphic for the volume slider thumb-->
+	<volume_thumb_image_file>
+		none 
+	</volume_thumb_image_file>
+	<!--Formatting info for the time displayer-->
+	<time_display_color>
+		rgb("777777")
+	</time_display_color>
+	<time_display_font>
+		Arial
+	</time_display_font>
+	<time_display_fontsize>
+		12
+	</time_display_fontsize>
+	<time_display_loc>
+		point(700,600) 
+	</time_display_loc>
+	<!--Time display's label-->
+	<time_display_label>
+		<![CDATA[<b>Recording Time:</b>]]>
+	</time_display_label>
+	<!--Formatting info for the time display's label-->
+	<time_display_label_color>
+		rgb("777777")
+	</time_display_label_color>
+	<time_display_label_font>
+		Arial
+	</time_display_label_font>
+	<time_display_label_fontsize>
+		12
+	</time_display_label_fontsize>
+	<time_display_label_loc>
+		point(600,600) 
+	</time_display_label_loc>
+</skin>

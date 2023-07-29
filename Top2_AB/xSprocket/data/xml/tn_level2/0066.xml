@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<page id="0066">
+<map name="Map" id="Map">
+<art type="icon">
+<coords><![CDATA[50.799999999999798,117.9]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[82]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 2 MP3 files/Unit_06/3-26_A_Conversation_mode_p66.mp3]]></href>
+</art>
+<art type="icon">
+<coords><![CDATA[313.7,240.25]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[82]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 2 MP3 files/Unit_06/3-28_Variations_p66.mp3]]></href>
+</art>
+<art type="icon">
+<coords><![CDATA[50.799999999999798,252.8]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[82]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 2 MP3 files/Unit_06/3-27_B_Rhythm_and_intona_p66.mp3]]></href>
+</art>
+<art type="icon">
+<coords><![CDATA[50.799999999999798,327.89999999999901]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[82]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 2 MP3 files/Unit_06/3-29_A_Vocabulary_p66.mp3]]></href>
+</art>
+<art type="icon">
+<coords><![CDATA[50.7,593.9]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[82]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 2 MP3 files/Unit_06/3-30_B_Listening_compreh_p66.mp3]]></href>
+</art>
+</map>
+</page>

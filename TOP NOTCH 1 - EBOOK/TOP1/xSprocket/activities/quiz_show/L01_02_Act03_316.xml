@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="quiz_show" version="1.0" client="" oae-label="ACTIVITY TYPE: QUIZ SHOW">
+	<title oae-label="Title:">
+		<![CDATA[Quiz Show]]>
+	</title>
+	<shortinst oae-label="Short Instructions:">
+		<![CDATA[Click on a box. Choose the correct answer. You have only three minutes.]]>
+	</shortinst>
+	<detailinst oae-label="Detailed Instructions:">
+		<![CDATA[Click on an amount in a category to answer a question about that topic. Click on the correct answer for each question. If your entry is correct, it will highlight in green and you will "win" the amount of money listed. If you are incorrect, you will "lose" the amount of money listed. You don't gain or lose any money for trying again. Next and Previous buttons navigate among the questions. Try to win as much money as you can!]]>
+	</detailinst>
+	<randomquestions oae-label="Randomize Questions:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomquestions>
+	<randomanswers oae-label="Randomize Answers:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomanswers>
+	<categories>
+		<category oae-lable="Category 1">
+			<![CDATA[Entertainment events]]>
+		</category>
+		<category oae-lable="Category 2">
+			<![CDATA[Expressing likes / dislikes]]>
+		</category>
+		<category oae-lable="Category 3">
+			<![CDATA[Prepositions]]>
+		</category>
+		<category oae-lable="Category 4">
+			<![CDATA[Information questions — contractions]]>
+		</category>
+	</categories>
+	<categoryquestions oae-label="Category 1 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I’m a big classical music fan.  I’d love to go to _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[a concert]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[a movie]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[an exhibit]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[a talk]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Do you want to go to _____ or watch a DVD at home?]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[a concert]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[a movie]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[an exhibit]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[a talk]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I don't really like modern art, but I hear there's _____ downtown that looks good.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[a concert]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[a movie]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[an exhibit]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[a talk]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[At 9:30 there’s _____ about business opportunities in Asia.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[a concert]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[a movie]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[an exhibit]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[a talk]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 2 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I don’t like jazz music.  Salsa is _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[more my style]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[not for me]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[a big fan]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[past my bedtime]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I don’t want to go to that art exhibit.  It’s _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[more my style]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[not for me]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[a big fan]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[past my bedtime]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I’d love to see his new movie.  I’m _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[more my style]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[not for me]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[a big fan]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[past my bedtime]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[That's _____.  Is there a movie at 8:00?]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[more my style]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[not for me]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[a big fan]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[past my bedtime]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 3 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Katie and Amanda left _____ 7:30.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[at]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[in]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[on]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[to]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[The photography exhibit is _____ September.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[at]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[in]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[on]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[to]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Her interview is _____ Thursday.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[at]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[in]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[on]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[to]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Let me introduce you _____ my husband.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[at]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[in]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[on]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[to]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 4 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[A: _____ the play?  
+B: At 2:00.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[What time's]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[When’s]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[Where’s]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[Who’s]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[A: _____ the talk?  
+B: On Wednesday night.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[What time's]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[When's]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[Where's]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[Who's]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[A: _____ the theater?  
+B: On Fifth Street.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[What time's]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[When's]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[Where's]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[Who's]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[A: _____ in the movie?  
+B: Cate Blanchett.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[What time's]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[When's]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[Where's]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[Who's]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+</activity>

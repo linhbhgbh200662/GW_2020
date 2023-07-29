@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page id="0130">
+<map name="Map" id="Map">
+<art type="icon" pfunction="generic_gotopage">
+<coords><![CDATA[145,25]]></coords>
+<icon><![CDATA[tn_gotounit]]></icon>
+<page><![CDATA[52]]></page>
+<title><![CDATA[Go to Unit]]></title>
+<scale><![CDATA[80]]></scale>
+</art></map></page>

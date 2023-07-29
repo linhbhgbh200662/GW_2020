@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="multiple_choice" version="1.0" client="Longman" oae-label="ACTIVITY TYPE: Multiple Choice">
+	<title oae-label="Activity Title" oae-type="textarea" oae-rows="1">
+		<![CDATA[Activity 1]]>
+	</title>
+	<instructions oae-label="Instructions" oae-type="textarea" oae-rows="3">
+		<![CDATA[Read the movie reviews. Then click on the movie title that best completes each statement, according to the reviews.]]>
+	</instructions>
+	<questions>
+		<question oae-label="Question 1">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[<b>Bend It Like Beckham</b>
+<b>* * * 1/2</b> 
+(PG-13, 112 minutes) 
+An Indian girl (Parminder K. Nagra) living in London dreams of playing pro soccer, but her traditional Sikh parents want her to forget about soccer and marry a nice Indian boy. Just about the perfect teenage coming-of-age comedy.
+
+<b>Finding Nemo</b>
+<b>* * * *</b> 
+(G, 101 minutes) 
+A little clown fish gets lost, and his dad and another fish team up to find him. Visually beautiful, an adventure for kids plus a level of humor that adults will appreciate. 
+
+<b>The Heart of Me</b>
+<b>* * *</b> 
+(R, 96 minutes) 
+Helena Bonham Carter stars as a woman who has the misfortune to fall in love with the husband (Paul Bettany) of her sister (Olivia Williams). Portrays London society, in the 1940s.
+
+<b>Spellbound</b>
+<b>* * *</b> 
+(Unrated, suitable for all, 95 minutes) 
+This Oscar-nominated U.S. documentary visits the homes of eight finalists for the National Spelling Bee, and then follows them to the finals in Washington. We get to know the kids and their families.]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[_____ is a funny movie about fish.]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[Finding Nemo]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[Spellbound]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[Bend it Like Beckham]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[The Heart of Me]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 2">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[<b>Bend It Like Beckham</b>
+<b>* * * 1/2</b> 
+(PG-13, 112 minutes) 
+An Indian girl (Parminder K. Nagra) living in London dreams of playing pro soccer, but her traditional Sikh parents want her to forget about soccer and marry a nice Indian boy. Just about the perfect teenage coming-of-age comedy.
+
+<b>Finding Nemo</b>
+<b>* * * *</b> 
+(G, 101 minutes) 
+A little clown fish gets lost, and his dad and another fish team up to find him. Visually beautiful, an adventure for kids plus a level of humor that adults will appreciate. 
+
+<b>The Heart of Me</b>
+<b>* * *</b> 
+(R, 96 minutes) 
+Helena Bonham Carter stars as a woman who has the misfortune to fall in love with the husband (Paul Bettany) of her sister (Olivia Williams). Portrays London society, in the 1940s.
+
+<b>Spellbound</b>
+<b>* * *</b> 
+(Unrated, suitable for all, 95 minutes) 
+This Oscar-nominated U.S. documentary visits the homes of eight finalists for the National Spelling Bee, and then follows them to the finals in Washington. We get to know the kids and their families.]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[The longest film is _____.]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[Bend it Like Beckham]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[Spellbound]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[The Heart of Me]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[Finding Nemo]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 3">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[<b>Bend It Like Beckham</b>
+<b>* * * 1/2</b> 
+(PG-13, 112 minutes) 
+An Indian girl (Parminder K. Nagra) living in London dreams of playing pro soccer, but her traditional Sikh parents want her to forget about soccer and marry a nice Indian boy. Just about the perfect teenage coming-of-age comedy.
+
+<b>Finding Nemo</b>
+<b>* * * *</b> 
+(G, 101 minutes) 
+A little clown fish gets lost, and his dad and another fish team up to find him. Visually beautiful, an adventure for kids plus a level of humor that adults will appreciate. 
+
+<b>The Heart of Me</b>
+<b>* * *</b> 
+(R, 96 minutes) 
+Helena Bonham Carter stars as a woman who has the misfortune to fall in love with the husband (Paul Bettany) of her sister (Olivia Williams). Portrays London society, in the 1940s.
+
+<b>Spellbound</b>
+<b>* * *</b> 
+(Unrated, suitable for all, 95 minutes) 
+This Oscar-nominated U.S. documentary visits the homes of eight finalists for the National Spelling Bee, and then follows them to the finals in Washington. We get to know the kids and their families.]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[_____ is a children’s movie.]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[Finding Nemo]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[Spellbound]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[The Heart of Me]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[Bend it Like Beckham]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 4">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[<b>Bend It Like Beckham</b>
+<b>* * * 1/2</b> 
+(PG-13, 112 minutes) 
+An Indian girl (Parminder K. Nagra) living in London dreams of playing pro soccer, but her traditional Sikh parents want her to forget about soccer and marry a nice Indian boy. Just about the perfect teenage coming-of-age comedy.
+
+<b>Finding Nemo</b>
+<b>* * * *</b> 
+(G, 101 minutes) 
+A little clown fish gets lost, and his dad and another fish team up to find him. Visually beautiful, an adventure for kids plus a level of humor that adults will appreciate. 
+
+<b>The Heart of Me</b>
+<b>* * *</b> 
+(R, 96 minutes) 
+Helena Bonham Carter stars as a woman who has the misfortune to fall in love with the husband (Paul Bettany) of her sister (Olivia Williams). Portrays London society, in the 1940s.
+
+<b>Spellbound</b>
+<b>* * *</b> 
+(Unrated, suitable for all, 95 minutes) 
+This Oscar-nominated U.S. documentary visits the homes of eight finalists for the National Spelling Bee, and then follows them to the finals in Washington. We get to know the kids and their families.]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[_____ portrays a time in the past.]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[The Heart of Me]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[Spellbound]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[Bend it Like Beckham]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[Finding Nemo]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 5">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[<b>Bend It Like Beckham</b>
+<b>* * * 1/2</b> 
+(PG-13, 112 minutes) 
+An Indian girl (Parminder K. Nagra) living in London dreams of playing pro soccer, but her traditional Sikh parents want her to forget about soccer and marry a nice Indian boy. Just about the perfect teenage coming-of-age comedy.
+
+<b>Finding Nemo</b>
+<b>* * * *</b> 
+(G, 101 minutes) 
+A little clown fish gets lost, and his dad and another fish team up to find him. Visually beautiful, an adventure for kids plus a level of humor that adults will appreciate. 
+
+<b>The Heart of Me</b>
+<b>* * *</b> 
+(R, 96 minutes) 
+Helena Bonham Carter stars as a woman who has the misfortune to fall in love with the husband (Paul Bettany) of her sister (Olivia Williams). Portrays London society, in the 1940s.
+
+<b>Spellbound</b>
+<b>* * *</b> 
+(Unrated, suitable for all, 95 minutes) 
+This Oscar-nominated U.S. documentary visits the homes of eight finalists for the National Spelling Bee, and then follows them to the finals in Washington. We get to know the kids and their families.]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[_____ is a love story.]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[The Heart of Me]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[Spellbound]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[Bend it Like Beckham]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[Finding Nemo]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 6">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[<b>Bend It Like Beckham</b>
+<b>* * * 1/2</b> 
+(PG-13, 112 minutes) 
+An Indian girl (Parminder K. Nagra) living in London dreams of playing pro soccer, but her traditional Sikh parents want her to forget about soccer and marry a nice Indian boy. Just about the perfect teenage coming-of-age comedy.
+
+<b>Finding Nemo</b>
+<b>* * * *</b> 
+(G, 101 minutes) 
+A little clown fish gets lost, and his dad and another fish team up to find him. Visually beautiful, an adventure for kids plus a level of humor that adults will appreciate. 
+
+<b>The Heart of Me</b>
+<b>* * *</b> 
+(R, 96 minutes) 
+Helena Bonham Carter stars as a woman who has the misfortune to fall in love with the husband (Paul Bettany) of her sister (Olivia Williams). Portrays London society, in the 1940s.
+
+<b>Spellbound</b>
+<b>* * *</b> 
+(Unrated, suitable for all, 95 minutes) 
+This Oscar-nominated U.S. documentary visits the homes of eight finalists for the National Spelling Bee, and then follows them to the finals in Washington. We get to know the kids and their families.]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[The film the reviewer liked best was _____.]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[Finding Nemo]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[Spellbound]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[The Heart of Me]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[Bend it Like Beckham]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 7">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 8">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 9">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 10">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+	</questions>
+</activity>

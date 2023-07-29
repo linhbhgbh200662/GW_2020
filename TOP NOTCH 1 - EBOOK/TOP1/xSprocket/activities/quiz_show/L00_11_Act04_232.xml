@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="quiz_show" version="1.0" client="" oae-label="ACTIVITY TYPE: QUIZ SHOW">
+	<title oae-label="Title:">
+		<![CDATA[Quiz Show]]>
+	</title>
+	<shortinst oae-label="Short Instructions:">
+		<![CDATA[Click on a box. Choose the correct answer. You have only three minutes.]]>
+	</shortinst>
+	<detailinst oae-label="Detailed Instructions:">
+		<![CDATA[Click on an amount in a category to answer a question about that topic. Click on the correct answer for each question. If your entry is correct, it will highlight in green and you will "win" the amount of money listed. If you are incorrect, you will "lose" the amount of money listed. You don't gain or lose any money for trying again. Next and Previous buttons navigate among the questions. Try to win as much money as you can!]]>
+	</detailinst>
+	<randomquestions oae-label="Randomize Questions:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomquestions>
+	<randomanswers oae-label="Randomize Answers:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomanswers>
+	<categories>
+		<category oae-lable="Category 1">
+			<![CDATA[Years]]>
+		</category>
+		<category oae-lable="Category 2">
+			<![CDATA[Outdoor Activities]]>
+		</category>
+		<category oae-lable="Category 3">
+			<![CDATA[Pronunciation—simple past tense endings]]>
+		</category>
+		<category oae-lable="Category 4">
+			<![CDATA[Questions—simple past tense]]>
+		</category>
+	</categories>
+	<categoryquestions oae-label="Category 1 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[____ is nineteen hundred.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[1901-2000]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[2001-2100]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[1900]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[1980-1989]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[____ is the twentieth century.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[1901-2000]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[2001-2100]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[1900]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[1980-1989]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[____ is the (nineteen) eighties.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[1901-2000]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[2001-2100]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[1900]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[1980-1989]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[____ is the twenty-first century.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[1901-2000]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[2001-2100]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[1900]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[1980-1989]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 2 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[The weather was great, so we went to the ____.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[bike riding]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[beach]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[swimming]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[drive]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[On Saturday, I went _____ in the park.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[bike riding]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[beach]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[swimming]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[drive]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[We went ____ at the beach yesterday.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[bike riding]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[beach]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[swimming]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[drive]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[My brother got a new car, so we went for a ____ on Sunday.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[bike riding]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[beach]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[swimming]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[drive]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 3 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[You pronounce the ending of "shopped" as ____.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[/d/]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[/t/]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[/Id/]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[You pronounce the ending of "needed" as ____.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[/d/]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[/t/]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[/Id/]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[You pronounce the ending of "played" as ____.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[/d/]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[/t/]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[/Id/]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[You pronounce the ending of "liked" as ____.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[/d/]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[/t/]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[/Id/]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 4 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[____ did you call yesterday at midnight?]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[What]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[Where]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[Who]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[When]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[____ did they go to China?]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[What]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[Where]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[Who]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[When]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[____ did your family do last weekend?]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[What]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[Where]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[Who]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[When]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[____ did you go bike riding yesterday?]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[What]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[Where]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[Who]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[How many]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+</activity>

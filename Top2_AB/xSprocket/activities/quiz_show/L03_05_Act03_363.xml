@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="quiz_show" version="1.0" client="" oae-label="ACTIVITY TYPE: QUIZ SHOW">
+	<title oae-label="Title:">
+		<![CDATA[Quiz Show]]>
+	</title>
+	<shortinst oae-label="Short Instructions:">
+		<![CDATA[Click on a box. Choose the correct answer. You have only three minutes.]]>
+	</shortinst>
+	<detailinst oae-label="Detailed Instructions:">
+		<![CDATA[Click on an amount in a category to answer a question about that topic. Click on the correct answer for each question. If your entry is correct, it will highlight in green and you will "win" the amount of money listed. If you are incorrect, you will "lose" the amount of money listed. You don't gain or lose any money for trying again. Next and Previous buttons navigate among the questions. Try to win as much money as you can!]]>
+	</detailinst>
+	<randomquestions oae-label="Randomize Questions:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomquestions>
+	<randomanswers oae-label="Randomize Answers:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomanswers>
+	<categories>
+		<category oae-lable="Category 1">
+			<![CDATA[Emergency Situations]]>
+		</category>
+		<category oae-lable="Category 2">
+			<![CDATA[After a Disaster]]>
+		</category>
+		<category oae-lable="Category 3">
+			<![CDATA[Reported News]]>
+		</category>
+		<category oae-lable="Category 4">
+			<![CDATA[Severe Weather Events]]>
+		</category>
+	</categories>
+	<categoryquestions oae-label="Category 1 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[The storm caused _____ that left thousands of residents without electricity.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[a power outage]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[a shelter]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[a first-aid kit]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[non-perishable food]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[The city government set up _____ for the people that had been evacuated.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[a power outage]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[a shelter]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[a first-aid kit]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[non-perishable food]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[You should keep _____ in the house for treating minor injuries.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[a power outage]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[a shelter]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[a first-aid kit]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[non-perishable food]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[If you lose electricity, you’ll need _____ because your refrigerator won’t work.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[a power outage]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[a shelter]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[a first-aid kit]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[non-perishable food]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 2 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[With early reports of hundreds of casualties, experts fear the _____ might total over 1,000 people.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[death toll]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[magnitude]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[destruction]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[factors]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[The _____ of the quake was 9.0, but there were few casualties.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[death toll]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[magnitude]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[destruction]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[factors]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[The hurricane caused a lot of _____ to the city.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[death toll]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[magnitude]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[destruction]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[factors]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[One of the _____ that affect the impact of an earthquake is location.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[death toll]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[magnitude]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[destruction]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[factors]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 3 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[In an earlier report, the weather person _____ it was raining really hard.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[said]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[told]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[tell]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[say]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[The news reporter _____ people that the number of victims had risen.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[said]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[told]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[tell]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[say]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[He asked me to _____ Dave the news.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[said]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[told]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[tell]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[say]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[The radio announcer asked listeners not to _____ any information that wasn’t confirmed to be true.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[said]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[told]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[tell]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[say]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 4 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[We could see the spinning air of the _____ from several kilometers away.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[tornado]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[typhoon]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[landslide]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[flood]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[The _____ caused high-speed winds and a lot of rain in areas by the coast.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[tornado]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[typhoon]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[landslide]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[flood]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[The _____ left houses at the bottom of the hill covered in earth and rocks.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[tornado]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[typhoon]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[landslide]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[flood]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[During the _____, many of the roads were under water.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[tornado]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[typhoon]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[landslide]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[flood]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+</activity>

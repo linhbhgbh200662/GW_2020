@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="sorting" version="1.0" client="Longman" oae-label="ACTIVITY TYPE: Sorting">
+	<title oae-label="Activity Title" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</title>
+	<instructions oae-label="Instructions" oae-type="textarea" oae-rows="3">
+		<![CDATA[Drag each phrase into the correct category.]]>
+	</instructions>
+	<bins>
+		<bin oae-label="Bin 1">
+			<header oae-label="Bin label" oae-type="textarea" oae-rows="1">
+				<![CDATA[Dental Emergencies]]>
+			</header>
+			<items>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[a broken tooth]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[a lost filling]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[a loose tooth]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[swollen gums]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[a toothache]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+			</items>
+		</bin>
+		<bin oae-label="Bin 2">
+			<header oae-label="Bin label" oae-type="textarea" oae-rows="1">
+				<![CDATA[Medical Procedures]]>
+			</header>
+			<items>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[an X-ray]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[an EKG]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[a blood test]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[an injection]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[a checkup]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+			</items>
+		</bin>
+		<bin oae-label="Bin 3">
+			<header oae-label="Bin label" oae-type="textarea" oae-rows="1">
+				<![CDATA[Treatments]]>
+			</header>
+			<items>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[conventional medicine]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[acupuncture]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[herbal therapy]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[homeopathy]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[spiritual healing]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+			</items>
+		</bin>
+		<bin oae-label="Bin 4">
+			<header oae-label="Bin label" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</header>
+			<items>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+				<item oae-label="Draggable text" oae-type="textarea" oae-rows="1">
+					<![CDATA[]]>
+				</item>
+			</items>
+		</bin>
+	</bins>
+</activity>

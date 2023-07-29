@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="dragdrop_multiple">
+	<title oae-label="Title">
+		<![CDATA[Activity 1]]>
+	</title>
+	<instructions oae-label="Instructions" oae-type="textarea" oae-rows="3">
+		<![CDATA[Listen to the conversation. Then type in the correct word from the parentheses to complete each statement.  ]]>
+	</instructions>
+	<spacer oae-type="spacer">
+</spacer>
+
+	<!-- Enter the text using <blank word="the word"/> syntax for the blank words/phrases. Enter optional distracters. -->
+
+
+	<!-- There can be up to 3 blanks/distracters, e.g. one blank, one distracter, two blanks and one distracter, one blank two distracters, three blanks and no distracters, etc. -->
+
+	<question>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+			<![CDATA[tn2e_lc_03_u02_a]]>
+		</audio>
+		<text>
+			<![CDATA[The woman is the man’s <blank word="dentist"/>.]]>
+		</text>
+		<distracter1>
+			<![CDATA[wife]]>
+		</distracter1>
+		<distracter2>
+			<![CDATA[teacher]]>
+		</distracter2>
+	</question>
+	<question>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+			<![CDATA[tn2e_lc_03_u02_a]]>
+		</audio>
+		<text>
+			<![CDATA[The man had an accident while <blank word="skiing"/>]]>
+		</text>
+		<distracter1>
+			<![CDATA[running]]>
+		</distracter1>
+		<distracter2>
+			<![CDATA[hiking]]>
+		</distracter2>
+	</question>
+	<question>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+			<![CDATA[tn2e_lc_03_u02_a]]>
+		</audio>
+		<text>
+			<![CDATA[The man <blank word="lost a tooth"/>.]]>
+		</text>
+		<distracter1>
+			<![CDATA[lost a filling ]]>
+		</distracter1>
+		<distracter2>
+			<![CDATA[is feeling dizzy]]>
+		</distracter2>
+	</question>
+	<question>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+			<![CDATA[tn2e_lc_03_u02_b]]>
+		</audio>
+		<text>
+			<![CDATA[The man had an emergency while he was <blank word="eating"/>.]]>
+		</text>
+		<distracter1>
+			<![CDATA[exercising]]>
+		</distracter1>
+		<distracter2>
+			<![CDATA[sleeping]]>
+		</distracter2>
+	</question>
+	<question>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+			<![CDATA[tn2e_lc_03_u02_b]]>
+		</audio>
+		<text>
+			<![CDATA[The man went to the dentist because he <blank word="lost a filling"/>.]]>
+		</text>
+		<distracter1>
+			<![CDATA[broke a tooth           ]]>
+		</distracter1>
+		<distracter2>
+			<![CDATA[had swollen gums]]>
+		</distracter2>
+	</question>
+	<question>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+			<![CDATA[tn2e_lc_03_u02_b]]>
+		</audio>
+		<text>
+			<![CDATA[The dentist recommends that the man visit a dentist when he gets back to his <blank word="city"/>. ]]>
+		</text>
+		<distracter1>
+			<![CDATA[school]]>
+		</distracter1>
+		<distracter2>
+			<![CDATA[office]]>
+		</distracter2>
+	</question>
+	<question>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+			<![CDATA[tn2e_lc_03_u02_c]]>
+		</audio>
+		<text>
+			<![CDATA[The woman needs to see a dentist because she <blank word="broke something"/>. ]]>
+		</text>
+		<distracter1>
+			<![CDATA[broke a tooth              ]]>
+		</distracter1>
+		<distracter2>
+			<![CDATA[has swollen gums]]>
+		</distracter2>
+	</question>
+	<question>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+			<![CDATA[tn2e_lc_03_u02_c]]>
+		</audio>
+		<text>
+			<![CDATA[The man is <blank word="the receptionist"/>.]]>
+		</text>
+		<distracter1>
+			<![CDATA[a patient                 ]]>
+		</distracter1>
+		<distracter2>
+			<![CDATA[her dentist]]>
+		</distracter2>
+	</question>
+	<question>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+			<![CDATA[tn2e_lc_03_u02_c]]>
+		</audio>
+		<text>
+			<![CDATA[The woman is <blank word="Brazilian"/>.]]>
+		</text>
+		<distracter1>
+			<![CDATA[Canadian]]>
+		</distracter1>
+		<distracter2>
+			<![CDATA[Russian]]>
+		</distracter2>
+	</question>
+	<question>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</audio>
+		<text>
+			<![CDATA[]]>
+		</text>
+		<distracter1>
+			<![CDATA[]]>
+		</distracter1>
+		<distracter2>
+			<![CDATA[]]>
+		</distracter2>
+	</question>
+</activity>

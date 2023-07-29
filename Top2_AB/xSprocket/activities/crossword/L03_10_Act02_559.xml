@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><activity type="Crossword"><dimensions><![CDATA[[19,14]]]></dimensions><title><![CDATA[Crossword]]></title><shortinst><![CDATA[- Click a clue to view the corresponding answer squares 
+- Or click a number on the answer squares to view the corresponding clue
+- Click square twice to change directions
+- Begin typing in the darker square]]></shortinst><detailinst><![CDATA[This activity allows you to type answers to questions posed in the across or down clue windows.
+
+Clues
+- Click an across or down clue to highlight the corresponding answer squares
+- Use the scroll bars to view more clues
+
+Answer Squares
+- Click a numbered answer square to view the corresponding clue
+- Click a numbered square a second time to view the corresponding clue in the opposite direction
+- If a numbered square is already filled, click the second or any empty square in the same direction to view the clue
+- Dark square indicates where text will be entered when typing begins
+- Fill answer squares by typing the answer. Correct or Incorrect feedback will be presented as soon as the final square of the word is filled.
+- Answers that require more than one word will not use spaces
+- Backspace deletes characters
+
+Scoring
+- Scores for crosswords are not calculated or recorded
+- Multiple attempts may be allowed to fill each answer correctly
+- A correct mark will display next to the clue when the answer squares are filled correctly
+- An incorrect mark will display next to the clue after the allotted number of incorrect tries. 
+- The correct answer will fill automatically after the allotted number of incorrect tries
+- Click 'Show Completed Puzzle' to reveal all answers
+- Click 'Reset' to start the puzzle again]]></detailinst><autofill_number><![CDATA[3]]></autofill_number><across><word><text><![CDATA[ecotourism]]></text><clue><![CDATA[The business of organizing environmentally friendly vacations]]></clue><gridloc><![CDATA[04_01]]></gridloc></word><word><text><![CDATA[exhausting]]></text><clue><![CDATA[Making you feel extremely tired]]></clue><gridloc><![CDATA[08_05]]></gridloc></word><word><text><![CDATA[overrated]]></text><clue><![CDATA[Not as good or important as some people say]]></clue><gridloc><![CDATA[10_02]]></gridloc></word><word><text><![CDATA[environmentalist]]></text><clue><![CDATA[Someone who is concerned about protecting the environment]]></clue><gridloc><![CDATA[12_04]]></gridloc></word><word><text><![CDATA[dangerous]]></text><clue><![CDATA[Involving a lot of risk]]></clue><gridloc><![CDATA[14_04]]></gridloc></word></across><down><word><text><![CDATA[undertow]]></text><clue><![CDATA[Water under the surface of the sea that pulls away from the land]]></clue><gridloc><![CDATA[01_01]]></gridloc></word><word><text><![CDATA[ecology]]></text><clue><![CDATA[The way plants, animals, and people are related to each other and their environment]]></clue><gridloc><![CDATA[02_03]]></gridloc></word><word><text><![CDATA[development]]></text><clue><![CDATA[Planning and building new houses, streets, etc.]]></clue><gridloc><![CDATA[02_19]]></gridloc></word><word><text><![CDATA[breathtaking]]></text><clue><![CDATA[Very impressive, exciting, or surprising]]></clue><gridloc><![CDATA[03_07]]></gridloc></word><word><text><![CDATA[jungle]]></text><clue><![CDATA[A thick tropical forest]]></clue><gridloc><![CDATA[05_14]]></gridloc></word><word><text><![CDATA[cliff]]></text><clue><![CDATA[A large area of rock or a mountain with a very steep side, often at the edge of the sea or a river]]></clue><gridloc><![CDATA[06_12]]></gridloc></word><word><text><![CDATA[doable]]></text><clue><![CDATA[Able to be done or completed]]></clue><gridloc><![CDATA[09_02]]></gridloc></word><word><text><![CDATA[warn]]></text><clue><![CDATA[Tell someone that something bad may happen so they can avoid it]]></clue><gridloc><![CDATA[11_15]]></gridloc></word><word><text><![CDATA[risk]]></text><clue><![CDATA[The possibility that something bad, unpleasant, or dangerous may happen]]></clue><gridloc><![CDATA[11_17]]></gridloc></word></down></activity>

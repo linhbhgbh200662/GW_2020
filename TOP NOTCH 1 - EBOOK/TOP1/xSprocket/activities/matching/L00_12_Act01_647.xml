@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="matching" version="1.0" client="Longman" oae-label="ACTIVITY TYPE: Matching">
+	<title oae-label="Activity Title" oae-type="textarea" oae-rows="1">
+		<![CDATA[Activity 1]]>
+	</title>
+	<instructions oae-label="Instructions" oae-type="textarea" oae-rows="3">
+		<![CDATA[Read about the people. Match the questions and answers. Drag each name to the correct place.]]>
+	</instructions>
+	<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+		<![CDATA[]]>
+	</audio>
+	<matches oae-label="The items can be either text, graphic, or audio. Please include the file extension if either a graphic file or an audio file (This is how the engine will determine that the file name is not text, but a file)">
+		<match oae-label="Matching Set 1">
+			<leftitem oae-label="Left column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[Who has some gray hair?]]>
+			</leftitem>
+			<rightitem oae-label="Right column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[Franco De Vita]]>
+			</rightitem>
+		</match>
+		<match oae-label="Matching Set 2">
+			<leftitem oae-label="Left column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[Who has brown eyes and long hair?]]>
+			</leftitem>
+			<rightitem oae-label="Right column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[Halle Berry]]>
+			</rightitem>
+		</match>
+		<match oae-label="Matching Set 3">
+			<leftitem oae-label="Left column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[Who has a sister who is not an actress?]]>
+			</leftitem>
+			<rightitem oae-label="Right column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[Tony Leung]]>
+			</rightitem>
+		</match>
+		<match oae-label="Matching Set 4">
+			<leftitem oae-label="Left column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[Who had a son who is now a singer?]]>
+			</leftitem>
+			<rightitem oae-label="Right column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[Lolita Torres]]>
+			</rightitem>
+		</match>
+		<match oae-label="Matching Set 5">
+			<leftitem oae-label="Left column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[Who has a brother who is an actor?]]>
+			</leftitem>
+			<rightitem oae-label="Right column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[Maggie Gyllenhaal]]>
+			</rightitem>
+		</match>
+		<match oae-label="Matching Set 6">
+			<leftitem oae-label="Left column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[Who sometimes has a mustache?	]]>
+			</leftitem>
+			<rightitem oae-label="Right column item" oae-type="textarea" oae-rows="2">
+				<![CDATA[Diego Torres]]>
+			</rightitem>
+		</match>
+	</matches>
+</activity>

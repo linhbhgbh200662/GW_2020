@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config>
+	<strings>
+		<string name="contents1Button"><![CDATA[Contents]]></string>
+		<string name="contents2Button"><![CDATA[More Practice]]></string>
+		<string name="contents3Button"><![CDATA[Video]]></string>
+		<string name="zoomToAreaButton"><![CDATA[Zoom to Area]]></string>
+		<string name="zoomInButton"><![CDATA[Zoom In]]></string>
+		<string name="zoomOutButton"><![CDATA[Zoom Out]]></string>
+		<string name="dragButton"><![CDATA[Drag Page]]></string>
+		<string name="toolsButton"><![CDATA[Drawing Tools]]></string>
+		<string name="flipInterfaceLeftButton"><![CDATA[Flip Interface]]></string>
+		<string name="flipInterfaceRightButton"><![CDATA[Flip Interface]]></string>
+		<string name="saveButton"><![CDATA[Save As...]]></string>
+		<string name="loadButton"><![CDATA[Load...]]></string>
+		<string name="closeButton"><![CDATA[Exit]]></string>
+		<string name="previousPageButton"><![CDATA[Previous Page]]></string>
+		<string name="nextPageButton"><![CDATA[Next Page]]></string>
+	</strings>
+	<options>
+		<option type="firstpageisodd">0</option>
+		<option type="use_page_shadow">1</option>
+		
+		<!-- Flowing Interface -->
+		<option type="flow_template">tn_v2_flow.swf</option>
+		<option type="flow_scaling_factor">1</option>
+		<option type="double_page_symbol">double_page_view</option>
+		<option type="single_page_symbol">single_page_view</option>
+		<option type="sp_double_dont_resize">0</option>
+		<option type="default_page_spread">double_wscrollpane</option>
+		<!-- fit height width -->
+		<option type="fit_width_height_enabled">1</option>
+		<option type="center_double_pages_vertically">0</option>
+		<option type="sp_double_resize_algorithm">2</option>
+		<!-- End Flowing Interface -->
+		
+		<!-- Shell mode activeteach|activebook -->
+		<option type="tn_shell_mode">activebook</option>
+	</options>
+	<assets>
+		<asset>
+			<title>
+				<![CDATA[Video]]>
+			</title>
+			<id>video</id>
+			<file>tn_v2_video_player.swf</file>
+			<startx>40</startx>
+			<starty>100</starty>
+			<type>window</type>
+		</asset>
+		<asset>
+			<title>
+				<![CDATA[Audio]]>
+			</title>
+			<id>audio</id>
+			<file>tn_v2_audio_player.swf</file>
+			<startx>40</startx>
+			<starty>640</starty>
+			<type>window</type>
+		</asset>
+
+	</assets>
+	<loadlist>init_pagelist,init_main_mc,init_history,init_saved_states,init_firstpage</loadlist>
+</config>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<page id="0075">
+<map name="Map" id="Map">
+<art type="icon">
+<coords><![CDATA[54,43]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 7/4-02 C Photo story p75.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[80]]></scale>
+</art>
+</map>
+</page>

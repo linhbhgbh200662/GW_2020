@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="sentence_scramble" version="1.0" client="Longman" oae-label="ACTIVITY TYPE: Scrambled Words">
+	<title oae-label="Title">
+		<![CDATA[Sentence Scramble]]>
+	</title>
+	<instructions oae-label="Instructions" oae-type="textarea" oae-rows="3">
+		<![CDATA[Put the conversation in order.  Drag each line to the correct number.]]>
+	</instructions>
+	<spacer oae-type="spacer">
+</spacer>
+	<sentence oae-label="Sentence 1">
+		<word>
+			<![CDATA[What can I do for you today?]]>
+		</word>
+		<word>
+			<![CDATA[I need to get this package delivered a.s.a.p.]]>
+		</word>
+		<word>
+			<![CDATA[When do you need it delivered by?]]>
+		</word>
+		<word>
+			<![CDATA[By 5:00 tonight.]]>
+		</word>
+		<word>
+			<![CDATA[I'm afraid that might be difficult.  The truck just left.]]>
+		</word>
+		<word>
+			<![CDATA[Any chance you could get it there first thing tomorrow?]]>
+		</word>
+		<word>
+			<![CDATA[No sweat.]]>
+		</word>
+		<word>
+			<![CDATA[Thanks a million!]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+	</sentence>
+	<sentence oae-label="Sentence 2">
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+	</sentence>
+	<sentence oae-label="Sentence 3">
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+	</sentence>
+	<sentence oae-label="Sentence 4">
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+	</sentence>
+	<sentence oae-label="Sentence 5">
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+	</sentence>
+	<sentence oae-label="Sentence 6">
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+		<word>
+			<![CDATA[]]>
+		</word>
+	</sentence>
+</activity>

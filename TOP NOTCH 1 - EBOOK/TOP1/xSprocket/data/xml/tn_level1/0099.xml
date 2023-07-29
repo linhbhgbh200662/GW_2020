@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page id="0099">
+<map name="Map" id="Map">
+<art type="icon" pfunction="audio_icon">
+<scale><![CDATA[80]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 9/5-02 C Photo story p99.mp3]]></href>
+<icon><![CDATA[audio_button]]></icon>
+<coords><![CDATA[52,45]]></coords>
+</art></map></page>

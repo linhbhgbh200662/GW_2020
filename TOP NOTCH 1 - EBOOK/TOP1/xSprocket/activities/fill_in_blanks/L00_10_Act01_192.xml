@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="fill_in_blanks" version="1.1" client="McGraw-Hill" oae-label="ACTIVITY TYPE: FILL IN THE BLANKS">
+
+	<!-- This activity presents the students with a block of text with blank spaces into which they must type in "right answers". -->
+
+	<title oae-label="Title">
+		<![CDATA[Fill In the Blanks]]>
+	</title>
+	<instructions oae-label="Instructions" oae-type="textarea" oae-rows="3">
+		<![CDATA[Complete the conversation with the simple present tense or the present continuous.  Type the correct word(s) in each blank.  Then check your answers.]]>
+	</instructions>
+	<spacer oae-type="spacer">
+	</spacer>
+	<!-- Use the following option to modify how the activity will be displayed. -->
+
+	<fontsize oae-label="Resize Font?" oae-type="select" value="0 (Normal)" opt1="-3" opt2="-2" opt3="-1" opt4="0 (Normal)" opt5="+1" opt6="+2" opt7="+3">
+</fontsize>
+
+	<spacer oae-type="spacer">
+	</spacer>
+	<!-- Write the paragraphs or sentences in the following space, using the <blank word="text"/> tag to indicate where the blank lines will go, the "word" attribute to indicate what word(s) will be dragged into that blank space. Optionally, use the "align" attribute to indicate the alignment of the word dropped into the blank space and the "alternate" attribute to display a different word on the blank line instead of the dragged text. See and test the example below. To show pop-ups use <pop hotwords="text">text that pops up here</pop>. -->
+
+	<page oae-label="Page 1">
+		<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</graphic>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</audio>
+		<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+			<![CDATA[]]>
+		</reader>
+		<text oae-label="Text" oae-type="textarea" oae-rows="15">
+
+			<![CDATA[<b>A:</b>     Hi, Larissa.  Would you like to join me for lunch?
+<b>B:</b>     Sure.  What <blank word="are" blanksize="Small"/> you <blank word="eating"/>(<i>eat</i>)?
+<b>A:</b>     I <blank word="'m eating;am eating"/> (<i>eat</i>) pasta and cheese.  What <blank word="do" blanksize="Small"/> you <blank word="want"/>(<i>want</i>) for lunch? 
+<b>B:</b>     I <blank word="love"/>(<i>love</i>) pasta.  I think I'd like the same thing.
+<b>A:</b>     I <blank word="'m drinking;am drinking"/> (<i>drink</i>) lemonade.  <blank word="Do" blanksize="Small"/> you <blank word="want"/>(<i>want</i>) lemonade? 
+<b>B:</b>     No, thanks.  I <blank word="want"/>(<i>want</i>) coffee.
+<b>A:</b>     So, what <blank word="are" blanksize="Small"/> you <blank word="studying"/> (<i>study</i>) this year?
+<b>B:</b>     I <blank word="'m taking;am taking"/> (<i>take</i>) an art class.  On Tuesdays and Thursdays, I <blank word="work"/> (<i>work</i>) 
+	 at the museum.
+<b>A:</b>     The art museum?  We <blank word="go"/> (<i>go</i>) there sometimes on the weekend.
+<b>B:</b>     Really?  What about you?  What <blank word="are" blanksize="Small"/>you <blank word="studying"/> (<i>study</i>)?
+<b>A:</b>     I <blank word="'m studying;am studying"/> (<i>study</i>) Chinese this year.  I <blank word="have" blanksize="Small"/> (<i>have</i>) class every weekday.
+<b>B:</b>     Sounds like you <blank word="'re;are" blanksize="Small"/> (<i>be</i>) pretty busy.
+<b>A:</b>     Yes, I  <blank word="'m;am" blanksize="Small"/> (<i>be</i>).  We <blank word="have" blanksize="Small"/>(<i>have</i>) a lot of homework.]]>
+		</text>
+	</page>
+	<page>
+		<![CDATA[]]>
+	</page>
+</activity>

@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="quiz_show" version="1.0" client="" oae-label="ACTIVITY TYPE: QUIZ SHOW">
+	<title oae-label="Title:">
+		<![CDATA[Quiz Show]]>
+	</title>
+	<shortinst oae-label="Short Instructions:">
+		<![CDATA[Click on a box. Choose the correct answer. You have only three minutes.]]>
+	</shortinst>
+	<detailinst oae-label="Detailed Instructions:">
+		<![CDATA[Click on an amount in a category to answer a question about that topic. Click on the correct answer for each question. If your entry is correct, it will highlight in green and you will "win" the amount of money listed. If you are incorrect, you will "lose" the amount of money listed. You don't gain or lose any money for trying again. Next and Previous buttons navigate among the questions. Try to win as much money as you can!]]>
+	</detailinst>
+	<randomquestions oae-label="Randomize Questions:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomquestions>
+	<randomanswers oae-label="Randomize Answers:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomanswers>
+	<categories>
+		<category oae-lable="Category 1">
+			<![CDATA[Car parts—exterior]]>
+		</category>
+		<category oae-lable="Category 2">
+			<![CDATA[Car parts—interior]]>
+		</category>
+		<category oae-lable="Category 3">
+			<![CDATA[Types of cars]]>
+		</category>
+		<category oae-lable="Category 4">
+			<![CDATA[Phrasal verbs]]>
+		</category>
+	</categories>
+	<categoryquestions oae-label="Category 1 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[A car has four ____.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[tires]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[side-view mirrors]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[bumpers]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[trunks]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[A ____ protects the front and rear of the car.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[tire]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[side-view mirror]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[turn signal light]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[bumper]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[You use the ____ to tell other drivers that you are going to make a turn.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[horn]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[side-view mirror]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[turn signal light]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[bumper]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[A ____ lets you see what is behind the left or right side of the car.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[tire]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[side-view mirror]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[turn signal light]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[bumper]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 2 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[You use the ____ to control the direction of a car.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[brake pedal]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[emergency brake]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[gas pedal]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[steering wheel]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[You push down on the ____ to move your car forward.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[brake pedal]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[emergency brake]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[gas pedal]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[steering wheel]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[You use the ____ when you park on a hill.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[brake pedal]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[emergency brake]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[gas pedal]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[steering wheel]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[You use the ____ to stop your car.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[brake pedal]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[emergency brake]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[gas pedal]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[steering wheel]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 3 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[A ____ usually has a powerful engine and can go very fast.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[compact car]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[wagon]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[sports car]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[luxury car]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[A ____ is an expensive car that offers many comforts.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[compact car]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[wagon]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[sports car]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[luxury car]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[A ____ is a car with a long body and room behind the back seat.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[compact car]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[wagon]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[sports car]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[luxury car]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[A ____ is a small car that is not expensive.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[compact car]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[wagon]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[sports car]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[luxury car]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 4 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[When you ____ the engine, it starts running.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[pick up]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[turn on]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[drop off]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[turn off]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[You ____ the lights before you go to sleep.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[pick up]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[turn on]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[drop off]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[turn off]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[When you ____, you leave it somewhere.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[pick something up]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[turn something on]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[drop something off]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[turn something off]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[When you ____, you take it with you.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[pick something up]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[turn something on]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[drop something off]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[turn something off]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+</activity>

@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="quiz_show" version="1.0" client="" oae-label="ACTIVITY TYPE: QUIZ SHOW">
+	<title oae-label="Title:">
+		<![CDATA[Quiz Show]]>
+	</title>
+	<shortinst oae-label="Short Instructions:">
+		<![CDATA[Click on a box. Choose the correct answer. You have only three minutes.]]>
+	</shortinst>
+	<detailinst oae-label="Detailed Instructions:">
+		<![CDATA[Click on an amount in a category to answer a question about that topic. Click on the correct answer for each question. If your entry is correct, it will highlight in green and you will "win" the amount of money listed. If you are incorrect, you will "lose" the amount of money listed. You don't gain or lose any money for trying again. Next and Previous buttons navigate among the questions. Try to win as much money as you can!]]>
+	</detailinst>
+	<randomquestions oae-label="Randomize Questions:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomquestions>
+	<randomanswers oae-label="Randomize Answers:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomanswers>
+	<categories>
+		<category oae-lable="Category 1">
+			<![CDATA[Daily activities at home—morning]]>
+		</category>
+		<category oae-lable="Category 2">
+			<![CDATA[Daily activities at home—evening]]>
+		</category>
+		<category oae-lable="Category 3">
+			<![CDATA[Household chores and leisure activities]]>
+		</category>
+		<category oae-lable="Category 4">
+			<![CDATA[More leisure activities]]>
+		</category>
+	</categories>
+	<categoryquestions oae-label="Category 1 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[My brother ____ in the shower.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[shaves]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[put on makeup]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[get up]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[brushes her teeth]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I am a morning person.  I ____ at 5:00 A.M.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[shaves]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[put on makeup]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[get up]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[brushes her teeth]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Diana ____ at work.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[shaves]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[put on makeup]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[get up]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[brushes her teeth]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I usually ____ before work.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[shaves]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[put on makeup]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[get up]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[brushes her teeth]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 2 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[We ____ and watch TV in the living room.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[eat dinner]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[comes home]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[take a shower]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[go to bed]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Bill gets undressed and ____ at 10 P.M. every day.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[comes home]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[eats dinner]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[goes shopping]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[goes to bed]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I ____ or a bath every night.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[come home]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[eat dinner]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[take a shower]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[go to bed]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[My wife ____ from work at 7:00 P.M.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[comes home]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[eats breakfast]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[takes a shower]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[goes to bed]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 3 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Sylvia _____ every weekend.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_8_10.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[go to the movies]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[visits friends]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[goes dancing]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[make dinner]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I ____ every evening.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_8_11.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[go to the movies]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[visits friends]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[goes dancing]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[make dinner]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[My sister ____ every Saturday.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_8_12.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[go to the movies]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[visits friends]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[goes dancing]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[make dinner]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[We ____ about once a month.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_8_13.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[go to the movies]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[visits friends]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[goes dancing]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[make dinner]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 4 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Adam ____ in his room every night.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[plays soccer]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[listens to music]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[exercise]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[check my e-mail]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I ____ at the office every morning.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[plays soccer]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[listens to music]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[exercise]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[check my e-mail]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Wendy ____ at the stadium on Saturdays.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[plays soccer]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[listens to music]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[exercise]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[check my e-mail]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[They ____ in the park on weekends.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[plays soccer]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[listens to music]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[exercise]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[check my e-mail]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+</activity>

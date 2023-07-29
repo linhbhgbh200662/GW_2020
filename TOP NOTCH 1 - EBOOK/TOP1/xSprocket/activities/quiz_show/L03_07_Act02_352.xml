@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="quiz_show" version="1.0" client="" oae-label="ACTIVITY TYPE: QUIZ SHOW">
+	<title oae-label="Title:">
+		<![CDATA[Quiz Show]]>
+	</title>
+	<shortinst oae-label="Short Instructions:">
+		<![CDATA[Click on a box. Choose the correct answer. You have only three minutes.]]>
+	</shortinst>
+	<detailinst oae-label="Detailed Instructions:">
+		<![CDATA[Click on an amount in a category to answer a question about that topic. Click on the correct answer for each question. If your entry is correct, it will highlight in green and you will "win" the amount of money listed. If you are incorrect, you will "lose" the amount of money listed. You don't gain or lose any money for trying again. Next and Previous buttons navigate among the questions. Try to win as much money as you can!]]>
+	</detailinst>
+	<randomquestions oae-label="Randomize Questions:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomquestions>
+	<randomanswers oae-label="Randomize Answers:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomanswers>
+	<categories>
+		<category oae-lable="Category 1">
+			<![CDATA[Types of Holidays]]>
+		</category>
+		<category oae-lable="Category 2">
+			<![CDATA[Wedding Traditions]]>
+		</category>
+		<category oae-lable="Category 3">
+			<![CDATA[People at a Wedding]]>
+		</category>
+		<category oae-lable="Category 4">
+			<![CDATA[Ways to Celebrate Holidays]]>
+		</category>
+	</categories>
+	<categoryquestions oae-label="Category 1 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[The Cherry Blossom Festival is a __________ holiday that celebrates the arrival of spring with the opening of pink flowers on cherry trees.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[seasonal]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[historical]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[religious]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[harvest]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[On __________ holidays, people celebrate something that has happened in the past.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[seasonal]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[historical]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[religious]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[harvest]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[On __________ holidays, people celebrate their beliefs.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[seasonal]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[historical]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[religious]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[harvest]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Every fall there is a __________ festival to celebrate gathering of the plants from the fields.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[seasonal]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[historical]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[religious]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[harvest]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 2 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[After their wedding, Paul and Katie went on a(n) __________ to Jamaica.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[honeymoon]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[ceremony]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[engagement]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[reception]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Harrison and Victoria were married in a small wedding __________ last week.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[honeymoon]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[ceremony]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[engagement]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[reception]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[After hearing about their __________, Russ and Monica’s families were very excited to start planning their wedding.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[honeymoon]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[ceremony]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[engagement]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[reception]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Guests will celebrate Jim and Caroline’s marriage with food and dancing at the __________.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[honeymoon]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[ceremony]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[engagement]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[reception]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 3 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[When a man gets married, he is called the __________.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[groom]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[bride]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[newlyweds]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[relatives]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[When a woman gets married, she is called the __________.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[groom]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[bride]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[newlyweds]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[relatives]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[People who have recently been married are __________.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[groom]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[bride]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[newlyweds]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[relatives]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[A couple’s friends and __________ are often invited to attend their wedding.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[groom]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[bride]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[newlyweds]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[relatives]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 4 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[For summer holidays, we often have __________ outside in the afternoon.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[picnics]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[fireworks]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[costumes]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[weddings]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Everyone looked at the night sky as __________ were set off.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[picnics]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[fireworks]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[costumes]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[weddings]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[People sometimes wear colorful __________ at parties.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[picnics]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[fireworks]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[costumes]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[weddings]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[In some religions, __________ are held in sacred buildings.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[picnics]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[fireworks]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[costumes]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[weddings]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+</activity>

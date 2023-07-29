@@ -1,0 +1,3827 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hierarchy>
+<global/>
+<children>
+<child>
+      <data>
+        <title><![CDATA[<b>MORE PRACTICE</b>]]></title>
+			 <enabled>0</enabled>
+      </data>
+    </child>
+<child>
+  <data>
+    <title><![CDATA[<b>Unit 1: </b> Getting Acquainted]]>
+    </title>
+  </data>
+  <children>
+    <child>
+      <data>
+        <title><![CDATA[<b>Speaking Practice</b>]]>
+        </title>
+        <enabled>0</enabled>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[A  Record and compare]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 1: Getting Acquainted]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Speaking Practice]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_rec_compare_1_1.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[    Role play]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 1: Getting Acquainted]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Speaking Practice]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_role_play_1_1.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[B  Record and compare]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 1: Getting Acquainted]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Speaking Practice]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_rec_compare_1_2.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[    Role Play]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 1: Getting Acquainted]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Speaking Practice]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_role_play_1_2.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[<b>Listening Comprehension</b>]]>
+        </title>
+        <enabled>0</enabled>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[Activity 1]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 1: Getting Acquainted]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Listening Comprehension]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_01_Act01_563.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[Dictation]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 1: Getting Acquainted]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Listening Comprehension]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_01_Act02_564.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[<b>Reading Comprehension</b>]]>
+        </title>
+        <enabled>0</enabled>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[Activity 1]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 1: Getting Acquainted]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Reading Comprehension]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_01_Act01_565.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[Activity 2]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 1: Getting Acquainted]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Reading Comprehension]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_01_Act02_566.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[Activity 3]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 1: Getting Acquainted]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Reading Comprehension]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_01_Act03_567.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[<b>Grammar and Vocabulary</b>]]>
+        </title>
+        <enabled>0</enabled>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[A  Matching]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 1: Getting Acquainted]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_01_Act01_283.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[B  Drag and drop]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 1: Getting Acquainted]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_01_Act02_284.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[C  Multiple choice]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 1: Getting Acquainted]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_01_Act03_285.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[D  Fill in]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 1: Getting Acquainted]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_01_Act04_286.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[E  Drag and drop]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 1: Getting Acquainted]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_01_Act05_287.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[F  Sentence scramble]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 1: Getting Acquainted]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_01_Act06_288.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[<b>Games and Puzzles</b>]]>
+        </title>
+        <enabled>0</enabled>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[A  Crossword]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 1: Getting Acquainted]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Games and Puzzles]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_01_Act01_504.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[B  Concentration]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 1: Getting Acquainted]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Games and Puzzles]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_01_Act02_312.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[C  Guess and spell]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 1: Getting Acquainted]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Games and Puzzles]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_01_Act03_313.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[D  Quiz show]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 1: Getting Acquainted]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Games and Puzzles]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_01_Act04_314.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+  </children>
+</child>
+<child>
+  <data>
+    <title><![CDATA[<b>Unit 2: </b> Going Out]]>
+    </title>
+  </data>
+  <children>
+    <child>
+      <data>
+        <title><![CDATA[<b>Speaking Practice</b>]]>
+        </title>
+        <enabled>0</enabled>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[A  Record and compare]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 2: Going Out]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Speaking Practice]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_rec_compare_2_1.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[    Role play]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 2: Going Out]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Speaking Practice]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_role_play_2_1.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[B  Record and compare]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 2: Going Out]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Speaking Practice]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_rec_compare_2_2.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[    Role Play]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 2: Going Out]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Speaking Practice]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_role_play_2_2.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[C  Record and compare]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 2: Going Out]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Speaking Practice]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_rec_compare_2_3.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[    Role Play]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 2: Going Out]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Speaking Practice]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_role_play_2_3.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+     <child>
+      <data>
+        <title><![CDATA[D  Record and compare]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 2: Going Out]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Speaking Practice]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_rec_compare_2_4.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[    Role Play]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 2: Going Out]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Speaking Practice]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_role_play_2_4.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[<b>Listening Comprehension</b>]]>
+        </title>
+        <enabled>0</enabled>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[Activity 1]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 2: Going Out]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Listening Comprehension]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_02_Act01_568.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[Dictation]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 2: Going Out]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Listening Comprehension]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_02_Act02_569.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[<b>Reading Comprehension</b>]]>
+        </title>
+        <enabled>0</enabled>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[Activity 1]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 2: Going Out]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Reading Comprehension]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_02_Act01_570.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[Activity 2]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 2: Going Out]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Reading Comprehension]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_02_Act02_571.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[Activity 3]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 2: Going Out]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Reading Comprehension]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_02_Act03_572.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[Activity 4]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 2: Going Out]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Reading Comprehension]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_02_Act04_573.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[<b>Grammar and Vocabulary</b>]]>
+        </title>
+        <enabled>0</enabled>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[A  True / false]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 2: Going Out]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_02_Act01_289.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[B  Sorting]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 2: Going Out]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_02_Act02_290.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[C  Fill in]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 2: Going Out]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_02_Act03_291.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[D  Drag and drop]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 2: Going Out]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_02_Act04_292.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[E  Drag and drop]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 2: Going Out]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_02_Act05_294.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[<b>Games and Puzzles</b>]]>
+        </title>
+        <enabled>0</enabled>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[A  Concentration]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 2: Going Out]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Games and Puzzles]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_02_Act01_315.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[B  Crossword]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 2: Going Out]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Games and Puzzles]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_02_Act02_505.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[C  Quiz show]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 2: Going Out]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Games and Puzzles]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_02_Act03_316.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[D  Guess and spell]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 2: Going Out]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Games and Puzzles]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_02_Act04_326.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    
+  </children>
+</child>
+<child>
+  <data>
+    <title><![CDATA[<b>Unit 3: </b> The Extended Family]]>
+    </title>
+  </data>
+  <children>
+    <child>
+      <data>
+        <title><![CDATA[<b>Speaking Practice</b>]]>
+        </title>
+        <enabled>0</enabled>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[A  Record and compare]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 3: The Extended Family]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Speaking Practice]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_rec_compare_3_1.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[    Role play]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 3: The Extended Family]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Speaking Practice]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_role_play_3_1.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[B  Record and compare]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 3: The Extended Family]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Speaking Practice]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_rec_compare_3_2.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[    Role Play]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 3: The Extended Family]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Speaking Practice]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_role_play_3_2.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child><child>
+      <data>
+        <title><![CDATA[C  Record and compare]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 3: The Extended Family]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Speaking Practice]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_rec_compare_3_3.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[    Role Play]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 3: The Extended Family]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Speaking Practice]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_role_play_3_3.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[<b>Listening Comprehension</b>]]>
+        </title>
+        <enabled>0</enabled>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[Activity 1]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 3: The Extended Family]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Listening Comprehension]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_03_Act01_574.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[Dictation]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 3: The Extended Family]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Listening Comprehension]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_03_Act02_575.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[<b>Reading Comprehension</b>]]>
+        </title>
+        <enabled>0</enabled>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[Activity 1]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 3: The Extended Family]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Reading Comprehension]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_03_Act01_576.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[Activity 2]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 3: The Extended Family]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Reading Comprehension]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_03_Act01_577.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[Activity 3]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 3: The Extended Family]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Reading Comprehension]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_03_Act03_578.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[<b>Grammar and Vocabulary</b>]]>
+        </title>
+        <enabled>0</enabled>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[A  Drag and drop]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 3: The Extended Family]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_03_Act01_295.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[B  Drag and drop]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 3: The Extended Family]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_03_Act02_297.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[C  Drag and drop]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 3: The Extended Family]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_03_Act03_298.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[D  Drag and drop]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 3: The Extended Family]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_03_Act04_769.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[E  Fill in]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 3: The Extended Family]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_03_Act05_300.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[<b>Games and Puzzles</b>]]>
+        </title>
+        <enabled>0</enabled>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[A  Crossword]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 3: The Extended Family]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Games and Puzzles]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_03_Act01_506.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[B  Guess and spell]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 3: The Extended Family]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Games and Puzzles]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_03_Act02_317.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[C  Concentration]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 3: The Extended Family]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Games and Puzzles]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_03_Act03_318.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[D  Quiz show]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 3: The Extended Family]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Games and Puzzles]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_03_Act04_319.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+  </children>
+</child>
+<child>
+  <data>
+    <title><![CDATA[<b>Unit 4: </b> Food and Restaurants]]>
+    </title>
+  </data>
+  <children>
+    <child>
+      <data>
+        <title><![CDATA[<b>Speaking Practice</b>]]>
+        </title>
+        <enabled>0</enabled>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[A  Record and compare]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 4: Food and Restaurants]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Speaking Practice]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_rec_compare_4_1.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[    Role play]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 4: Food and Restaurants]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Speaking Practice]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_role_play_4_1.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[B  Record and compare]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 4: Food and Restaurants]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Speaking Practice]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_rec_compare_4_2.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[    Role Play]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 4: Food and Restaurants]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Speaking Practice]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_role_play_4_2.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[<b>Listening Comprehension</b>]]>
+        </title>
+        <enabled>0</enabled>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[Activity 1]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 4: Food and Restaurants]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Listening Comprehension]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_04_Act01_579.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[Dictation]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 4: Food and Restaurants]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Listening Comprehension]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_04_Act02_580.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[<b>Reading Comprehension</b>]]>
+        </title>
+        <enabled>0</enabled>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[Activity 1]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 4: Food and Restaurants]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Reading Comprehension]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_04_Act01_581.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[Activity 2]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 4: Food and Restaurants]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Reading Comprehension]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_04_Act02_665.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[<b>Grammar and Vocabulary</b>]]>
+        </title>
+        <enabled>0</enabled>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[A  Multiple Choice]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 4: Food and Restaurants]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_04_Act01_306.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[B  Drag and drop]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 4: Food and Restaurants]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_04_Act02_307.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[C  Fill in]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 4: Food and Restaurants]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_04_Act03_308.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[D  Drag and drop]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 4: Food and Restaurants]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_04_Act04_309.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[E  Matching]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 4: Food and Restaurants]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_04_Act05_310.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[F  Drag and drop]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 4: Food and Restaurants]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_04_Act06_311.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[<b>Games and Puzzles</b>]]>
+        </title>
+        <enabled>0</enabled>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[A  Quiz show]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 4: Food and Restaurants]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Games and Puzzles]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_04_Act01_323.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[B  Concentration]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 4: Food and Restaurants]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Games and Puzzles]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_04_Act02_324.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[C  Guess and spell]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 4: Food and Restaurants]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Games and Puzzles]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_04_Act03_325.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[D  Crossword]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 4: Food and Restaurants]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Games and Puzzles]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_04_Act04_508.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+   
+  </children>
+</child>
+<child>
+  <data>
+    <title><![CDATA[<b>Unit 5: </b> Technology and You]]>
+    </title>
+  </data>
+  <children>
+    <child>
+      <data>
+        <title><![CDATA[<b>Speaking Practice</b>]]>
+        </title>
+        <enabled>0</enabled>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[A  Record and compare]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 5: Technology and You]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Speaking Practice]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_rec_compare_5_1.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[    Role play]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 5: Technology and You]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Speaking Practice]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_role_play_5_1.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[B  Record and compare]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 5: Technology and You]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Speaking Practice]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_rec_compare_5_2.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[    Role Play]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 5: Technology and You]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Speaking Practice]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_role_play_5_2.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[<b>Listening Comprehension</b>]]>
+        </title>
+        <enabled>0</enabled>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[Activity 1]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 5: Technology and You]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Listening Comprehension]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_05_Act01_583.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[Dictation]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 5: Technology and You]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Listening Comprehension]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_05_Act02_585.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[<b>Reading Comprehension</b>]]>
+        </title>
+        <enabled>0</enabled>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[Activity 1]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 5: Technology and You]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Reading Comprehension]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_05_Act01_589.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[<b>Grammar and Vocabulary</b>]]>
+        </title>
+        <enabled>0</enabled>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[A  Sorting]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 5: Technology and You]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_05_Act01_301.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[B  Sentence scramble]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 5: Technology and You]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_05_Act02_302.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[C  Drag and drop]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 5: Technology and You]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_05_Act03_303.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[D  Drag and drop]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 5: Technology and You]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_05_Act04_304.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[E  Fill in]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 5: Technology and You]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_05_Act05_305.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[<b>Games and Puzzles</b>]]>
+        </title>
+        <enabled>0</enabled>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[A  Concentration]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 5: Technology and You]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Games and Puzzles]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_05_Act01_320.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[B  Quiz show]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 5: Technology and You]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Games and Puzzles]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_05_Act02_321.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[C  Crossword]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 5: Technology and You]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Games and Puzzles]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_05_Act03_507.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[D  Guess and spell]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 5: Technology and You]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Games and Puzzles]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_05_Act04_322.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+  </children>
+</child>
+<child>
+  <data>
+    <title><![CDATA[<b>Unit 6: </b> Staying in Shape]]>
+    </title>
+  </data>
+  <children>
+    <child>
+      <data>
+        <title><![CDATA[<b>Speaking Practice</b>]]>
+        </title>
+        <enabled>0</enabled>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[A  Record and compare]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 6: Staying in Shape]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Speaking Practice]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_rec_compare_6_1.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[    Role play]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 6: Staying in Shape]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Speaking Practice]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_role_play_6_1.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[B  Record and compare]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 6: Staying in Shape]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Speaking Practice]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_rec_compare_6_2.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[    Role Play]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 6: Staying in Shape]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Speaking Practice]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_role_play_6_2.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[<b>Listening Comprehension</b>]]>
+        </title>
+        <enabled>0</enabled>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[Activity 1]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 6: Staying in Shape]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Listening Comprehension]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_06_Act01_590.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[Dictation]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 6: Staying in Shape]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Listening Comprehension]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_06_Act02_591.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[<b>Reading Comprehension</b>]]>
+        </title>
+        <enabled>0</enabled>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[Activity 1]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 6: Staying in Shape]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Reading Comprehension]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_06_Act01_593.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[Activity 2]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 6: Staying in Shape]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Reading Comprehension]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_06_Act02_706.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[<b>Grammar and Vocabulary</b>]]>
+        </title>
+        <enabled>0</enabled>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[A  Matching]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 6: Staying in Shape]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_06_Act01_366.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[B  Drag and drop]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 6: Staying in Shape]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_06_Act02_367.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[C  Drag and drop]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 6: Staying in Shape]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_06_Act03_377.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[D  Multiple choice]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 6: Staying in Shape]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_06_Act04_378.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[E  Fill in]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 6: Staying in Shape]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_06_Act05_379.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[F  Drag and drop]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 6: Staying in Shape]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_06_Act06_434.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[<b>Games and Puzzles</b>]]>
+        </title>
+        <enabled>0</enabled>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[A  Concentration]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 6: Staying in Shape]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Games and Puzzles]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_06_Act01_327.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[B  Quiz show]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 6: Staying in Shape]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Games and Puzzles]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_06_Act02_328.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[C  Guess and spell]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 6: Staying in Shape]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Games and Puzzles]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_06_Act03_329.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[D  Crossword]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 6: Staying in Shape]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Games and Puzzles]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_06_Act04_509.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+   
+  </children>
+</child>
+<child>
+  <data>
+    <title><![CDATA[<b>Unit 7: </b> On Vacation]]>
+    </title>
+  </data>
+  <children>
+    <child>
+      <data>
+        <title><![CDATA[<b>Speaking Practice</b>]]>
+        </title>
+        <enabled>0</enabled>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[A  Record and compare]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 7: On Vacation]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Speaking Practice]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_rec_compare_7_1.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[    Role play]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 7: On Vacation]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Speaking Practice]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_role_play_7_1.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[B  Record and compare]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 7: On Vacation]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Speaking Practice]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_rec_compare_7_2.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[    Role Play]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 7: On Vacation]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Speaking Practice]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_role_play_7_2.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[<b>Listening Comprehension</b>]]>
+        </title>
+        <enabled>0</enabled>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[Activity 1]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 7: On Vacation]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Listening Comprehension]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_07_Act01_595.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[Dictation]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 7: On Vacation]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Listening Comprehension]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_07_Act02_596.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[<b>Reading Comprehension</b>]]>
+        </title>
+        <enabled>0</enabled>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[Activity 1]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 7: On Vacation]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Reading Comprehension]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_07_Act01_597.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[Activity 2]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 7: On Vacation]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Reading Comprehension]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_07_Act02_598.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[Activity 3]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 7: On Vacation]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Reading Comprehension]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_07_Act03_599.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[Activity 4]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 7: On Vacation]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Reading Comprehension]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_07_Act04_600.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[<b>Grammar and Vocabulary</b>]]>
+        </title>
+        <enabled>0</enabled>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[A  Drag and drop]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 7: On Vacation]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_07_Act01_386.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[B  Drag and drop]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 7: On Vacation]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_07_Act02_387.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[C  Fill in]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 7: On Vacation]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_07_Act03_388.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[D  Sentence scramble]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 7: On Vacation]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_07_Act04_389.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[E  Drag and drop]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 7: On Vacation]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_07_Act05_437.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[F  Matching]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 7: On Vacation]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_07_Act06_390.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[<b>Games and Puzzles</b>]]>
+        </title>
+        <enabled>0</enabled>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[A  Concentration]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 7: On Vacation]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Games and Puzzles]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_07_Act01_333.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[B  Quiz show]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 7: On Vacation]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Games and Puzzles]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_07_Act02_334.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[C  Crossword]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 7: On Vacation]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Games and Puzzles]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_07_Act03_511.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[D  Guess and spell]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 7: On Vacation]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Games and Puzzles]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_07_Act04_335.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    
+  </children>
+</child>
+<child>
+  <data>
+    <title><![CDATA[<b>Unit 8: </b> Shopping for Clothes]]>
+    </title>
+  </data>
+  <children>
+    <child>
+      <data>
+        <title><![CDATA[<b>Speaking Practice</b>]]>
+        </title>
+        <enabled>0</enabled>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[A  Record and compare]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 8: Shopping for Clothes]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Speaking Practice]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_rec_compare_8_1.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[    Role play]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 8: Shopping for Clothes]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Speaking Practice]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_role_play_8_1.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[B  Record and compare]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 8: Shopping for Clothes]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Speaking Practice]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_rec_compare_8_2.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[    Role Play]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 8: Shopping for Clothes]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Speaking Practice]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_role_play_8_2.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[<b>Listening Comprehension</b>]]>
+        </title>
+        <enabled>0</enabled>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[Activity 1]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 8: Shopping for Clothes]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Listening Comprehension]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_08_Act01_601.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[Dictation]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 8: Shopping for Clothes]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Listening Comprehension]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_08_Act02_602.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[<b>Reading Comprehension</b>]]>
+        </title>
+        <enabled>0</enabled>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[Activity 1]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 8: Shopping for Clothes]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Reading Comprehension]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_08_Act01_603.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[Activity 2]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 8: Shopping for Clothes]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Reading Comprehension]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_08_Act02_604.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[<b>Grammar and Vocabulary</b>]]>
+        </title>
+        <enabled>0</enabled>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[A  Sorting]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 8: Shopping for Clothes]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_08_Act01_381.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[B  Multiple choice]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 8: Shopping for Clothes]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_08_Act02_382.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[C  Drag and drop]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 8: Shopping for Clothes]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_08_Act03_383.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[D  Sentence scramble]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 8: Shopping for Clothes]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_08_Act04_384.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[E  Drag and drop]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 8: Shopping for Clothes]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_08_Act05_436.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[F  Drag and drop]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 8: Shopping for Clothes]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_08_Act06_385.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[<b>Games and Puzzles</b>]]>
+        </title>
+        <enabled>0</enabled>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[A  Concentration]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 8: Shopping for Clothes]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Games and Puzzles]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_08_Act01_330.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[B  Quiz show]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 8: Shopping for Clothes]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Games and Puzzles]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_08_Act02_331.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[C  Guess and spell]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 8: Shopping for Clothes]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Games and Puzzles]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_08_Act03_332.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[D  Crossword]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 8: Shopping for Clothes]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Games and Puzzles]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_08_Act04_510.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+  </children>
+</child>
+<child>
+  <data>
+    <title><![CDATA[<b>Unit 9: </b> Taking Transportation]]>
+    </title>
+  </data>
+  <children>
+    <child>
+      <data>
+        <title><![CDATA[<b>Speaking Practice</b>]]>
+        </title>
+        <enabled>0</enabled>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[A  Record and compare]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 9: Taking Transportation]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Speaking Practice]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_rec_compare_9_1.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[    Role play]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 9: Taking Transportation]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Speaking Practice]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_role_play_9_1.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[B  Record and compare]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 9: Taking Transportation]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Speaking Practice]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_rec_compare_9_2.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[    Role Play]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 9: Taking Transportation]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Speaking Practice]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_role_play_9_2.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[<b>Listening Comprehension</b>]]>
+        </title>
+        <enabled>0</enabled>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[Activity 1]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 9: Taking Transportation]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Listening Comprehension]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_09_Act01_605.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[Dictation]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 9: Taking Transportation]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Listening Comprehension]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_09_Act02_606.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[<b>Reading Comprehension</b>]]>
+        </title>
+        <enabled>0</enabled>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[Activity 1]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 9: Taking Transportation]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Reading Comprehension]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_09_Act01_607.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[Activity 2]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 9: Taking Transportation]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Reading Comprehension]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_09_Act02_608.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[<b>Grammar and Vocabulary</b>]]>
+        </title>
+        <enabled>0</enabled>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[A  Fill in]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 9: Taking Transportation]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_09_Act01_391.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[B  Sorting]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 9: Taking Transportation]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_09_Act02_392.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[C  Multiple choice]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 9: Taking Transportation]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_09_Act03_393.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[D  Matching]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 9: Taking Transportation]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_09_Act04_394.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[E  Conversation scramble]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 9: Taking Transportation]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_09_Act05_395.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[F  Drag and drop]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 9: Taking Transportation]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Grammar and Vocabulary]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_09_Act06_435.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[<b>Games and Puzzles</b>]]>
+        </title>
+        <enabled>0</enabled>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[A  Guess and spell]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 9: Taking Transportation]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Games and Puzzles]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_09_Act01_336.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[B  Crossword]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 9: Taking Transportation]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Games and Puzzles]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_09_Act02_512.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[C  Concentration]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 9: Taking Transportation]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Games and Puzzles]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_09_Act03_337.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+    <child>
+      <data>
+        <title><![CDATA[D  Quiz show]]>
+        </title>
+        <indent>1</indent>
+        <function name="launchActivityViewer">
+          <parameter name="unit_title">
+            <![CDATA[Unit 9: Taking Transportation]]>
+          </parameter>
+          <parameter name="section_title">
+            <![CDATA[Games and Puzzles]]>
+          </parameter>
+          <parameter name="file">
+            <![CDATA[L01_09_Act04_338.xml]]>
+          </parameter>
+        </function>
+      </data>
+    </child>
+  </children>
+</child>
+<child>
+<data>
+  <title><![CDATA[<b>Unit 10: </b> Shopping Smart]]>
+  </title>
+</data>
+<children>
+  <child>
+    <data>
+      <title><![CDATA[<b>Speaking Practice</b>]]>
+      </title>
+      <enabled>0</enabled>
+    </data>
+  </child>
+  <child>
+    <data>
+      <title><![CDATA[A  Record and compare]]>
+      </title>
+      <indent>1</indent>
+      <function name="launchActivityViewer">
+        <parameter name="unit_title">
+          <![CDATA[Unit 10: Shopping Smart]]>
+        </parameter>
+        <parameter name="section_title">
+          <![CDATA[Speaking Practice]]>
+        </parameter>
+        <parameter name="file">
+          <![CDATA[L01_rec_compare_10_1.xml]]>
+        </parameter>
+      </function>
+    </data>
+  </child>
+  <child>
+    <data>
+      <title><![CDATA[    Role play]]>
+      </title>
+      <indent>1</indent>
+      <function name="launchActivityViewer">
+        <parameter name="unit_title">
+          <![CDATA[Unit 10: Shopping Smart]]>
+        </parameter>
+        <parameter name="section_title">
+          <![CDATA[Speaking Practice]]>
+        </parameter>
+        <parameter name="file">
+          <![CDATA[L01_role_play_10_1.xml]]>
+        </parameter>
+      </function>
+    </data>
+  </child>
+  <child>
+    <data>
+      <title><![CDATA[B  Record and compare]]>
+      </title>
+      <indent>1</indent>
+      <function name="launchActivityViewer">
+        <parameter name="unit_title">
+          <![CDATA[Unit 10: Shopping Smart]]>
+        </parameter>
+        <parameter name="section_title">
+          <![CDATA[Speaking Practice]]>
+        </parameter>
+        <parameter name="file">
+          <![CDATA[L01_rec_compare_10_2.xml]]>
+        </parameter>
+      </function>
+    </data>
+  </child>
+  <child>
+    <data>
+      <title><![CDATA[    Role Play]]>
+      </title>
+      <indent>1</indent>
+      <function name="launchActivityViewer">
+        <parameter name="unit_title">
+          <![CDATA[Unit 10: Shopping Smart]]>
+        </parameter>
+        <parameter name="section_title">
+          <![CDATA[Speaking Practice]]>
+        </parameter>
+        <parameter name="file">
+          <![CDATA[L01_role_play_10_2.xml]]>
+        </parameter>
+      </function>
+    </data>
+  </child>
+  <child>
+    <data>
+      <title><![CDATA[<b>Listening Comprehension</b>]]>
+      </title>
+      <enabled>0</enabled>
+    </data>
+  </child>
+  <child>
+    <data>
+      <title><![CDATA[Activity 1]]>
+      </title>
+      <indent>1</indent>
+      <function name="launchActivityViewer">
+        <parameter name="unit_title">
+          <![CDATA[Unit 10: Shopping Smart]]>
+        </parameter>
+        <parameter name="section_title">
+          <![CDATA[Listening Comprehension]]>
+        </parameter>
+        <parameter name="file">
+          <![CDATA[L01_10_Act01_609.xml]]>
+        </parameter>
+      </function>
+    </data>
+  </child>
+  <child>
+    <data>
+      <title><![CDATA[Activity 2]]>
+      </title>
+      <indent>1</indent>
+      <function name="launchActivityViewer">
+        <parameter name="unit_title">
+          <![CDATA[Unit 10: Shopping Smart]]>
+        </parameter>
+        <parameter name="section_title">
+          <![CDATA[Listening Comprehension]]>
+        </parameter>
+        <parameter name="file">
+          <![CDATA[L01_10_Act02_610.xml]]>
+        </parameter>
+      </function>
+    </data>
+  </child>
+  <child>
+    <data>
+      <title><![CDATA[Activity 3]]>
+      </title>
+      <indent>1</indent>
+      <function name="launchActivityViewer">
+        <parameter name="unit_title">
+          <![CDATA[Unit 10: Shopping Smart]]>
+        </parameter>
+        <parameter name="section_title">
+          <![CDATA[Listening Comprehension]]>
+        </parameter>
+        <parameter name="file">
+          <![CDATA[L01_10_Act03_611.xml]]>
+        </parameter>
+      </function>
+    </data>
+  </child>
+  <child>
+    <data>
+      <title><![CDATA[Dictation]]>
+      </title>
+      <indent>1</indent>
+      <function name="launchActivityViewer">
+        <parameter name="unit_title">
+          <![CDATA[Unit 10: Shopping Smart]]>
+        </parameter>
+        <parameter name="section_title">
+          <![CDATA[Listening Comprehension]]>
+        </parameter>
+        <parameter name="file">
+          <![CDATA[L01_10_Act04_612.xml]]>
+        </parameter>
+      </function>
+    </data>
+  </child>
+  <child>
+    <data>
+      <title><![CDATA[<b>Reading Comprehension</b>]]>
+      </title>
+      <enabled>0</enabled>
+    </data>
+  </child>
+  <child>
+    <data>
+      <title><![CDATA[Activity 1]]>
+      </title>
+      <indent>1</indent>
+      <function name="launchActivityViewer">
+        <parameter name="unit_title">
+          <![CDATA[Unit 10: Shopping Smart]]>
+        </parameter>
+        <parameter name="section_title">
+          <![CDATA[Reading Comprehension]]>
+        </parameter>
+        <parameter name="file">
+          <![CDATA[L01_10_Act01_626.xml]]>
+        </parameter>
+      </function>
+    </data>
+  </child>
+  <child>
+    <data>
+      <title><![CDATA[<b>Grammar and Vocabulary</b>]]>
+      </title>
+      <enabled>0</enabled>
+    </data>
+  </child>
+  <child>
+    <data>
+      <title><![CDATA[A  Drag and drop]]>
+      </title>
+      <indent>1</indent>
+      <function name="launchActivityViewer">
+        <parameter name="unit_title">
+          <![CDATA[Unit 10: Shopping Smart]]>
+        </parameter>
+        <parameter name="section_title">
+          <![CDATA[Grammar and Vocabulary]]>
+        </parameter>
+        <parameter name="file">
+          <![CDATA[L01_10_Act01_397.xml]]>
+        </parameter>
+      </function>
+    </data>
+  </child>
+  <child>
+    <data>
+      <title><![CDATA[B  Fill in]]>
+      </title>
+      <indent>1</indent>
+      <function name="launchActivityViewer">
+        <parameter name="unit_title">
+          <![CDATA[Unit 10: Shopping Smart]]>
+        </parameter>
+        <parameter name="section_title">
+          <![CDATA[Grammar and Vocabulary]]>
+        </parameter>
+        <parameter name="file">
+          <![CDATA[L01_10_Act02_398.xml]]>
+        </parameter>
+      </function>
+    </data>
+  </child>
+  <child>
+    <data>
+      <title><![CDATA[C  Drag and drop]]>
+      </title>
+      <indent>1</indent>
+      <function name="launchActivityViewer">
+        <parameter name="unit_title">
+          <![CDATA[Unit 10: Shopping Smart]]>
+        </parameter>
+        <parameter name="section_title">
+          <![CDATA[Grammar and Vocabulary]]>
+        </parameter>
+        <parameter name="file">
+          <![CDATA[L01_10_Act03_399.xml]]>
+        </parameter>
+      </function>
+    </data>
+  </child>
+  <child>
+    <data>
+      <title><![CDATA[D  Matching]]>
+      </title>
+      <indent>1</indent>
+      <function name="launchActivityViewer">
+        <parameter name="unit_title">
+          <![CDATA[Unit 10: Shopping Smart]]>
+        </parameter>
+        <parameter name="section_title">
+          <![CDATA[Grammar and Vocabulary]]>
+        </parameter>
+        <parameter name="file">
+          <![CDATA[L01_10_Act04_400.xml]]>
+        </parameter>
+      </function>
+    </data>
+  </child>
+  <child>
+    <data>
+      <title><![CDATA[E  Drag and drop]]>
+      </title>
+      <indent>1</indent>
+      <function name="launchActivityViewer">
+        <parameter name="unit_title">
+          <![CDATA[Unit 10: Shopping Smart]]>
+        </parameter>
+        <parameter name="section_title">
+          <![CDATA[Grammar and Vocabulary]]>
+        </parameter>
+        <parameter name="file">
+          <![CDATA[L01_10_Act05_439.xml]]>
+        </parameter>
+      </function>
+    </data>
+  </child>
+  <child>
+    <data>
+      <title><![CDATA[<b>Games and Puzzles</b>]]>
+      </title>
+      <enabled>0</enabled>
+    </data>
+  </child>
+  <child>
+    <data>
+      <title><![CDATA[A  Guess and spell]]>
+      </title>
+      <indent>1</indent>
+      <function name="launchActivityViewer">
+        <parameter name="unit_title">
+          <![CDATA[Unit 10: Shopping Smart]]>
+        </parameter>
+        <parameter name="section_title">
+          <![CDATA[Games and Puzzles]]>
+        </parameter>
+        <parameter name="file">
+          <![CDATA[L01_10_Act01_339.xml]]>
+        </parameter>
+      </function>
+    </data>
+  </child>
+  <child>
+    <data>
+      <title><![CDATA[B  Concentration]]>
+      </title>
+      <indent>1</indent>
+      <function name="launchActivityViewer">
+        <parameter name="unit_title">
+          <![CDATA[Unit 10: Shopping Smart]]>
+        </parameter>
+        <parameter name="section_title">
+          <![CDATA[Games and Puzzles]]>
+        </parameter>
+        <parameter name="file">
+          <![CDATA[L01_10_Act02_340.xml]]>
+        </parameter>
+      </function>
+    </data>
+  </child>
+  <child>
+    <data>
+      <title><![CDATA[C  Quiz show]]>
+      </title>
+      <indent>1</indent>
+      <function name="launchActivityViewer">
+        <parameter name="unit_title">
+          <![CDATA[Unit 10: Shopping Smart]]>
+        </parameter>
+        <parameter name="section_title">
+          <![CDATA[Games and Puzzles]]>
+        </parameter>
+        <parameter name="file">
+          <![CDATA[L01_10_Act03_342.xml]]>
+        </parameter>
+      </function>
+    </data>
+  </child>
+  <child>
+    <data>
+      <title><![CDATA[D  Crossword]]>
+      </title>
+      <indent>1</indent>
+      <function name="launchActivityViewer">
+        <parameter name="unit_title">
+          <![CDATA[Unit 10: Shopping Smart]]>
+        </parameter>
+        <parameter name="section_title">
+          <![CDATA[Games and Puzzles]]>
+        </parameter>
+        <parameter name="file">
+          <![CDATA[L01_10_Act04_513.xml]]>
+        </parameter>
+      </function>
+    </data>
+  </child>
+  
+</children>

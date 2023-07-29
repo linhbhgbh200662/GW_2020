@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<page id="0030">
+<map name="Map" id="Map">
+<art type="icon">
+<coords><![CDATA[54,116]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 3/2-08 A Vocabulary p30.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[80]]></scale>
+</art>
+<art type="icon">
+<coords><![CDATA[54,471]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 3/2-09 C Listening compreh p30.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[80]]></scale>
+</art>
+<art type="icon">
+<coords><![CDATA[538,665]]></coords>
+<icon><![CDATA[grammar_booster]]></icon><title><![CDATA[Go to Grammar Booster]]></title>
+<pFunction><![CDATA[generic_gotopage]]></pFunction>
+<scale><![CDATA[80]]></scale>
+<page><![CDATA[127]]></page>
+</art>
+</map>
+</page>

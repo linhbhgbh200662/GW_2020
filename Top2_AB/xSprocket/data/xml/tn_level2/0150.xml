@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page id="0150">
+<map name="Map" id="Map">
+<art type="icon" pfunction="audio_icon">
+<coords><![CDATA[53,100]]></coords>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<scale><![CDATA[50]]></scale>
+<title><![CDATA[Play Karaoke version]]></title>
+<href><![CDATA[Top Notch 2 MP3 files/Unit_06/3-38_Karaoke_A_Perfect_D_p72.mp3]]></href>
+</art><art type="icon" pfunction="audio_icon">
+<coords><![CDATA[29,100]]></coords>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<scale><![CDATA[50]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 2 MP3 files/Unit_06/3-37_Song_A_Perfect_Dish_p72.mp3]]></href>
+</art><art type="icon" pfunction="audio_icon">
+<coords><![CDATA[204,130]]></coords>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<scale><![CDATA[50]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 2 MP3 files/Unit_08/4-30_Song_To_Each_His_Ow_p96.mp3]]></href>
+</art><art type="icon" pfunction="audio_icon">
+<coords><![CDATA[228,130]]></coords>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<scale><![CDATA[50]]></scale>
+<title><![CDATA[Play Karaoke version]]></title>
+<href><![CDATA[Top Notch 2 MP3 files/Unit_08/4-31_Karaoke_To_Each_His_p96.mp3]]></href>
+</art><art type="icon" pfunction="audio_icon">
+<coords><![CDATA[29,526]]></coords>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<scale><![CDATA[50]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 2 MP3 files/Unit_07/4-14_Song_The_Colors_of_p84.mp3]]></href>
+</art><art type="icon" pfunction="audio_icon">
+<coords><![CDATA[54,526]]></coords>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<scale><![CDATA[50]]></scale>
+<title><![CDATA[Play Karaoke version]]></title>
+<href><![CDATA[Top Notch 2 MP3 files/Unit_07/4-15_Karaoke_The_Colors_p84.mp3]]></href>
+</art><art type="icon" pfunction="audio_icon">
+<coords><![CDATA[202,517]]></coords>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<scale><![CDATA[50]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 2 MP3 files/Unit_09/5-17_Song_Life_in_Cyber_p108.mp3]]></href>
+</art><art type="icon" pfunction="audio_icon">
+<coords><![CDATA[227,518]]></coords>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<scale><![CDATA[50]]></scale>
+<title><![CDATA[Play Karaoke version]]></title>
+<href><![CDATA[Top Notch 2 MP3 files/Unit_09/5-18_Karaoke_Life_in_Cy_p108.mp3]]></href>
+</art><art type="icon" pfunction="audio_icon">
+<coords><![CDATA[401,374]]></coords>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<scale><![CDATA[50]]></scale>
+<title><![CDATA[Play Karaoke version]]></title>
+<href><![CDATA[Top Notch 2 MP3 files/Unit_10/5-32_Karaoke_What_Would_p120.mp3]]></href>
+</art><art type="icon" pfunction="audio_icon">
+<coords><![CDATA[377,374]]></coords>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<scale><![CDATA[50]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 2 MP3 files/Unit_10/5-31_Song_What_Would_Yo_p120.mp3]]></href>
+</art></map></page>

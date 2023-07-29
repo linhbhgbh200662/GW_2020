@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page id="0118">
+<map name="Map" id="Map">
+<art type="icon" pfunction="audio_icon">
+<scale><![CDATA[80]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 10/5-30 A Vocabulary p118.mp3]]></href>
+<icon><![CDATA[audio_button]]></icon>
+<coords><![CDATA[53,120]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<scale><![CDATA[80]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 10/5-31 A Listen for main p118.mp3]]></href>
+<icon><![CDATA[audio_button]]></icon>
+<coords><![CDATA[53,589]]></coords>
+</art></map></page>

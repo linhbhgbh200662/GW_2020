@@ -1,0 +1,4 @@
+
+interface showable {
+    void show();
+}

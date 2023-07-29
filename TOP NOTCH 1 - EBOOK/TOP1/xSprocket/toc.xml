@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <document>
+    <unit title="Unit 1: Getting Acquainted">
+      <section title="Speaking Practice">
+        <activity title="A Record and compare" type="role_play" file="L01_rec_compare_1_1.xml" />
+        <activity title="A Role play" type="role_play" file="L01_role_play_1_1.xml" />
+        <activity title="B Record and compare" type="role_play" file="L01_rec_compare_1_2.xml" />
+        <activity title="B Role play" type="role_play" file="L01_role_play_1_2.xml" />
+      </section>
+      <section title="Listening Comprehension">
+        <activity title="Activity 1" type="dragdrop_single" file="L01_01_Act01_563.xml" />
+        <activity title="Dictation" type="fill_in_blanks" file="L01_01_Act02_564.xml" />
+      </section>
+      <section title="Reading Comprehension">
+        <activity title="Activity 1" type="true_false" file="L01_01_Act01_565.xml" />
+        <activity title="Activity 2" type="true_false" file="L01_01_Act02_566.xml" />
+        <activity title="Activity 3" type="true_false" file="L01_01_Act03_567.xml" />
+      </section>
+      <section title="Grammar and Vocabulary">
+        <activity title="A Matching" type="matching" file="L01_01_Act01_283.xml" />
+        <activity title="B Drag and drop" type="dragdrop_convo" file="L01_01_Act02_284.xml" />
+        <activity title="C Multiple choice" type="multiple_choice" file="L01_01_Act03_285.xml" />
+        <activity title="D Fill in" type="fill_in_blanks" file="L01_01_Act04_286.xml" />
+        <activity title="E Drag and drop" type="dragdrop_single" file="L01_01_Act05_287.xml" />
+        <activity title="F Sentence scramble" type="word_scramble" file="L01_01_Act06_288.xml" />
+      </section>
+      <section title="Games and Puzzles">
+        <activity title="A Crossword" type="crossword" file="L01_01_Act01_504.xml" />
+        <activity title="B Concentration" type="concentration" file="L01_01_Act02_312.xml" />
+        <activity title="C Guess and spell" type="hangman" file="L01_01_Act03_313.xml" />
+        <activity title="D Quiz show" type="quiz_show" file="L01_01_Act04_314.xml" />
+      </section>
+    </unit>
+    <unit title="Unit 2: Going Out">
+      <section title="Speaking Practice">
+        <activity title="A Record and compare" type="role_play" file="L01_rec_compare_2_1.xml" />
+        <activity title="A Role play" type="role_play" file="L01_role_play_2_1.xml" />
+        <activity title="B Record and compare" type="role_play" file="L01_rec_compare_2_2.xml" />
+        <activity title="B Role play" type="role_play" file="L01_role_play_2_2.xml" />
+		<activity title="C Record and compare" type="role_play" file="L01_rec_compare_2_3.xml" />
+        <activity title="C Role play" type="role_play" file="L01_role_play_2_3.xml" />
+		<activity title="D Record and compare" type="role_play" file="L01_rec_compare_2_4.xml" />
+        <activity title="D Role play" type="role_play" file="L01_role_play_2_4.xml" />
+      </section>
+      <section title="Listening Comprehension">
+        <activity title="Activity 1" type="multiple_choice" file="L01_02_Act01_568.xml" />
+        <activity title="Dictation" type="fill_in_blanks" file="L01_02_Act02_569.xml" />
+      </section>
+      <section title="Reading Comprehension">
+        <activity title="Activity 1" type="true_false" file="L01_02_Act01_570.xml" />
+        <activity title="Activity 2" type="multiple_choice" file="L01_02_Act02_571.xml" />
+        <activity title="Activity 3" type="multiple_choice" file="L01_02_Act03_572.xml" />
+        <activity title="Activity 4" type="multiple_choice" file="L01_02_Act04_573.xml" />
+      </section>
+      <section title="Grammar and Vocabulary">
+        <activity title="A True / false" type="true_false" file="L01_02_Act01_289.xml" />
+        <activity title="B Sorting" type="sorting" file="L01_02_Act02_290.xml" />
+        <activity title="C Fill in" type="fill_in_blanks" file="L01_02_Act03_291.xml" />
+        <activity title="D Drag and drop" type="dragdrop_convo" file="L01_02_Act04_292.xml" />
+        <activity title="E Drag and drop" type="dragdrop_single" file="L01_02_Act05_294.xml" />
+      </section>
+      <section title="Games and Puzzles">
+        <activity title="A Concentration" type="concentration" file="L01_02_Act01_315.xml" />
+        <activity title="B Crossword" type="crossword" file="L01_02_Act02_505.xml" />
+        <activity title="C Quiz show" type="quiz_show" file="L01_02_Act03_316.xml" />
+        <activity title="D Guess and spell" type="hangman" file="L01_02_Act04_326.xml" />
+      </section>
+      
+    </unit>
+    <unit title="Unit 3: The Extended Family">
+      <section title="Speaking Practice">
+        <activity title="A Record and compare" type="role_play" file="L01_rec_compare_3_1.xml" />
+        <activity title="A Role play" type="role_play" file="L01_role_play_3_1.xml" />
+        <activity title="B Record and compare" type="role_play" file="L01_rec_compare_3_2.xml" />
+        <activity title="B Role play" type="role_play" file="L01_role_play_3_2.xml" />
+		<activity title="C Record and compare" type="role_play" file="L01_rec_compare_3_3.xml" />
+        <activity title="C Role play" type="role_play" file="L01_role_play_3_3.xml" />
+      </section>
+      <section title="Listening Comprehension">
+        <activity title="Activity 1" type="true_false" file="L01_03_Act01_574.xml" />
+        <activity title="Dictation" type="fill_in_blanks" file="L01_03_Act02_575.xml" />
+      </section>
+      <section title="Reading Comprehension">
+        <activity title="Activity 1" type="true_false" file="L01_03_Act01_576.xml" />
+        <activity title="Activity 2" type="true_false" file="L01_03_Act01_577.xml" />
+        <activity title="Activity 3" type="true_false" file="L01_03_Act03_578.xml" />
+      </section>
+      <section title="Grammar and Vocabulary">
+        <activity title="A Drag and drop" type="dragdrop_single" file="L01_03_Act01_295.xml" />
+        <activity title="B Drag and drop" type="dragdrop_convo" file="L01_03_Act02_297.xml" />
+        <activity title="C Drag and drop" type="dragdrop_multiple" file="L01_03_Act03_298.xml" />
+        <activity title="D Drag and drop" type="dragdrop_single" file="L01_03_Act04_769.xml" />
+        <activity title="E Fill in" type="fill_in_blanks" file="L01_03_Act05_300.xml" />
+      </section>
+      <section title="Games and Puzzles">
+        <activity title="A Crossword" type="crossword" file="L01_03_Act01_506.xml" />
+        <activity title="B Guess and spell" type="hangman" file="L01_03_Act02_317.xml" />
+        <activity title="C Concentration" type="concentration" file="L01_03_Act03_318.xml" />
+        <activity title="D Quiz show" type="quiz_show" file="L01_03_Act04_319.xml" />
+      </section>
+    </unit>
+    <unit title="Unit 4: Food and Restaurants">
+      <section title="Speaking Practice">
+        <activity title="A Record and compare" type="role_play" file="L01_rec_compare_4_1.xml" />
+        <activity title="A Role play" type="role_play" file="L01_role_play_4_1.xml" />
+        <activity title="B Record and compare" type="role_play" file="L01_rec_compare_4_2.xml" />
+        <activity title="B Role play" type="role_play" file="L01_role_play_4_2.xml" />
+      </section>
+      <section title="Listening Comprehension">
+        <activity title="Activity 1" type="dragdrop_single" file="L01_04_Act01_579.xml" />
+        <activity title="Dictation" type="fill_in_blanks" file="L01_04_Act02_580.xml" />
+      </section>
+      <section title="Reading Comprehension">
+        <activity title="Activity 1" type="true_false" file="L01_04_Act01_581.xml" />
+        <activity title="Activity 2" type="multiple_choice" file="L01_04_Act02_665.xml" />
+      </section>
+      <section title="Grammar and Vocabulary">
+        <activity title="A Multiple Choice" type="multiple_choice" file="L01_04_Act01_306.xml" />
+        <activity title="B Drag and drop" type="dragdrop_multiple" file="L01_04_Act02_307.xml" />
+        <activity title="C Fill in" type="fill_in_blanks" file="L01_04_Act03_308.xml" />
+        <activity title="D Drag and drop" type="dragdrop_single" file="L01_04_Act04_309.xml" />
+        <activity title="E Matching" type="matching" file="L01_04_Act05_310.xml" />
+        <activity title="F Drag and drop" type="dragdrop_convo" file="L01_04_Act06_311.xml" />
+      </section>
+      <section title="Games and Puzzles">
+        <activity title="A Quiz show" type="quiz_show" file="L01_04_Act01_323.xml" />
+        <activity title="B Concentration" type="concentration" file="L01_04_Act02_324.xml" />
+        <activity title="C Guess and spell" type="hangman" file="L01_04_Act03_325.xml" />
+        <activity title="D Crossword" type="crossword" file="L01_04_Act04_508.xml" />
+      </section>
+     
+    </unit>
+    <unit title="Unit 5: Technology and You">
+      <section title="Speaking Practice">
+        <activity title="A Record and compare" type="role_play" file="L01_rec_compare_5_1.xml" />
+        <activity title="A Role play" type="role_play" file="L01_role_play_5_1.xml" />
+        <activity title="B Record and compare" type="role_play" file="L01_rec_compare_5_2.xml" />
+        <activity title="B Role play" type="role_play" file="L01_role_play_5_2.xml" />
+      </section>
+      <section title="Listening Comprehension">
+        <activity title="Activity 1" type="matching" file="L01_05_Act01_583.xml" />
+        <activity title="Dictation" type="fill_in_blanks" file="L01_05_Act02_585.xml" />
+      </section>
+      <section title="Reading Comprehension">
+        <activity title="Activity 1" type="multiple_choice" file="L01_05_Act01_589.xml" />
+      </section>
+      <section title="Grammar and Vocabulary">
+        <activity title="A Sorting" type="sorting" file="L01_05_Act01_301.xml" />
+        <activity title="B Sentence scramble" type="word_scramble" file="L01_05_Act02_302.xml" />
+        <activity title="C Drag and drop" type="dragdrop_single" file="L01_05_Act03_303.xml" />
+        <activity title="D Drag and drop" type="dragdrop_convo" file="L01_05_Act04_304.xml" />
+        <activity title="E Fill in" type="fill_in_blanks" file="L01_05_Act05_305.xml" />
+      </section>
+      <section title="Games and Puzzles">
+        <activity title="A Concentration" type="concentration" file="L01_05_Act01_320.xml" />
+        <activity title="B Quiz show" type="quiz_show" file="L01_05_Act02_321.xml" />
+        <activity title="C Crossword" type="crossword" file="L01_05_Act03_507.xml" />
+        <activity title="D Guess and spell" type="hangman" file="L01_05_Act04_322.xml" />
+      </section>
+    </unit>
+    <unit title="Unit 6: Staying in Shape">
+      <section title="Speaking Practice">
+        <activity title="A Record and compare" type="role_play" file="L01_rec_compare_6_1.xml" />
+        <activity title="A Role play" type="role_play" file="L01_role_play_6_1.xml" />
+        <activity title="B Record and compare" type="role_play" file="L01_rec_compare_6_2.xml" />
+        <activity title="B Role play" type="role_play" file="L01_role_play_6_2.xml" />
+      </section>
+      <section title="Listening Comprehension">
+        <activity title="Activity 1" type="true_false" file="L01_06_Act01_590.xml" />
+        <activity title="Dictation" type="fill_in_blanks" file="L01_06_Act02_591.xml" />
+      </section>
+      <section title="Reading Comprehension">
+        <activity title="Activity 1" type="fill_in_blanks" file="L01_06_Act01_593.xml" />
+        <activity title="Activity 2" type="fill_in_blanks" file="L01_06_Act02_706.xml" />
+      </section>
+      <section title="Grammar and Vocabulary">
+        <activity title="A Matching" type="matching" file="L01_06_Act01_366.xml" />
+        <activity title="B Drag and drop" type="dragdrop_multiple" file="L01_06_Act02_367.xml" />
+        <activity title="C Drag and drop" type="dragdrop_single" file="L01_06_Act03_377.xml" />
+        <activity title="D Multiple choice" type="multiple_choice" file="L01_06_Act04_378.xml" />
+        <activity title="E Fill in" type="fill_in_blanks" file="L01_06_Act05_379.xml" />
+        <activity title="F Drag and drop" type="dragdrop_convo" file="L01_06_Act06_434.xml" />
+      </section>
+      <section title="Games and Puzzles">
+        <activity title="A Concentration" type="concentration" file="L01_06_Act01_327.xml" />
+        <activity title="B Quiz show" type="quiz_show" file="L01_06_Act02_328.xml" />
+        <activity title="C Guess and spell" type="hangman" file="L01_06_Act03_329.xml" />
+        <activity title="D Crossword" type="crossword" file="L01_06_Act04_509.xml" />
+      </section>
+     
+    </unit>
+    <unit title="Unit 7: On Vacation">
+      <section title="Speaking Practice">
+        <activity title="A Record and compare" type="role_play" file="L01_rec_compare_7_1.xml" />
+        <activity title="A Role play" type="role_play" file="L01_role_play_7_1.xml" />
+        <activity title="B Record and compare" type="role_play" file="L01_rec_compare_7_2.xml" />
+        <activity title="B Role play" type="role_play" file="L01_role_play_7_2.xml" />
+      </section>
+      <section title="Listening Comprehension">
+        <activity title="Activity 1" type="fill_in_blanks" file="L01_07_Act01_595.xml" />
+        <activity title="Dictation" type="fill_in_blanks" file="L01_07_Act02_596.xml" />
+      </section>
+      <section title="Reading Comprehension">
+        <activity title="Activity 1" type="true_false" file="L01_07_Act01_597.xml" />
+        <activity title="Activity 2" type="true_false" file="L01_07_Act02_598.xml" />
+        <activity title="Activity 3" type="true_false" file="L01_07_Act03_599.xml" />
+        <activity title="Activity 4" type="true_false" file="L01_07_Act04_600.xml" />
+      </section>
+      <section title="Grammar and Vocabulary">
+        <activity title="A Drag and drop" type="dragdrop_multiple" file="L01_07_Act01_386.xml" />
+        <activity title="B Drag and drop" type="dragdrop_single" file="L01_07_Act02_387.xml" />
+        <activity title="C Fill in" type="fill_in_blanks" file="L01_07_Act03_388.xml" />
+        <activity title="D Sentence scramble" type="word_scramble" file="L01_07_Act04_389.xml" />
+        <activity title="E Drag and drop" type="dragdrop_convo" file="L01_07_Act05_437.xml" />
+        <activity title="F Matching" type="matching" file="L01_07_Act06_390.xml" />
+      </section>
+      <section title="Games and Puzzles">
+        <activity title="A Concentration" type="concentration" file="L01_07_Act01_333.xml" />
+        <activity title="B Quiz show" type="quiz_show" file="L01_07_Act02_334.xml" />
+        <activity title="C Crossword" type="crossword" file="L01_07_Act03_511.xml" />
+        <activity title="D Guess and spell" type="hangman" file="L01_07_Act04_335.xml" />
+      </section>
+     
+    </unit>
+    <unit title="Unit 8: Shopping for Clothes">
+      <section title="Speaking Practice">
+        <activity title="A Record and compare" type="role_play" file="L01_rec_compare_8_1.xml" />
+        <activity title="A Role play" type="role_play" file="L01_role_play_8_1.xml" />
+        <activity title="B Record and compare" type="role_play" file="L01_rec_compare_8_2.xml" />
+        <activity title="B Role play" type="role_play" file="L01_role_play_8_2.xml" />
+      </section>
+      <section title="Listening Comprehension">
+        <activity title="Activity 1" type="multiple_choice" file="L01_08_Act01_601.xml" />
+        <activity title="Dictation" type="fill_in_blanks" file="L01_08_Act02_602.xml" />
+      </section>
+      <section title="Reading Comprehension">
+        <activity title="Activity 1" type="true_false" file="L01_08_Act01_603.xml" />
+        <activity title="Activity 2" type="multiple_choice" file="L01_08_Act02_604.xml" />
+      </section>
+      <section title="Grammar and Vocabulary">
+        <activity title="A Sorting" type="sorting" file="L01_08_Act01_381.xml" />
+        <activity title="B Multiple choice" type="multiple_choice" file="L01_08_Act02_382.xml" />
+        <activity title="C Drag and drop" type="dragdrop_multiple" file="L01_08_Act03_383.xml" />
+        <activity title="D Sentence scramble" type="word_scramble" file="L01_08_Act04_384.xml" />
+        <activity title="E Drag and drop" type="dragdrop_convo" file="L01_08_Act05_436.xml" />
+        <activity title="F Drag and drop" type="dragdrop_single" file="L01_08_Act06_385.xml" />
+      </section>
+      <section title="Games and Puzzles">
+        <activity title="A Concentration" type="concentration" file="L01_08_Act01_330.xml" />
+        <activity title="B Quiz show" type="quiz_show" file="L01_08_Act02_331.xml" />
+        <activity title="C Guess and spell" type="hangman" file="L01_08_Act03_332.xml" />
+        <activity title="D Crossword" type="crossword" file="L01_08_Act04_510.xml" />
+      </section>
+    </unit>
+    <unit title="Unit 9: Taking Transportation">
+      <section title="Speaking Practice">
+        <activity title="A Record and compare" type="role_play" file="L01_rec_compare_9_1.xml" />
+        <activity title="A Role play" type="role_play" file="L01_role_play_9_1.xml" />
+        <activity title="B Record and compare" type="role_play" file="L01_rec_compare_9_2.xml" />
+        <activity title="B Role play" type="role_play" file="L01_role_play_9_2.xml" />
+      </section>
+      <section title="Listening Comprehension">
+        <activity title="Activity 1" type="true_false" file="L01_09_Act01_605.xml" />
+        <activity title="Dictation" type="fill_in_blanks" file="L01_09_Act02_606.xml" />
+      </section>
+      <section title="Reading Comprehension">
+        <activity title="Activity 1" type="true_false" file="L01_09_Act01_607.xml" />
+        <activity title="Activity 2" type="true_false" file="L01_09_Act02_608.xml" />
+      </section>
+      <section title="Grammar and Vocabulary">
+        <activity title="A Fill in" type="fill_in_blanks" file="L01_09_Act01_391.xml" />
+        <activity title="B Sorting" type="sorting" file="L01_09_Act02_392.xml" />
+        <activity title="C Multiple choice" type="multiple_choice" file="L01_09_Act03_393.xml" />
+        <activity title="D Matching" type="matching" file="L01_09_Act04_394.xml" />
+        <activity title="E Conversation scramble" type="sentence_scramble" file="L01_09_Act05_395.xml" />
+        <activity title="F Drag and drop" type="dragdrop_single" file="L01_09_Act06_435.xml" />
+      </section>
+      <section title="Games and Puzzles">
+        <activity title="A Guess and spell" type="hangman" file="L01_09_Act01_336.xml" />
+        <activity title="B Crossword" type="crossword" file="L01_09_Act02_512.xml" />
+        <activity title="C Concentration" type="concentration" file="L01_09_Act03_337.xml" />
+        <activity title="D Quiz show" type="quiz_show" file="L01_09_Act04_338.xml" />
+      </section>
+    </unit>
+    <unit title="Unit 10: Shopping Smart">
+      <section title="Speaking Practice">
+        <activity title="A Record and compare" type="role_play" file="L01_rec_compare_10_1.xml" />
+        <activity title="A Role play" type="role_play" file="L01_role_play_10_1.xml" />
+        <activity title="B Record and compare" type="role_play" file="L01_rec_compare_10_2.xml" />
+        <activity title="B Role play" type="role_play" file="L01_role_play_10_2.xml" />
+      </section>
+      <section title="Listening Comprehension">
+        <activity title="Activity 1" type="true_false" file="L01_10_Act01_609.xml" />
+        <activity title="Activity 2" type="true_false" file="L01_10_Act02_610.xml" />
+        <activity title="Activity 3" type="true_false" file="L01_10_Act03_611.xml" />
+        <activity title="Dictation" type="fill_in_blanks" file="L01_10_Act04_612.xml" />
+      </section>
+      <section title="Reading Comprehension">
+        <activity title="Activity 1" type="fill_in_blanks" file="L01_10_Act01_626.xml" />
+      </section>
+      <section title="Grammar and Vocabulary">
+        <activity title="A Drag and drop" type="dragdrop_single" file="L01_10_Act01_397.xml" />
+        <activity title="B Fill in" type="fill_in_blanks" file="L01_10_Act02_398.xml" />
+        <activity title="C Drag and drop" type="dragdrop_multiple" file="L01_10_Act03_399.xml" />
+        <activity title="D Matching" type="matching" file="L01_10_Act04_400.xml" />
+        <activity title="E Drag and drop" type="dragdrop_convo" file="L01_10_Act05_439.xml" />
+      </section>
+      <section title="Games and Puzzles">
+        <activity title="A Guess and spell" type="hangman" file="L01_10_Act01_339.xml" />
+        <activity title="B Concentration" type="concentration" file="L01_10_Act02_340.xml" />
+        <activity title="C Quiz show" type="quiz_show" file="L01_10_Act03_342.xml" />
+        <activity title="D Crossword" type="crossword" file="L01_10_Act04_513.xml" />
+      </section>
+      
+    </unit>
+  </document>
+

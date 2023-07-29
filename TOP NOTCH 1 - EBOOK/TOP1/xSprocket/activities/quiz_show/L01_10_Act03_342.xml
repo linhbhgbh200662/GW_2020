@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="quiz_show" version="1.0" client="" oae-label="ACTIVITY TYPE: QUIZ SHOW">
+	<title oae-label="Title:">
+		<![CDATA[Quiz Show]]>
+	</title>
+	<shortinst oae-label="Short Instructions:">
+		<![CDATA[Click on a box. Choose the correct answer. You have only three minutes.]]>
+	</shortinst>
+	<detailinst oae-label="Detailed Instructions:">
+		<![CDATA[Click on an amount in a category to answer a question about that topic. Click on the correct answer for each question. If your entry is correct, it will highlight in green and you will "win" the amount of money listed. If you are incorrect, you will "lose" the amount of money listed. You don't gain or lose any money for trying again. Next and Previous buttons navigate among the questions. Try to win as much money as you can!]]>
+	</detailinst>
+	<randomquestions oae-label="Randomize Questions:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomquestions>
+	<randomanswers oae-label="Randomize Answers:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomanswers>
+	<categories>
+		<category oae-lable="Category 1">
+			<![CDATA[Superlatives]]>
+		</category>
+		<category oae-lable="Category 2">
+			<![CDATA[<u>Too</u> and <u>enough</u>]]>
+		</category>
+		<category oae-lable="Category 3">
+			<![CDATA[How to bargain]]>
+		</category>
+		<category oae-lable="Category 4">
+			<![CDATA[Describing good and bad prices]]>
+		</category>
+	</categories>
+	<categoryquestions oae-label="Category 1 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I don’t want to spend a lot of money.  I’m looking for _____ MP3 player you have.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[the cheapest]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[the most comfortable]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[the least difficult]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[the most interesting]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I’m not very good with technology.  Which of these digital cameras is _____ to use?]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[the cheapest]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[the most comfortable]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[the least difficult]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[the most interesting]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I love these jeans.  They’re _____ pair I have.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[the cheapest]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[the most comfortable]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[the least difficult]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[the most interesting]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I'd like to watch one of these movies tonight.  Which is _____?]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[the cheapest]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[the most comfortable]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[the least difficult]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[the most interesting]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 2 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[There’s a lot of pasta here.  That bowl is _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[too small]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[too big]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[small enough]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[big enough]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[This sweater is a medium.  I wear a small.  It’s _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[too small]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[too big]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[small enough]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[big enough]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[This cell phone is the perfect size.  It’s _____ to fit in my pocket.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[too small]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[too big]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[small enough]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[big enough]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[It’s a small apartment, but it’s _____ for me.  I don’t have a lot of stuff.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[too small]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[too big]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[small enough]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[big enough]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 3 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Buyer: Would you take ten?
+Seller: That's not enough. But I can _____ twenty.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[go as low as]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[give you]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[have it for]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[want]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Seller: How about thirty?
+Buyer: Thirty's more than I want to spend. I can _____ twenty.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[go as low as]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[give you]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[have it for]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[want]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Buyer: Would you take forty?
+Seller: That's too low. You can _____ fifty.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[go as low as]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[give you]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[have it for]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[want]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Seller: How much do you _____ to spend?
+Buyer: Would you take a hundred?]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[go as low as]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[give you]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[have it]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[want]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 4 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[He was asking $100, but I bargained him down to $75.  I saved _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[a great deal]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[a lot of money]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[too much]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[a bad deal]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[You got that vase for 175 euros?  What a bargain!  You got _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[a great deal]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[a lot of money]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[too much]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[a bad deal]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[125 yen?  What a rip-off!  You got _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[a great deal]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[a lot of money]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[too much]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[a bad deal]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[You paid $100 for that? You can get it in another store for $75. You paid _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[a great deal]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[a lot of money]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[too much]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[a bad deal]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+</activity>

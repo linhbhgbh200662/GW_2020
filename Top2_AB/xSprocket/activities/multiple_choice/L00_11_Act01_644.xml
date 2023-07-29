@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="multiple_choice" version="1.0" client="Longman" oae-label="ACTIVITY TYPE: Multiple Choice">
+	<title oae-label="Activity Title" oae-type="textarea" oae-rows="1">
+		<![CDATA[Activity 1]]>
+	</title>
+	<instructions oae-label="Instructions" oae-type="textarea" oae-rows="3">
+		<![CDATA[Read about the weekends of three people who went to famous places. Click on the correct response.]]>
+	</instructions>
+	<questions>
+		<question oae-label="Question 1">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[<b>Where did you go last weekend?</b>
+
+<i>Luz Rodríguez</i> 
+I’m from New York, but last weekend, my husband and I went to Paris, France! It was wonderful—we did so many things. Every night, we listened to music and went to bed late. And every morning, we got up late. 
+
+During the day, we walked the streets and visited beautiful places like the Eiffel Tower and the Louvre Museum. We sat in cafes, drank coffee, and watched people. The food was great—I love French food. I loved the bread and cheese. Paris is my favorite city. 
+
+<i>Yoko Mia Hirano</i>
+Last weekend, my friends and I went to Cancún, Mexico. Well, it was a long weekend—Thursday night to Monday night. We had a fantastic time. The beaches were just beautiful! The water was so blue and warm.
+
+Every morning we walked on the beach, and in the evening we ate dinner in the center of the city. The food was really good—the fish and the fruit juices were so delicious. We went swimming morning, noon, and night. On Sunday we took a water taxi to Isla Mujeres.
+
+
+<i>John Barnes</i>
+My wife and I work in Macau. Last weekend we flew to Hong Kong. What a great city! We only had three days, but we did a little sightseeing. We took the ferry to Kowloon. We went to Aberdeen and ate dinner on a boat. We wanted to visit the Tiger Balm Garden, but there was very little time.
+
+We mainly ate Chinese food, but sometimes we had Thai food or French food. The food in Hong Kong is terrific!]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[What three cities did the people visit?]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[Paris, Cancún, and Hong Kong]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[New York, Paris, and Hong Kong]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[Paris, Cancún, and Macau]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 2">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[<b>Where did you go last weekend?</b>
+
+<i>Luz Rodríguez</i> 
+I’m from New York, but last weekend, my husband and I went to Paris, France! It was wonderful—we did so many things. Every night, we listened to music and went to bed late. And every morning, we got up late. 
+
+During the day, we walked the streets and visited beautiful places like the Eiffel Tower and the Louvre Museum. We sat in cafes, drank coffee, and watched people. The food was great—I love French food. I loved the bread and cheese. Paris is my favorite city. 
+
+<i>Yoko Mia Hirano</i>
+Last weekend, my friends and I went to Cancún, Mexico. Well, it was a long weekend—Thursday night to Monday night. We had a fantastic time. The beaches were just beautiful! The water was so blue and warm.
+
+Every morning we walked on the beach, and in the evening we ate dinner in the center of the city. The food was really good—the fish and the fruit juices were so delicious. We went swimming morning, noon, and night. On Sunday we took a water taxi to Isla Mujeres.
+
+
+<i>John Barnes</i>
+My wife and I work in Macau. Last weekend we flew to Hong Kong. What a great city! We only had three days, but we did a little sightseeing. We took the ferry to Kowloon. We went to Aberdeen and ate dinner on a boat. We wanted to visit the Tiger Balm Garden, but there was very little time.
+
+We mainly ate Chinese food, but sometimes we had Thai food or French food. The food in Hong Kong is terrific!]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[Who visited beaches?]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[Yoko Mia Hirano]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[Luz Rodriguez]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[John Barnes]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 3">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[<b>Where did you go last weekend?</b>
+
+<i>Luz Rodríguez</i> 
+I’m from New York, but last weekend, my husband and I went to Paris, France! It was wonderful—we did so many things. Every night, we listened to music and went to bed late. And every morning, we got up late. 
+
+During the day, we walked the streets and visited beautiful places like the Eiffel Tower and the Louvre Museum. We sat in cafes, drank coffee, and watched people. The food was great—I love French food. I loved the bread and cheese. Paris is my favorite city. 
+
+<i>Yoko Mia Hirano</i>
+Last weekend, my friends and I went to Cancún, Mexico. Well, it was a long weekend—Thursday night to Monday night. We had a fantastic time. The beaches were just beautiful! The water was so blue and warm.
+
+Every morning we walked on the beach, and in the evening we ate dinner in the center of the city. The food was really good—the fish and the fruit juices were so delicious. We went swimming morning, noon, and night. On Sunday we took a water taxi to Isla Mujeres.
+
+
+<i>John Barnes</i>
+My wife and I work in Macau. Last weekend we flew to Hong Kong. What a great city! We only had three days, but we did a little sightseeing. We took the ferry to Kowloon. We went to Aberdeen and ate dinner on a boat. We wanted to visit the Tiger Balm Garden, but there was very little time.
+
+We mainly ate Chinese food, but sometimes we had Thai food or French food. The food in Hong Kong is terrific!]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[Who didn’t travel with a husband or a wife?]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[Yoko Mia Hirano]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[Luz Rodriguez]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[John Barnes]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 4">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[<b>Where did you go last weekend?</b>
+
+<i>Luz Rodríguez</i> 
+I’m from New York, but last weekend, my husband and I went to Paris, France! It was wonderful—we did so many things. Every night, we listened to music and went to bed late. And every morning, we got up late. 
+
+During the day, we walked the streets and visited beautiful places like the Eiffel Tower and the Louvre Museum. We sat in cafes, drank coffee, and watched people. The food was great—I love French food. I loved the bread and cheese. Paris is my favorite city. 
+
+<i>Yoko Mia Hirano</i>
+Last weekend, my friends and I went to Cancún, Mexico. Well, it was a long weekend—Thursday night to Monday night. We had a fantastic time. The beaches were just beautiful! The water was so blue and warm.
+
+Every morning we walked on the beach, and in the evening we ate dinner in the center of the city. The food was really good—the fish and the fruit juices were so delicious. We went swimming morning, noon, and night. On Sunday we took a water taxi to Isla Mujeres.
+
+
+<i>John Barnes</i>
+My wife and I work in Macau. Last weekend we flew to Hong Kong. What a great city! We only had three days, but we did a little sightseeing. We took the ferry to Kowloon. We went to Aberdeen and ate dinner on a boat. We wanted to visit the Tiger Balm Garden, but there was very little time.
+
+We mainly ate Chinese food, but sometimes we had Thai food or French food. The food in Hong Kong is terrific!]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[Who ate dinner on a boat?]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[John Barnes]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[Luz Rodriguez]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[Yoko Mia Hirano]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 5">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[<b>Where did you go last weekend?</b>
+
+<i>Luz Rodríguez</i> 
+I’m from New York, but last weekend, my husband and I went to Paris, France! It was wonderful—we did so many things. Every night, we listened to music and went to bed late. And every morning, we got up late. 
+
+During the day, we walked the streets and visited beautiful places like the Eiffel Tower and the Louvre Museum. We sat in cafes, drank coffee, and watched people. The food was great—I love French food. I loved the bread and cheese. Paris is my favorite city. 
+
+<i>Yoko Mia Hirano</i>
+Last weekend, my friends and I went to Cancún, Mexico. Well, it was a long weekend—Thursday night to Monday night. We had a fantastic time. The beaches were just beautiful! The water was so blue and warm.
+
+Every morning we walked on the beach, and in the evening we ate dinner in the center of the city. The food was really good—the fish and the fruit juices were so delicious. We went swimming morning, noon, and night. On Sunday we took a water taxi to Isla Mujeres.
+
+
+<i>John Barnes</i>
+My wife and I work in Macau. Last weekend we flew to Hong Kong. What a great city! We only had three days, but we did a little sightseeing. We took the ferry to Kowloon. We went to Aberdeen and ate dinner on a boat. We wanted to visit the Tiger Balm Garden, but there was very little time.
+
+We mainly ate Chinese food, but sometimes we had Thai food or French food. The food in Hong Kong is terrific!]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[Who ate French food?]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[Luz Rodriguez and John Barnes]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[Luz Rodriguez and Yoko Mia Hirano]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[Yoko Mia Hirano and John Barnes]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 6">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 7">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 8">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 9">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 10">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+	</questions>
+</activity>

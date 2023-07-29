@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="quiz_show" version="1.0" client="" oae-label="ACTIVITY TYPE: QUIZ SHOW">
+	<title oae-label="Title:">
+		<![CDATA[Quiz Show]]>
+	</title>
+	<shortinst oae-label="Short Instructions:">
+		<![CDATA[Click on a box. Choose the correct answer. You have only three minutes.]]>
+	</shortinst>
+	<detailinst oae-label="Detailed Instructions:">
+		<![CDATA[Click on an amount in a category to answer a question about that topic. Click on the correct answer for each question. If your entry is correct, it will highlight in green and you will "win" the amount of money listed. If you are incorrect, you will "lose" the amount of money listed. You don't gain or lose any money for trying again. Next and Previous buttons navigate among the questions. Try to win as much money as you can!]]>
+	</detailinst>
+	<randomquestions oae-label="Randomize Questions:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomquestions>
+	<randomanswers oae-label="Randomize Answers:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomanswers>
+	<categories>
+		<category oae-lable="Category 1">
+			<![CDATA[Foods]]>
+		</category>
+		<category oae-lable="Category 2">
+			<![CDATA[Drinks]]>
+		</category>
+		<category oae-lable="Category 3">
+			<![CDATA[Recipes]]>
+		</category>
+		<category oae-lable="Category 4">
+			<![CDATA[Containers]]>
+		</category>
+	</categories>
+	<categoryquestions oae-label="Category 1 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[The salad needs salt and ____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[tnf_10_15.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[meat]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[pasta]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[bread]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[pepper]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Nick is making ____ for dinner.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[tnf_10_16.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[meat]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[pasta]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[bread]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[pepper]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I love ____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[tnf_10_17.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[meat]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[pasta]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[bread]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[pepper]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I usually have ____ for breakfast.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[tnf_10_18.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[meat]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[pasta]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[bread]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[pepper]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 2 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I'd like ____, please.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[tnf_10_19.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[coffee]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[soda]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[tea]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[water]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I don't drink ____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[tnf_10_20.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[coffee]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[soda]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[tea]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[water]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I drink ____ every day.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[tnf_10_21.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[coffee]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[soda]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[tea]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[water]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Is there any ____ in the fridge?]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[tnf_10_22.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[coffee]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[soda]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[tea]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[water]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 3 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[We need lemons, water, and _____ for the lemonade.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[bananas]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[sugar]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[onion]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[potatoes]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[The ingredients for the fruit salad are apples, oranges, and ____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[bananas]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[salt]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[onion]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[potatoes]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I need an ____ for the soup.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[bananas]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[sugar]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[onion]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[potatoes]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[We need peppers and ____ for the salad.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[bananas]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[sugar]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[onion]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[potatoes]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 4 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[We have a ____ of rice on the shelf.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[bottle]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[can]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[bag]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[loaf]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I need a ____ of peas for the recipe.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[bottle]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[can]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[bags]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[loaf]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Our family eats a ____ of bread for lunch every day.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[bottle]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[can]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[bag]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[loaf]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[There is a big ____ of water in the fridge.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[bottle]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[can]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[bag]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[loaf]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+</activity>

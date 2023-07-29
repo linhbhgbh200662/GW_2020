@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="multiple_choice" version="1.0" client="Longman" oae-label="ACTIVITY TYPE: Multiple Choice">
+	<title oae-label="Activity Title" oae-type="textarea" oae-rows="1">
+		<![CDATA[Activity 2]]>
+	</title>
+	<instructions oae-label="Instructions" oae-type="textarea" oae-rows="3">
+		<![CDATA[Read the e-mail. Then click on the best answer to each question, according to the e-mail.]]>
+	</instructions>
+	<questions>
+		<question oae-label="Question 1">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[Hello Mr. Koji Oinuma,
+
+Thanks for your visit to our website and for your car rental request. We would like to offer:
+
+<b>Car type:</b> 
+B CATEGORY (Fiat Siena or Renault Clio)
+
+<b>Date / Place of delivery:</b> 
+August 3rd / Frankfurt
+
+<b>Date / Place of return:</b> 
+August 14th / Frankfurt
+
+<b>Duration of rental:</b> 11 days
+
+<b>Daily rate:</b> 39 euros
+<b>TOTAL:</b> 429 Euros
+
+<b>Price covers:</b>
+Unlimited miles / kilometers 
+Insurance
+V.A.T. and local taxes
+
+Please confirm your credit card information below:
+
+<b>Credit card type:</b> Vista
+<b>Expiration:</b> 07/14
+<b>Credit card No:</b> XXXX XXXX XXXX 0134	
+<b>Issuing bank:</b> Globalbank
+
+We have charged your card 86 euros (20% of total) to reserve your car. The balance will be charged upon pickup.
+
+Best regards,
+
+<i>Wolfgang Bauer</i>
+YOOTUR Travel and Yachting
+Frankfurt, Germany
+Tel: +49-69-4218002
+Fax: +49-69-4212270]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[What’s the purpose of the e-mail?]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[to confirm a rental car reservation]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[to inquire about renting a car]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[to advertise a car rental company]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 2">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[Hello Mr. Koji Oinuma,
+
+Thanks for your visit to our website and for your car rental request. We would like to offer:
+
+<b>Car type:</b> 
+B CATEGORY (Fiat Siena or Renault Clio)
+
+<b>Date / Place of delivery:</b> 
+August 3rd / Frankfurt
+
+<b>Date / Place of return:</b> 
+August 14th / Frankfurt
+
+<b>Duration of rental:</b> 11 days
+
+<b>Daily rate:</b> 39 euros
+<b>TOTAL:</b> 429 Euros
+
+<b>Price covers:</b>
+Unlimited miles / kilometers 
+Insurance
+V.A.T. and local taxes
+
+Please confirm your credit card information below:
+
+<b>Credit card type:</b> Vista
+<b>Expiration:</b> 07/14
+<b>Credit card No:</b> XXXX XXXX XXXX 0134	
+<b>Issuing bank:</b> Globalbank
+
+We have charged your card 86 euros (20% of total) to reserve your car. The balance will be charged upon pickup.
+
+Best regards,
+
+<i>Wolfgang Bauer</i>
+YOOTUR Travel and Yachting
+Frankfurt, Germany
+Tel: +49-69-4218002
+Fax: +49-69-4212270]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[Where is Mr. Oinuma traveling?]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[to Germany]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[to Japan]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[to Italy]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 3">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[Hello Mr. Koji Oinuma,
+
+Thanks for your visit to our website and for your car rental request. We would like to offer:
+
+<b>Car type:</b> 
+B CATEGORY (Fiat Siena or Renault Clio)
+
+<b>Date / Place of delivery:</b> 
+August 3rd / Frankfurt
+
+<b>Date / Place of return:</b> 
+August 14th / Frankfurt
+
+<b>Duration of rental:</b> 11 days
+
+<b>Daily rate:</b> 39 euros
+<b>TOTAL:</b> 429 Euros
+
+<b>Price covers:</b>
+Unlimited miles / kilometers 
+Insurance
+V.A.T. and local taxes
+
+Please confirm your credit card information below:
+
+<b>Credit card type:</b> Vista
+<b>Expiration:</b> 07/14
+<b>Credit card No:</b> XXXX XXXX XXXX 0134	
+<b>Issuing bank:</b> Globalbank
+
+We have charged your card 86 euros (20% of total) to reserve your car. The balance will be charged upon pickup.
+
+Best regards,
+
+<i>Wolfgang Bauer</i>
+YOOTUR Travel and Yachting
+Frankfurt, Germany
+Tel: +49-69-4218002
+Fax: +49-69-4212270]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[How long will Mr. Oinuma keep the car?]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[11 days]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[39 days]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[14 days]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 4">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[Hello Mr. Koji Oinuma,
+
+Thanks for your visit to our website and for your car rental request. We would like to offer:
+
+<b>Car type:</b> 
+B CATEGORY (Fiat Siena or Renault Clio)
+
+<b>Date / Place of delivery:</b> 
+August 3rd / Frankfurt
+
+<b>Date / Place of return:</b> 
+August 14th / Frankfurt
+
+<b>Duration of rental:</b> 11 days
+
+<b>Daily rate:</b> 39 euros
+<b>TOTAL:</b> 429 Euros
+
+<b>Price covers:</b>
+Unlimited miles / kilometers
+Insurance
+V.A.T. and local taxes
+
+Please confirm your credit card information below:
+
+<b>Credit card type:</b> Vista
+<b>Expiration:</b> 07/14
+<b>Credit card No:</b> XXXX XXXX XXXX 0134	
+<b>Issuing bank:</b> Globalbank
+
+We have charged your card 86 euros (20% of total) to reserve your car. The balance will be charged upon pickup.
+
+Best regards,
+
+<i>Wolfgang Bauer</i>
+YOOTUR Travel and Yachting
+Frankfurt, Germany
+Tel: +49-69-4218002
+Fax: +49-69-4212270]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[How much extra will Mr. Oinuma have to pay for each mile or kilometer he drives?]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[nothing]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[429 Euros]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[39 Euros]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 5">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[Hello Mr. Koji Oinuma,
+
+Thanks for your visit to our website and for your car rental request. We would like to offer:
+
+<b>Car type:</b> 
+B CATEGORY (Fiat Siena or Renault Clio)
+
+<b>Date / Place of delivery:</b> 
+August 3rd / Frankfurt
+
+<b>Date / Place of return:</b> 
+August 14th / Frankfurt
+
+<b>Duration of rental:</b> 11 days
+
+<b>Daily rate:</b> 39 euros
+<b>TOTAL:</b> 429 Euros
+
+<b>Price covers:</b>
+Unlimited miles / kilometers 
+Insurance
+V.A.T. and local taxes
+
+Please confirm your credit card information below:
+
+<b>Credit card type:</b> Vista
+<b>Expiration:</b> 07/14
+<b>Credit card No:</b> XXXX XXXX XXXX 0134	
+<b>Issuing bank:</b> Globalbank
+
+We have charged your card 86 euros (20% of total) to reserve your car. The balance will be charged upon pickup.
+
+Best regards,
+
+<i>Wolfgang Bauer</i>
+YOOTUR Travel and Yachting
+Frankfurt, Germany
+Tel: +49-69-4218002
+Fax: +49-69-4212270]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[What will Mr. Oinuma pay his bill with?]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[a credit card]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[cash]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[a check]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 6">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[Hello Mr. Koji Oinuma,
+
+Thanks for your visit to our website and for your car rental request. We would like to offer:
+
+<b>Car type:</b> 
+B CATEGORY (Fiat Siena or Renault Clio)
+
+<b>Date / Place of delivery:</b> 
+August 3rd / Frankfurt
+
+<b>Date / Place of return:</b> 
+August 14th / Frankfurt
+
+<b>Duration of rental:</b> 11 days
+
+<b>Daily rate:</b> 39 euros
+<b>TOTAL:</b> 429 Euros
+
+<b>Price covers:</b>
+Unlimited miles / kilometers 
+Insurance
+V.A.T. and local taxes
+
+Please confirm your credit card information below:
+
+<b>Credit card type:</b> Vista
+<b>Expiration:</b> 07/14
+<b>Credit card No:</b> XXXX XXXX XXXX 0134	
+<b>Issuing bank:</b> Globalbank
+
+We have charged your card 86 euros (20% of total) to reserve your car. The balance will be charged upon pickup.
+
+Best regards,
+
+<i>Wolfgang Bauer</i>
+YOOTUR Travel and Yachting
+Frankfurt, Germany
+Tel: +49-69-4218002
+Fax: +49-69-4212270]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[What is the total cost of renting the car?]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[429 Euros]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[86 Euros]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[20%]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 7">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[Hello Mr. Koji Oinuma,
+
+Thanks for your visit to our website and for your car rental request. We would like to offer:
+
+<b>Car type:</b> 
+B CATEGORY (Fiat Siena or Renault Clio)
+
+<b>Date / Place of delivery:</b> 
+August 3rd / Frankfurt
+
+<b>Date / Place of return:</b> 
+August 14th / Frankfurt
+
+<b>Duration of rental:</b> 11 days
+
+<b>Daily rate:</b> 39 euros
+<b>TOTAL:</b> 429 Euros
+
+<b>Price covers:</b>
+Unlimited miles / kilometers 
+Insurance
+V.A.T. and local taxes
+
+Please confirm your credit card information below:
+
+<b>Credit card type:</b> Vista
+<b>Expiration:</b> 07/14
+<b>Credit card No:</b> XXXX XXXX XXXX 0134	
+<b>Issuing bank:</b> Globalbank
+
+We have charged your card 86 euros (20% of total) to reserve your car. The balance will be charged upon pickup.
+
+Best regards,
+
+<i>Wolfgang Bauer</i>
+YOOTUR Travel and Yachting
+Frankfurt, Germany
+Tel: +49-69-4218002
+Fax: +49-69-4212270]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[What is the name of the rental agency?]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[YOOTUR]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[Wolfgang Bauer]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[Frankfurt]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 8">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 9">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 10">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+	</questions>
+</activity>

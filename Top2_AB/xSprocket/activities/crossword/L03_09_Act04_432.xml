@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><activity type="Crossword"><dimensions><![CDATA[[18,17]]]></dimensions><title><![CDATA[Crossword]]></title><shortinst><![CDATA[- Click a clue to view the corresponding answer squares 
+- Or click a number on the answer squares to view the corresponding clue
+- Click square twice to change directions
+- Begin typing in the darker square]]></shortinst><detailinst><![CDATA[This activity allows you to type answers to questions posed in the across or down clue windows.
+
+Clues
+- Click an across or down clue to highlight the corresponding answer squares
+- Use the scroll bars to view more clues
+
+Answer Squares
+- Click a numbered answer square to view the corresponding clue
+- Click a numbered square a second time to view the corresponding clue in the opposite direction
+- If a numbered square is already filled, click the second or any empty square in the same direction to view the clue
+- Dark square indicates where text will be entered when typing begins
+- Fill answer squares by typing the answer. Correct or Incorrect feedback will be presented as soon as the final square of the word is filled.
+- Answers that require more than one word will not use spaces
+- Backspace deletes characters
+
+Scoring
+- Scores for crosswords are not calculated or recorded
+- Multiple attempts may be allowed to fill each answer correctly
+- A correct mark will display next to the clue when the answer squares are filled correctly
+- An incorrect mark will display next to the clue after the allotted number of incorrect tries. 
+- The correct answer will fill automatically after the allotted number of incorrect tries
+- Click 'Show Completed Puzzle' to reveal all answers
+- Click 'Reset' to start the puzzle again]]></detailinst><autofill_number><![CDATA[3]]></autofill_number><across><word><text><![CDATA[wrong]]></text><clue><![CDATA[Opposite of right]]></clue><gridloc><![CDATA[04_01]]></gridloc></word><word><text><![CDATA[compulsory]]></text><clue><![CDATA[Must be done]]></clue><gridloc><![CDATA[06_05]]></gridloc></word><word><text><![CDATA[constitution]]></text><clue><![CDATA[A country's basic laws and principles ]]></clue><gridloc><![CDATA[09_02]]></gridloc></word><word><text><![CDATA[right]]></text><clue><![CDATA[Opposite of wrong ]]></clue><gridloc><![CDATA[11_10]]></gridloc></word><word><text><![CDATA[vote]]></text><clue><![CDATA[Show which person you want to elect]]></clue><gridloc><![CDATA[12_05]]></gridloc></word><word><text><![CDATA[politics]]></text><clue><![CDATA[Ideas and activities concerned with gaining or using power in a country]]></clue><gridloc><![CDATA[15_08]]></gridloc></word><word><text><![CDATA[opinionated]]></text><clue><![CDATA[Expressing very strong beliefs or ideas about something]]></clue><gridloc><![CDATA[17_08]]></gridloc></word></across><down><word><text><![CDATA[king]]></text><clue><![CDATA[A man who rules a country in a monarchy]]></clue><gridloc><![CDATA[01_05]]></gridloc></word><word><text><![CDATA[solution]]></text><clue><![CDATA[A way of fixing a problem or dealing with a difficult situation]]></clue><gridloc><![CDATA[03_03]]></gridloc></word><word><text><![CDATA[discrimination]]></text><clue><![CDATA[Treating one person or group differently or in an unfair way]]></clue><gridloc><![CDATA[04_11]]></gridloc></word><word><text><![CDATA[conservative]]></text><clue><![CDATA[Not wanting change or not willing to take risks]]></clue><gridloc><![CDATA[06_05]]></gridloc></word><word><text><![CDATA[pro]]></text><clue><![CDATA[An advantage of something]]></clue><gridloc><![CDATA[15_08]]></gridloc></word><word><text><![CDATA[con]]></text><clue><![CDATA[A disadvantage of something]]></clue><gridloc><![CDATA[15_14]]></gridloc></word></down></activity>

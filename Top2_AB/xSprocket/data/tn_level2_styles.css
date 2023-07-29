@@ -1,0 +1,66 @@
+
+/* * * * *
+styles.css
+
+NB: Please be careful to leave NO SPACE between a style property name (e.g., text-align) and the colon that follows it! Also, font-family (and any other property which references a font) supports only a SINGLE font name.
+* * * * */
+
+/*
+ColorMap : color names can be created here for use in every style property below whose name includes "color"
+*/
+
+ColorMap {
+	darkyellow:#FEBE07;
+	lightyellow:#FDD250;
+	darkyellow_selected:fbec47;
+	lightyellow_selected:fbf189;
+	
+	red:#990000;
+	darkred:#1a5129;
+}
+
+
+
+
+BaseBtn {
+	font-size: 16;
+	text-decoration: none;
+	font-weight: normal;
+	font-style: normal;
+	font-family: Tw Cen MT;
+	color: black;
+	leading: 0;
+}
+
+single_page_background { color:#ffffff; }
+double_page_background { color:#ffffff; }
+
+single_page_load_background { color:#ffffff; }
+double_page_load_background { color:#ffffff; }
+
+main_load_background { color:#ffffff; }
+
+contents_menu_entry { text-align:left; font-size:13; font-family:Arial; color:#000000; }
+contents_menu_entry_bold { text-align:left; font-size:13; font-family:Arial Bold; color:#000000; }
+contents_menu_entry_italic { text-align:left; font-size:13; font-family:Arial Italic; color:#000000; }
+contents_menu_entry_bold_italic { text-align:left; font-size:13; font-family:Arial Bold Italic; color:#000000; }
+
+notes_lower_menu {color: darkred; }
+notes_upper_menu {color: #FFFFFF; }
+
+generic_yellow_btn_inner { color: darkyellow; }
+generic_yellow_btn_outer { color: lightyellow; }
+
+generic_yellow_btn_inner_selected { color: darkyellow_selected; }
+generic_yellow_btn_outer_selected { color: lightyellow_selected; }
+
+generic_main_bg { color: darkred; }
+
+generic_dark_bg { color: darkred; }
+
+video_scrubber_track { color: darkyellow; }
+video_scrubber_track_bg { color: darkred; }
+
+audio_scrubber_track { color: darkyellow; }
+audio_scrubber_track_bg { color: darkred; }
+

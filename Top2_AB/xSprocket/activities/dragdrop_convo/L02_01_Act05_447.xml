@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="dragdrop_convo" version="1.0" client="McGraw-Hill" oae-label="ACTIVITY TYPE: DRAG'N'DROP TEXT">
+
+	<!-- This activity presents the student with a list of words or phrases that can be dragged into blank lines in a paragraph or series of sentences. The author can optionally specify up to 6 "distracter" words will appear in the list but are not associated to any blank space. -->
+
+	<title oae-label="Title">
+		<![CDATA[Drag and drop conversation]]>
+	</title>
+	<instructions oae-label="Instructions" oae-type="textarea" oae-rows="3">
+		<![CDATA[Complete the conversation.  Drag each line to the correct place.]]>
+	</instructions>
+	<spacer oae-type="spacer">
+</spacer>
+
+	<!-- Use the following two options to modify how the activity will display. -->
+
+	<fontsize oae-label="Resize Font?" oae-type="select" value="0 (Normal)" opt1="-3" opt2="-2" opt3="-1" opt4="0 (Normal)" opt5="+1" opt6="+2" opt7="+3">
+</fontsize>
+	<dragrows oae-label="Rows in Word Bank">
+		<![CDATA[8]]>
+	</dragrows>
+	<spacer oae-type="spacer">
+</spacer>
+	<page oae-label="Page 1">
+
+		<!-- To make a conversation, just put the first person's name then a blank with the first person's line like this <blank word="Hello!"/>. Then type a hard return to get the next line. Then type the second person's line (presumably without blanks, but it could have them too). -->
+
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</audio>
+		<text oae-label="Text" oae-type="textarea" oae-rows="25">
+			<![CDATA[<b>A:</b>	&nbsp;<blank word="Have you eaten dinner yet?"/> 
+<b>B:</b>	No, I haven't.  Let’s go out.
+<b>A:</b>	&nbsp;<blank word="Have you been to the new Hungarian restaurant?"/>  
+<b>B:</b>	No, I've never been there.  I’ve heard it's very good.
+<b>A:</b>	&nbsp;<blank word="Let's go.  They have excellent goulash."/> 
+<b>B:</b>	You know, I’ve never tried goulash. 
+<b>A:</b>	&nbsp;<blank word="I think you’ll like it. It's delicious!"/>]]>
+		</text>
+
+		<!-- Up to 6 optional "distracter" words can be placed in the list of draggable words. These will not lock into any of the blank lines in the paragraph. Make sure you do not repeat any of the "word"s indicated in the previous space. -->
+
+		<distracters oae-label="Optional Distracters:">
+			<distracter oae-label="#1">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#2">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#3">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#4">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#5">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#6">
+				<![CDATA[]]>
+			</distracter>
+		</distracters>
+	</page>
+	<page oae-label="Page 2">
+
+		<!-- To make a conversation, just put the first person's name then a blank with the first person's line like this <blank word="Hello!"/>. Then type a hard return to get the next line. Then type the second person's line (presumably without blanks, but it could have them too). -->
+
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</audio>
+		<text oae-label="Text" oae-type="textarea" oae-rows="25">
+			<![CDATA[<b>A:</b>	Do you travel a lot?
+<b>B:</b>	&nbsp;<blank word="Yes, I do.  I’ve been to many places."/> 
+<b>A:</b>	Have you ever been to China?
+<b>B:</b>	&nbsp;<blank word="Yes, I have."/> 
+<b>A:</b>	Did you see the Great Wall while you were there?
+<b>B:</b>	&nbsp;<blank word="Yes.  I took a lot of pictures of it."/> 
+<b>A:</b>	And have you seen the Great Pyramids of Egypt?
+<b>B:</b>	&nbsp;<blank word="No, not yet.  But I’ve seen the Pyramid of the Sun in Mexico City."/>
+<b>A:</b>	Oh, I’ve heard wonderful things about the Pyramid of the Sun.]]>
+		</text>
+
+		<!-- Up to 6 optional "distracter" words can be placed in the list of draggable words. These will not lock into any of the blank lines in the paragraph. Make sure you do not repeat any of the "word"s indicated in the previous space. -->
+
+		<distracters oae-label="Optional Distracters:">
+			<distracter oae-label="#1">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#2">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#3">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#4">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#5">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#6">
+				<![CDATA[]]>
+			</distracter>
+		</distracters>
+	</page>
+	<page oae-label="Page 3">
+
+		<!-- To make a conversation, just put the first person's name then a blank with the first person's line like this <blank word="Hello!"/>. Then type a hard return to get the next line. Then type the second person's line (presumably without blanks, but it could have them too). -->
+
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</audio>
+		<text oae-label="Text" oae-type="textarea" oae-rows="25">
+			<![CDATA[]]>
+		</text>
+
+		<!-- Up to 6 optional "distracter" words can be placed in the list of draggable words. These will not lock into any of the blank lines in the paragraph. Make sure you do not repeat any of the "word"s indicated in the previous space. -->
+
+		<distracters oae-label="Optional Distracters:">
+			<distracter oae-label="#1">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#2">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#3">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#4">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#5">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#6">
+				<![CDATA[]]>
+			</distracter>
+		</distracters>
+	</page>
+	<page oae-label="Page 4">
+
+		<!-- To make a conversation, just put the first person's name then a blank with the first person's line like this <blank word="Hello!"/>. Then type a hard return to get the next line. Then type the second person's line (presumably without blanks, but it could have them too). -->
+
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</audio>
+		<text oae-label="Text" oae-type="textarea" oae-rows="25">
+			<![CDATA[]]>
+		</text>
+
+		<!-- Up to 6 optional "distracter" words can be placed in the list of draggable words. These will not lock into any of the blank lines in the paragraph. Make sure you do not repeat any of the "word"s indicated in the previous space. -->
+
+		<distracters oae-label="Optional Distracters:">
+			<distracter oae-label="#1">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#2">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#3">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#4">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#5">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#6">
+				<![CDATA[]]>
+			</distracter>
+		</distracters>
+	</page>
+	<page oae-label="Page 5">
+
+		<!-- To make a conversation, just put the first person's name then a blank with the first person's line like this <blank word="Hello!"/>. Then type a hard return to get the next line. Then type the second person's line (presumably without blanks, but it could have them too). -->
+
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</audio>
+		<text oae-label="Text" oae-type="textarea" oae-rows="25">
+			<![CDATA[]]>
+		</text>
+
+		<!-- Up to 6 optional "distracter" words can be placed in the list of draggable words. These will not lock into any of the blank lines in the paragraph. Make sure you do not repeat any of the "word"s indicated in the previous space. -->
+
+		<distracters oae-label="Optional Distracters:">
+			<distracter oae-label="#1">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#2">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#3">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#4">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#5">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#6">
+				<![CDATA[]]>
+			</distracter>
+		</distracters>
+	</page>
+	<page oae-label="Page 6">
+
+		<!-- To make a conversation, just put the first person's name then a blank with the first person's line like this <blank word="Hello!"/>. Then type a hard return to get the next line. Then type the second person's line (presumably without blanks, but it could have them too). -->
+
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</audio>
+		<text oae-label="Text" oae-type="textarea" oae-rows="25">
+			<![CDATA[]]>
+		</text>
+
+		<!-- Up to 6 optional "distracter" words can be placed in the list of draggable words. These will not lock into any of the blank lines in the paragraph. Make sure you do not repeat any of the "word"s indicated in the previous space. -->
+
+		<distracters oae-label="Optional Distracters:">
+			<distracter oae-label="#1">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#2">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#3">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#4">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#5">
+				<![CDATA[]]>
+			</distracter>
+			<distracter oae-label="#6">
+				<![CDATA[]]>
+			</distracter>
+		</distracters>
+	</page>
+</activity>

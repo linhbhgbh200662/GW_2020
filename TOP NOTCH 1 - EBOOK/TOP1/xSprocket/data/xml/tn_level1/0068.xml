@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page id="0068">
+<map name="Map" id="Map">
+<art type="icon" pfunction="audio_icon">
+<scale><![CDATA[80]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 6/3-35 A Listen for main i p68.mp3]]></href>
+<icon><![CDATA[audio_button]]></icon>
+<coords><![CDATA[54,192]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<scale><![CDATA[80]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 6/3-36 B Listen for detail p68.mp3]]></href>
+<icon><![CDATA[audio_button]]></icon>
+<coords><![CDATA[55,381]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<scale><![CDATA[80]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 6/3-37 A Pronunciation p68.mp3]]></href>
+<icon><![CDATA[audio_button]]></icon>
+<coords><![CDATA[54,601]]></coords>
+</art></map></page>

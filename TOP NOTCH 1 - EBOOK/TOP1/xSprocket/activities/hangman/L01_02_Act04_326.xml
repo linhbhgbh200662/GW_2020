@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="hangman" version="1.0" client="Longman" oae-label="ACTIVITY TYPE: Hangman">
+	<title oae-label="Activity Title" oae-type="textarea" oae-rows="1">
+		<![CDATA[Hangman]]>
+	</title>
+	<instructions oae-label="Instructions" oae-type="textarea" oae-rows="3">
+		<![CDATA[Look at the picture.  Click on the letters.  Guess the phrase.  Five incorrect letters and you’re out.]]>
+	</instructions>
+	<penalty_clip>
+		<![CDATA[hangman_hanger.swf]]>
+	</penalty_clip>
+	<question oae-label="Screen 1">
+		<chances oae-label="Number of chances" oae-type="textarea" oae-rows="1">
+			<![CDATA[5]]>
+		</chances>
+		<question_text oae-label="Question" oae-type="textarea" oae-rows="4">
+			<![CDATA[tn2_2-11.jpg]]>
+		</question_text>
+		<answer_text oae-label="Answer" oae-type="textarea" oae-rows="2">
+			<![CDATA[down the street from]]>
+		</answer_text>
+	</question>
+	<question oae-label="Screen 2">
+		<chances oae-label="Number of chances" oae-type="textarea" oae-rows="1">
+			<![CDATA[5]]>
+		</chances>
+		<question_text oae-label="Question" oae-type="textarea" oae-rows="4">
+			<![CDATA[tn2_2-12.jpg]]>
+		</question_text>
+		<answer_text oae-label="Answer" oae-type="textarea" oae-rows="2">
+			<![CDATA[across from]]>
+		</answer_text>
+	</question>
+	<question oae-label="Screen 3">
+		<chances oae-label="Number of chances" oae-type="textarea" oae-rows="1">
+			<![CDATA[5]]>
+		</chances>
+		<question_text oae-label="Question" oae-type="textarea" oae-rows="4">
+			<![CDATA[tn2_2-13.jpg]]>
+		</question_text>
+		<answer_text oae-label="Answer" oae-type="textarea" oae-rows="2">
+			<![CDATA[around the corner from]]>
+		</answer_text>
+	</question>
+	<question oae-label="Screen 4">
+		<chances oae-label="Number of chances" oae-type="textarea" oae-rows="1">
+			<![CDATA[5]]>
+		</chances>
+		<question_text oae-label="Question" oae-type="textarea" oae-rows="4">
+			<![CDATA[tn2_2-14.jpg]]>
+		</question_text>
+		<answer_text oae-label="Answer" oae-type="textarea" oae-rows="2">
+			<![CDATA[between Main and Mercer]]>
+		</answer_text>
+	</question>
+	<question oae-label="Screen 5">
+		<chances oae-label="Number of chances" oae-type="textarea" oae-rows="1">
+			<![CDATA[5]]>
+		</chances>
+		<question_text oae-label="Question" oae-type="textarea" oae-rows="4">
+			<![CDATA[tn2_2-15.jpg]]>
+		</question_text>
+		<answer_text oae-label="Answer" oae-type="textarea" oae-rows="2">
+			<![CDATA[on the right side of the street]]>
+		</answer_text>
+	</question>
+	<question oae-label="Screen 6">
+		<chances oae-label="Number of chances" oae-type="textarea" oae-rows="1">
+			<![CDATA[5]]>
+		</chances>
+		<question_text oae-label="Question" oae-type="textarea" oae-rows="4">
+			<![CDATA[]]>
+		</question_text>
+		<answer_text oae-label="Answer" oae-type="textarea" oae-rows="2">
+			<![CDATA[]]>
+		</answer_text>
+	</question>
+	<question oae-label="Screen 7">
+		<chances oae-label="Number of chances" oae-type="textarea" oae-rows="1">
+			<![CDATA[5]]>
+		</chances>
+		<question_text oae-label="Question" oae-type="textarea" oae-rows="4">
+			<![CDATA[]]>
+		</question_text>
+		<answer_text oae-label="Answer" oae-type="textarea" oae-rows="2">
+			<![CDATA[]]>
+		</answer_text>
+	</question>
+	<question oae-label="Screen 8">
+		<chances oae-label="Number of chances" oae-type="textarea" oae-rows="1">
+			<![CDATA[5]]>
+		</chances>
+		<question_text oae-label="Question" oae-type="textarea" oae-rows="4">
+			<![CDATA[]]>
+		</question_text>
+		<answer_text oae-label="Answer" oae-type="textarea" oae-rows="2">
+			<![CDATA[]]>
+		</answer_text>
+	</question>
+	<question oae-label="Screen 9">
+		<chances oae-label="Number of chances" oae-type="textarea" oae-rows="1">
+			<![CDATA[5]]>
+		</chances>
+		<question_text oae-label="Question" oae-type="textarea" oae-rows="4">
+			<![CDATA[]]>
+		</question_text>
+		<answer_text oae-label="Answer" oae-type="textarea" oae-rows="2">
+			<![CDATA[]]>
+		</answer_text>
+	</question>
+	<question oae-label="Screen 10">
+		<chances oae-label="Number of chances" oae-type="textarea" oae-rows="1">
+			<![CDATA[5]]>
+		</chances>
+		<question_text oae-label="Question" oae-type="textarea" oae-rows="4">
+			<![CDATA[]]>
+		</question_text>
+		<answer_text oae-label="Answer" oae-type="textarea" oae-rows="2">
+			<![CDATA[]]>
+		</answer_text>
+	</question>
+</activity>

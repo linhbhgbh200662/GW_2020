@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page id="0008">
+<map name="Map" id="Map">
+<art type="icon" pfunction="audio_icon">
+<href><![CDATA[Top Notch 2 MP3 files/Unit_01/1-10_Reading_p08.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[82]]></scale>
+<icon><![CDATA[audio_button]]></icon>
+<coords><![CDATA[113,294]]></coords>
+</art></map></page>

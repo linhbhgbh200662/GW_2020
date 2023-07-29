@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<engines>
+		<engine id="hangman" swf="hangman.swf"/>
+    <engine id="concentration" swf="concentration.swf"/>
+    <engine id="crossword" swf="crossword.swf"/>
+    <engine id="multiple_choice" swf="multiple_choice.swf"/>
+    <engine id="true_false" swf="true_false.swf"/>
+    <engine id="fill_in_blanks" swf="fill_in_blanks.swf"/>
+    <engine id="dragdrop_single" swf="dragdrop_single.swf"/>
+    <engine id="dragdrop_convo" swf="dragdrop_single.swf"/>
+    <engine id="dragdrop_multiple" swf="dragdrop_multiple.swf"/>
+    <engine id="sorting" swf="sorting.swf"/>
+    <engine id="word_scramble" swf="word_scramble.swf"/>
+    <engine id="sentence_scramble" swf="sentence_scramble.swf"/>
+    <engine id="quiz_show" swf="quiz_show.swf"/>
+    <engine id="matching" swf="matching.swf"/>
+    <engine id="role_play" swf="role_play.swf"/>
+  </engines>
+  <feedbacks>
+  	<feedback id="negative" url="negative.mp3"/>
+  	<feedback id="positive" url="positive.mp3"/>
+  	<feedback id="reward"   url="reward.mp3"/>
+  </feedbacks>
+  <paths>
+  	<path id="audio"    url="media/audio/"/>
+  	<path id="graphic" url="media/graphics/"/>
+  </paths>
+  <!-- activebook|activeteach -->
+  <mode>activebook</mode>
+</config>

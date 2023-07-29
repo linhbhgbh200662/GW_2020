@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="fill_in_blanks" version="1.1" client="McGraw-Hill" oae-label="ACTIVITY TYPE: FILL IN THE BLANKS">
+
+	<!-- This activity presents the students with a block of text with blank spaces into which they must type in "right answers". -->
+
+	<title oae-label="Title">
+		<![CDATA[Activity 2]]>
+	</title>
+	<instructions oae-label="Instructions" oae-type="textarea" oae-rows="3">
+		<![CDATA[Read the article. Type the words from the box to complete each statement. You will not use all the words.
+
+<b>Before you go...</b>
+A checklist for international travelers
+
+<u>Vaccinations</u>
+You may be required to get vaccinated before you are allowed to enter certain countries. Check the immunization requirements of the country you are visiting. The farther off the beaten path you travel, the more important it is to be protected from illness and disease.
+
+<u>Medications</u>
+Talk to your doctor before your trip. Your doctor may be able to write a prescription for extra medication or give you tips for staying healthy while traveling. Buy and pack a supply of all medications you take regularly. Carry your medications in your carry-on bags. If you lose your luggage, you will still have them. 
+
+<u>Eyewear</u>
+If you wear glasses or contact lenses, get a copy of your prescription before you go.  Carry it with you in case you break or lose your eyewear. Or be sure to carry an extra pair with you. 
+
+<u>Dental care</u>
+There’s nothing more frightening than having a toothache when you’re far from home. Have a dental check-up before you leave on a long trip to avoid any problems.]]>
+	</instructions>
+	<spacer oae-type="spacer">
+</spacer>
+
+	<!-- Use the following option to modify how the activity will be displayed. -->
+
+	<fontsize oae-label="Resize Font?" oae-type="select" value="0 (Normal)" opt1="-3" opt2="-2" opt3="-1" opt4="0 (Normal)" opt5="+1" opt6="+2" opt7="+3">
+</fontsize>
+	<spacer oae-type="spacer">
+</spacer>
+	<page oae-label="Page 1">
+
+		<!-- Write the paragraphs or sentences in the following space, using the <blank word="text"/> tag to indicate where the blank lines will go, the "word" attribute to indicate what word(s) will be dragged into that blank space. Optionally, use the "align" attribute to indicate the alignment of the word dropped into the blank space and the "alternate" attribute to display a different word on the blank line instead of the dragged text. See and test the example below. To show pop-ups use <pop hotwords="text">text that pops up here</pop>. -->
+
+		<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</graphic>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</audio>
+		<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+			<![CDATA[]]>
+		</reader>
+		<text oae-label="Text" oae-type="textarea" oae-rows="15">
+			<![CDATA[You may have to get a <blank word="vaccination" blanksize="Medium"/> before you can visit some countries.]]>
+		</text>
+	</page>
+	<page oae-label="Page 2">
+
+		<!-- Write the paragraphs or sentences in the following space, using the <blank word="text"/> tag to indicate where the blank lines will go, the "word" attribute to indicate what word(s) will be dragged into that blank space. Optionally, use the "align" attribute to indicate the alignment of the word dropped into the blank space and the "alternate" attribute to display a different word on the blank line instead of the dragged text. See and test the example below. To show pop-ups use <pop hotwords="text">text that pops up here</pop>. -->
+
+		<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</graphic>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</audio>
+		<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+			<![CDATA[<b>Before you go...</b>
+A checklist for international travelers
+
+<u>Vaccinations</u>
+You may be required to get vaccinated before you are allowed to enter certain countries. Check the immunization requirements of the country you are visiting. The farther off the beaten path you travel, the more important it is to be protected from illness and disease.
+
+<u>Medications</u>
+Talk to your doctor before your trip. Your doctor may be able to write a prescription for extra medication or give you tips for staying healthy while traveling. Buy and pack a supply of all medications you take regularly. Carry your medications in your carry-on bags. If you lose your luggage, you will still have them. 
+
+<u>Eyewear</u>
+If you wear glasses or contact lenses, get a copy of your prescription before you go.  Carry it with you in case you break or lose your eyewear. Or be sure to carry an extra pair with you. 
+
+<u>Dental care</u>
+There’s nothing more frightening than having a toothache when you’re far from home. Have a dental check-up before you leave on a long trip to avoid any problems.]]>
+		</reader>
+		<text oae-label="Text" oae-type="textarea" oae-rows="15">
+			<![CDATA[On your trip, make sure you bring the <blank word="medication" blanksize="Medium"/> your doctor prescribes.]]>
+		</text>
+	</page>
+	<page oae-label="Page 3">
+
+		<!-- Write the paragraphs or sentences in the following space, using the <blank word="text"/> tag to indicate where the blank lines will go, the "word" attribute to indicate what word(s) will be dragged into that blank space. Optionally, use the "align" attribute to indicate the alignment of the word dropped into the blank space and the "alternate" attribute to display a different word on the blank line instead of the dragged text. See and test the example below. To show pop-ups use <pop hotwords="text">text that pops up here</pop>. -->
+
+		<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</graphic>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</audio>
+		<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+			<![CDATA[<b>Before you go...</b>
+A checklist for international travelers
+
+<u>Vaccinations</u>
+You may be required to get vaccinated before you are allowed to enter certain countries. Check the immunization requirements of the country you are visiting. The farther off the beaten path you travel, the more important it is to be protected from illness and disease.
+
+<u>Medications</u>
+Talk to your doctor before your trip. Your doctor may be able to write a prescription for extra medication or give you tips for staying healthy while traveling. Buy and pack a supply of all medications you take regularly. Carry your medications in your carry-on bags. If you lose your luggage, you will still have them. 
+
+<u>Eyewear</u>
+If you wear glasses or contact lenses, get a copy of your prescription before you go.  Carry it with you in case you break or lose your eyewear. Or be sure to carry an extra pair with you. 
+
+<u>Dental care</u>
+There’s nothing more frightening than having a toothache when you’re far from home. Have a dental check-up before you leave on a long trip to avoid any problems.]]>
+		</reader>
+		<text oae-label="Text" oae-type="textarea" oae-rows="15">
+			<![CDATA[It’s a good idea to bring more than one pair of <blank word="eyeglasses" blanksize="Medium"/><alternate="contact lenses" blanksize="Medium"/> or <blank word="contact lenses" blanksize="Medium"/><alternate="eyeglasses" blanksize="Medium"/> on your trip.]]>
+		</text>
+	</page>
+	<page oae-label="Page 4">
+
+		<!-- Write the paragraphs or sentences in the following space, using the <blank word="text"/> tag to indicate where the blank lines will go, the "word" attribute to indicate what word(s) will be dragged into that blank space. Optionally, use the "align" attribute to indicate the alignment of the word dropped into the blank space and the "alternate" attribute to display a different word on the blank line instead of the dragged text. See and test the example below. To show pop-ups use <pop hotwords="text">text that pops up here</pop>. -->
+
+		<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</graphic>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</audio>
+		<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+			<![CDATA[<b>Before you go...</b>
+A checklist for international travelers
+
+<u>Vaccinations</u>
+You may be required to get vaccinated before you are allowed to enter certain countries. Check the immunization requirements of the country you are visiting. The farther off the beaten path you travel, the more important it is to be protected from illness and disease.
+
+<u>Medications</u>
+Talk to your doctor before your trip. Your doctor may be able to write a prescription for extra medication or give you tips for staying healthy while traveling. Buy and pack a supply of all medications you take regularly. Carry your medications in your carry-on bags. If you lose your luggage, you will still have them. 
+
+<u>Eyewear</u>
+If you wear glasses or contact lenses, get a copy of your prescription before you go.  Carry it with you in case you break or lose your eyewear. Or be sure to carry an extra pair with you. 
+
+<u>Dental care</u>
+There’s nothing more frightening than having a toothache when you’re far from home. Have a dental check-up before you leave on a long trip to avoid any problems.]]>
+		</reader>
+		<text oae-label="Text" oae-type="textarea" oae-rows="15">
+			<![CDATA[See your dentist to avoid having a <blank word="toothache" blanksize="Medium"/>.]]>
+		</text>
+	</page>
+	<page oae-label="Page 5">
+
+		<!-- Write the paragraphs or sentences in the following space, using the <blank word="text"/> tag to indicate where the blank lines will go, the "word" attribute to indicate what word(s) will be dragged into that blank space. Optionally, use the "align" attribute to indicate the alignment of the word dropped into the blank space and the "alternate" attribute to display a different word on the blank line instead of the dragged text. See and test the example below. To show pop-ups use <pop hotwords="text">text that pops up here</pop>. -->
+
+		<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</graphic>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</audio>
+		<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+			<![CDATA[]]>
+		</reader>
+		<text oae-label="Text" oae-type="textarea" oae-rows="15">
+			<![CDATA[]]>
+		</text>
+	</page>
+	<page oae-label="Page 6">
+
+		<!-- Write the paragraphs or sentences in the following space, using the <blank word="text"/> tag to indicate where the blank lines will go, the "word" attribute to indicate what word(s) will be dragged into that blank space. Optionally, use the "align" attribute to indicate the alignment of the word dropped into the blank space and the "alternate" attribute to display a different word on the blank line instead of the dragged text. See and test the example below. To show pop-ups use <pop hotwords="text">text that pops up here</pop>. -->
+
+		<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</graphic>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</audio>
+		<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+			<![CDATA[]]>
+		</reader>
+		<text oae-label="Text" oae-type="textarea" oae-rows="15">
+			<![CDATA[]]>
+		</text>
+	</page>
+	<page oae-label="Page 7">
+
+		<!-- Write the paragraphs or sentences in the following space, using the <blank word="text"/> tag to indicate where the blank lines will go, the "word" attribute to indicate what word(s) will be dragged into that blank space. Optionally, use the "align" attribute to indicate the alignment of the word dropped into the blank space and the "alternate" attribute to display a different word on the blank line instead of the dragged text. See and test the example below. To show pop-ups use <pop hotwords="text">text that pops up here</pop>. -->
+
+		<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</graphic>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</audio>
+		<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+			<![CDATA[]]>
+		</reader>
+		<text oae-label="Text" oae-type="textarea" oae-rows="15">
+			<![CDATA[]]>
+		</text>
+	</page>
+</activity>

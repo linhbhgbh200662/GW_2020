@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="multiple_choice" version="1.0" client="Longman" oae-label="ACTIVITY TYPE: Multiple Choice">
+	<title oae-label="Activity Title" oae-type="textarea" oae-rows="1">
+		<![CDATA[Activity 1]]>
+	</title>
+	<instructions oae-label="Instructions" oae-type="textarea" oae-rows="3">
+		<![CDATA[Read the travel guide. Then click on the best word(s) to complete each statement, according to the article.]]>
+	</instructions>
+	<questions>
+		<question oae-label="Question 1">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[<b>On a Budget?
+Here are some alternatives to hotels.</b>
+
+<b>Have you thought about a hostel?</b>
+Hostels provide convenient, low-cost accommodations for travelers. Hostels are clean, safe, and inexpensive. They usually have great locations—right in the heart of the city, or just outside of town. Most hostels offer fully equipped self-serve kitchens, dining areas, and common rooms for relaxing and socializing with other travelers. Some hostels even have laundry facilities and libraries. 
+
+<b>A bed & breakfast might be for you.</b>
+A bed & breakfast, also called a “B&B,” can be a home away from home when you travel. Because this type of accommodation is almost always in a private house, it usually offers a very warm, welcoming atmosphere. A good host will leave you feeling part of the family! As a guest, you get a clean, cozy room, and, as the name suggests, breakfast is included. B&Bs can be a great deal!
+
+<b>How about camping under the stars?</b>
+At a campground, you spend the night outdoors, sleeping in a tent or cabin and cooking over a wood fire or camp stove. Many campgrounds are located in beautiful parks or other natural areas. Most campsites offer only basic services such as hot showers and flush toilets although some also provide electricity and laundry facilities. While camping may not be the most comfortable way to spend the night, it’s usually the most economical. And you can’t beat the views!]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[If you stay at a B&B, ____ included.]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[breakfast is]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[laundry service is]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[all meals are]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 2">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[<b>On a Budget?
+Here are some alternatives to hotels.</b>
+
+<b>Have you thought about a hostel?</b>
+Hostels provide convenient, low-cost accommodations for travelers. Hostels are clean, safe, and inexpensive. They usually have great locations—right in the heart of the city, or just outside of town. Most hostels offer fully equipped self-serve kitchens, dining areas, and common rooms for relaxing and socializing with other travelers. Some hostels even have laundry facilities and libraries. 
+
+<b>A bed & breakfast might be for you.</b>
+A bed & breakfast, also called a “B&B,” can be a home away from home when you travel. Because this type of accommodation is almost always in a private house, it usually offers a very warm, welcoming atmosphere. A good host will leave you feeling part of the family! As a guest, you get a clean, cozy room, and, as the name suggests, breakfast is included. B&Bs can be a great deal!
+
+<b>How about camping under the stars?</b>
+At a campground, you spend the night outdoors, sleeping in a tent or cabin and cooking over a wood fire or camp stove. Many campgrounds are located in beautiful parks or other natural areas. Most campsites offer only basic services such as hot showers and flush toilets although some also provide electricity and laundry facilities. While camping may not be the most comfortable way to spend the night, it’s usually the most economical. And you can’t beat the views!]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[If you can’t stand sleeping outside, don’t stay at a ____.]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[campground]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[hostel]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[B&B]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 3">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[<b>On a Budget?
+Here are some alternatives to hotels.</b>
+
+<b>Have you thought about a hostel?</b>
+Hostels provide convenient, low-cost accommodations for travelers. Hostels are clean, safe, and inexpensive. They usually have great locations—right in the heart of the city, or just outside of town. Most hostels offer fully equipped self-serve kitchens, dining areas, and common rooms for relaxing and socializing with other travelers. Some hostels even have laundry facilities and libraries. 
+
+<b>A bed & breakfast might be for you.</b>
+A bed & breakfast, also called a “B&B,” can be a home away from home when you travel. Because this type of accommodation is almost always in a private house, it usually offers a very warm, welcoming atmosphere. A good host will leave you feeling part of the family! As a guest, you get a clean, cozy room, and, as the name suggests, breakfast is included. B&Bs can be a great deal!
+
+<b>How about camping under the stars?</b>
+At a campground, you spend the night outdoors, sleeping in a tent or cabin and cooking over a wood fire or camp stove. Many campgrounds are located in beautiful parks or other natural areas. Most campsites offer only basic services such as hot showers and flush toilets although some also provide electricity and laundry facilities. While camping may not be the most comfortable way to spend the night, it’s usually the most economical. And you can’t beat the views!]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[If you want a convenient location, you should probably stay at a ____.]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[hostel]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[B&B]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[campground]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 4">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[<b>On a Budget?
+Here are some alternatives to hotels.</b>
+
+<b>Have you thought about a hostel?</b>
+Hostels provide convenient, low-cost accommodations for travelers. Hostels are clean, safe, and inexpensive. They usually have great locations—right in the heart of the city, or just outside of town. Most hostels offer fully equipped self-serve kitchens, dining areas, and common rooms for relaxing and socializing with other travelers. Some hostels even have laundry facilities and libraries. 
+
+<b>A bed & breakfast might be for you.</b>
+A bed & breakfast, also called a “B&B,” can be a home away from home when you travel. Because this type of accommodation is almost always in a private house, it usually offers a very warm, welcoming atmosphere. A good host will leave you feeling part of the family! As a guest, you get a clean, cozy room, and, as the name suggests, breakfast is included. B&Bs can be a great deal!
+
+<b>How about camping under the stars?</b>
+At a campground, you spend the night outdoors, sleeping in a tent or cabin and cooking over a wood fire or camp stove. Many campgrounds are located in beautiful parks or other natural areas. Most campsites offer only basic services such as hot showers and flush toilets although some also provide electricity and laundry facilities. While camping may not be the most comfortable way to spend the night, it’s usually the most economical. And you can’t beat the views!]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[A B&B usually has a warm, welcoming atmosphere because it’s ____.]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[someone’s home]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[clean]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[in the heart of the city]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 5">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[<b>On a Budget?
+Here are some alternatives to hotels.</b>
+
+<b>Have you thought about a hostel?</b>
+Hostels provide convenient, low-cost accommodations for travelers. Hostels are clean, safe, and inexpensive. They usually have great locations—right in the heart of the city, or just outside of town. Most hostels offer fully equipped self-serve kitchens, dining areas, and common rooms for relaxing and socializing with other travelers. Some hostels even have laundry facilities and libraries. 
+
+<b>A bed & breakfast might be for you.</b>
+A bed & breakfast, also called a “B&B,” can be a home away from home when you travel. Because this type of accommodation is almost always in a private house, it usually offers a very warm, welcoming atmosphere. A good host will leave you feeling part of the family! As a guest, you get a clean, cozy room, and, as the name suggests, breakfast is included. B&Bs can be a great deal!
+
+<b>How about camping under the stars?</b>
+At a campground, you spend the night outdoors, sleeping in a tent or cabin and cooking over a wood fire or camp stove. Many campgrounds are located in beautiful parks or other natural areas. Most campsites offer only basic services such as hot showers and flush toilets although some also provide electricity and laundry facilities. While camping may not be the most comfortable way to spend the night, it’s usually the most economical. And you can’t beat the views!]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[One advantage of a hostel is that you can ____.]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[cook your own food]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[sleep outdoors]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[stay in a private house]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 6">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[<b>On a Budget?
+Here are some alternatives to hotels.</b>
+
+<b>Have you thought about a hostel?</b>
+Hostels provide convenient, low-cost accommodations for travelers. Hostels are clean, safe, and inexpensive. They usually have great locations—right in the heart of the city, or just outside of town. Most hostels offer fully equipped self-serve kitchens, dining areas, and common rooms for relaxing and socializing with other travelers. Some hostels even have laundry facilities and libraries. 
+
+<b>A bed & breakfast might be for you.</b>
+A bed & breakfast, also called a “B&B,” can be a home away from home when you travel. Because this type of accommodation is almost always in a private house, it usually offers a very warm, welcoming atmosphere. A good host will leave you feeling part of the family! As a guest, you get a clean, cozy room, and, as the name suggests, breakfast is included. B&Bs can be a great deal!
+
+<b>How about camping under the stars?</b>
+At a campground, you spend the night outdoors, sleeping in a tent or cabin and cooking over a wood fire or camp stove. Many campgrounds are located in beautiful parks or other natural areas. Most campsites offer only basic services such as hot showers and flush toilets although some also provide electricity and laundry facilities. While camping may not be the most comfortable way to spend the night, it’s usually the most economical. And you can’t beat the views!]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[One advantage of staying at a campground is that it ____.]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[is inexpensive]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[is safe]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[has good service]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 7">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 8">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 9">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+		<question oae-label="Question 10">
+			<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</graphic>
+			<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+				<![CDATA[]]>
+			</audio>
+			<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+				<![CDATA[]]>
+			</reader>
+			<text oae-label="Question Text" oae-type="textarea" oae-rows="3">
+				<![CDATA[]]>
+			</text>
+			<correct oae-label="Correct Answer" oae-type="textarea" oae-rows="2">
+				<![CDATA[]]>
+			</correct>
+			<distracters oae-label="Distracters">
+				<distracter oae-label="Incorrect Answer 1" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 2" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 3" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+				<distracter oae-label="Incorrect Answer 4" oae-type="textarea" oae-rows="2">
+					<![CDATA[]]>
+				</distracter>
+			</distracters>
+		</question>
+	</questions>
+</activity>

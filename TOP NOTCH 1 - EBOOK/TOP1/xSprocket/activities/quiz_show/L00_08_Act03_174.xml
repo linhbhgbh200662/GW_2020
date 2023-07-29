@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="quiz_show" version="1.0" client="" oae-label="ACTIVITY TYPE: QUIZ SHOW">
+	<title oae-label="Title:">
+		<![CDATA[Quiz Show]]>
+	</title>
+	<shortinst oae-label="Short Instructions:">
+		<![CDATA[Click on a box. Choose the correct answer. You have only three minutes.]]>
+	</shortinst>
+	<detailinst oae-label="Detailed Instructions:">
+		<![CDATA[Click on an amount in a category to answer a question about that topic. Click on the correct answer for each question. If your entry is correct, it will highlight in green and you will "win" the amount of money listed. If you are incorrect, you will "lose" the amount of money listed. You don't gain or lose any money for trying again. Next and Previous buttons navigate among the questions. Try to win as much money as you can!]]>
+	</detailinst>
+	<randomquestions oae-label="Randomize Questions:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomquestions>
+	<randomanswers oae-label="Randomize Answers:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomanswers>
+	<categories>
+		<category oae-lable="Category 1">
+			<![CDATA[Workplaces and homes]]>
+		</category>
+		<category oae-lable="Category 2">
+			<![CDATA[Prepositions of place]]>
+		</category>
+		<category oae-lable="Category 3">
+			<![CDATA[Rooms in a home]]>
+		</category>
+		<category oae-lable="Category 4">
+			<![CDATA[Furniture and appliances]]>
+		</category>
+	</categories>
+	<categoryquestions oae-label="Category 1 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[My office is on the eighth ____.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[elevator]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[doors]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[floor]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[balcony]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[The school doesn't have an ____.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[elevator]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[doors]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[floor]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[balcony]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[My apartment doesn't have a _____.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[elevator]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[doors]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[floor]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[balcony]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Our house has three _____.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[elevator]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[doors]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[floor]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[balcony]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 2 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Justin works ____ Hudson School.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[between]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[on]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[in]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[at]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Our offices are ____ the third floor.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[between]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[on]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[in]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[at]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[My apartment building is ____ a park and a hospital.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[between]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[on]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[in]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[at]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[We live _____ a big yellow house.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[between]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[on]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[in]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[at]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 3 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[The ____ is next to the dining room.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_7_16.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[living room]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[bathroom]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[kitchen]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[bedroom]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[We have a beautiful ____.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_7_17.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[living room]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[bathroom]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[kitchen]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[bedroom]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[The ____ is upstairs.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_7_18.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[living room]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[bathroom]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[kitchen]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[bedroom]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[There is a mirror in the ____.]]>
+			</questiontext>
+			<image>
+				<![CDATA[tnf_7_19.jpg]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[living room]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[bathroom]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[kitchen]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[bedroom]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 4 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[A ____ is in the bedroom.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[toilet]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[refrigerator]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[dresser]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[sofa]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[A ____ is in the bathroom.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[toilet]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[refrigerator]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[dresser]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[sofa]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[A ____ is in the kitchen.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[toilet]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[refrigerator]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[dresser]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[sofa]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[A ____ is in the living room.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[toilet]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[refrigerator]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[dresser]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[sofa]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+</activity>

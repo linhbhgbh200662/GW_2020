@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<page id="0048">
+<map name="Map" id="Map">
+<art type="icon">
+<coords><![CDATA[50,78]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[82]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 2 MP3 files/Unit_04/2-32_A_Listening_compreh_p48.mp3]]></href>
+</art>
+<art type="icon">
+<coords><![CDATA[432,106]]></coords>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[80]]></scale>
+<title><![CDATA[Play Song]]></title>
+<href><![CDATA[Top Notch 2 MP3 files/Unit_04/2-33_Song_Wheels_Around_p48.mp3]]></href>
+</art>
+<art type="icon">
+<coords><![CDATA[477,106]]></coords>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[80]]></scale>
+<title><![CDATA[Play Karaoke Version]]></title>
+<href><![CDATA[Top Notch 2 MP3 files/Unit_04/2-34_Karaoke_Wheels_Arou_p48.mp3]]></href>
+</art>
+<art type="icon">
+<coords><![CDATA[547,684]]></coords>
+<icon><![CDATA[writing_booster]]></icon>
+<pFunction><![CDATA[generic_gotopage]]></pFunction>
+<scale><![CDATA[80]]></scale>
+<title><![CDATA[Go to Writing Booster]]></title>
+<page><![CDATA[142]]></page>
+</art>
+</map>
+</page>

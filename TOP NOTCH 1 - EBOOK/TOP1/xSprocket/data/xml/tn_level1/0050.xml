@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page id="0050">
+<map name="Map" id="Map">
+<art type="icon" pfunction="audio_icon">
+<scale><![CDATA[80]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 5/3-02 A Vocabulary p50.mp3]]></href>
+<icon><![CDATA[audio_button]]></icon>
+<coords><![CDATA[52,609]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<scale><![CDATA[80]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 5/3-03 B Replacing product p50.mp3]]></href>
+<icon><![CDATA[audio_button]]></icon>
+<coords><![CDATA[323,663]]></coords>
+</art></map></page>

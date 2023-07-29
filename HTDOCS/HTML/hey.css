@@ -1,0 +1,528 @@
+h1 a{
+    color: #9933ff;
+}
+h1 a:hover{
+    font-family: GT_America_Regular_Italic;
+}
+.subbar{
+    display: block;
+}
+
+form{
+    float: center;
+}
+
+input[type=submit]:hover{
+    box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.2);
+    background-color: #9933ff;
+    color: white;
+}
+input[type=submit]{
+    padding: 7px;
+    border-radius: 24px;
+    background-color: white;
+    color: #9933ff;
+    font-size: 15px;
+    transition-duration: 0.3s;
+    border: 1px #9933ff;
+    width: fit-content;
+}
+
+
+input[type=password]{
+    padding: 7px;
+    margin-top: 10px;
+    border-radius: 24px;
+    background-color: white;
+    color: #9933ff;
+    font-size: 15px;
+    transition-duration: 0.3s;
+    border: 1px solid #9933ff;
+    width: 400px;
+}
+
+input[type=password]:focus{
+    outline: none;
+}
+input[type=text]:hover{
+    box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.2);
+}
+input[type=text]{
+    padding: 7px;
+    margin-top: 10px;
+    border-radius: 24px;
+    background-color: white;
+    border: 1px solid #9933ff;
+    color: #9933ff;
+    font-size: 15px;
+    transition-duration: 0.3s;
+    margin-bottom: 10px;
+    width: 400px;
+}
+input[type=text]:focus{
+    outline: none;
+}
+select{
+    padding: 7px;
+    margin-top: 10px;
+    border-radius: 24px;
+    background-color: white;
+    border: 1px solid #9933ff;
+    color: #9933ff;
+    font-size: 15px;
+    transition-duration: 0.3s;
+    margin-bottom: 10px;
+    width: 400px;
+}
+input[type=number]:hover{
+    box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.2);
+}
+input[type=number]{
+    padding: 7px;
+    margin-top: 10px;
+    border-radius: 24px;
+    background-color: white;
+    color: #9933ff;
+    font-size: 15px;
+    transition-duration: 0.3s;
+    border: 1px solid #9933ff;
+    width: 400px;
+
+}
+input[type=number]:focus{
+    outline: none;
+}
+input[type=date]{
+    padding: 7px;
+    margin-top: 10px;
+    border-radius: 24px;
+    background-color: white;
+    color: #9933ff;
+    font-size: 15px;
+    transition-duration: 0.3s;
+    border: 1px solid #9933ff;
+    width: 400px;
+
+}
+input[type=date]:hover{
+    box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.2);
+}
+input[type=password]:hover{
+    box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.2);
+}
+input[type=date]:focus{
+    outline: none;
+}
+select:hover{
+    box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.2);
+}
+select:focus{
+    outline: none;
+}
+
+
+
+
+@font-face {
+    font-family: GT_America_Regular;
+    src: url(../Resource/fonts/GT-America-Regular.ttf);
+}
+@font-face {
+    font-family: GT_America_Regular_Italic;
+    src: url(../Resource/fonts/GT-America-Regular-Italic.ttf);
+}
+@font-face {
+    font-family: Caslon_Italic;
+    src: url(../Resource/fonts/ACaslonPro-Italic.otf);
+}
+
+body{
+    background-color: #F0F0F0;
+}
+a{
+    list-style-type: none;
+    text-decoration: none;
+}
+.topnav{
+    margin-top: 15px;
+    margin-left: 2%;
+    margin-right: 2%;
+    overflow: hidden;
+}
+.topnav a{
+    float: left;
+    display: block;
+    color: #36454F;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: GT_America_Regular;
+}
+.dropdown{
+    float: left;
+    overflow: hidden;
+    transition-duration: 0.6s;
+    
+}
+.dropdown .dropbtn{
+    font-size: 16px;
+    font-family: GT_America_Regular;
+    background-color: inherit;
+    padding: 14px 16px;
+    border: none;
+    outline: none;
+    margin: 0;
+    transition-duration: 0.3s;
+}
+.drop-content{
+    display: none;
+    position: absolute;
+    background-color: white;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    border-radius: 10px;
+}
+.drop-content a{
+    float: none;
+    display: block;
+    color: #36454F;
+    text-align: left;
+    padding: 12px 16px;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: GT_America_Regular;
+    transition-duration: 0.3s;
+}
+.dropdown:hover .drop-content{
+    display: block;
+}
+table{
+    border: 2px solid;
+    padding: 10px;
+}
+
+.topnav a:hover, .dropdown:hover .dropbtn
+{
+border-bottom: black;
+border-width: 2px;
+color: #9933ff;
+font-family: GT_America_Regular_Italic;
+font-style: italic;
+}
+
+.drop-content a:hover{
+    background-color: #F0F0F0;
+    border-radius: 10px;
+}
+
+
+.table{
+    width: 93%;
+    background-color: white;
+    text-align: center;
+    border: none;
+    border-radius: 20px;
+    margin: 2% 3% 2% 3%;
+    transition-duration: 0.3s;
+}
+.table:hover{
+    box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.2);
+}
+.table th{
+    font-family: GT_America_Regular;
+    font-weight: lighter;
+    font-size: 17px;
+    padding: 5px;
+    color: #9933ff;
+    border-left: 1px solid #9933ff;
+    border-bottom: 1px solid #9933ff;
+}
+.table td{
+    font-family: GT_America_Regular;
+    padding: 5px;
+    border-left: 1px solid #9933ff;
+}
+ .table .content{
+    transition-duration: 0.3s;
+    border-radius: 20px;
+}
+.table .content:hover{
+    background-color: #DCDCDC;
+    color: #303030;
+    
+}
+.tracker{
+    flex-basis: 21%;
+    height: 200px;
+    background-color: white;
+    margin-right: 3%;
+    border-radius: 20px;
+    font-family: GT_America_Regular;
+}
+.tracker-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.num{
+    font-family: gt-america-mono;
+    font-weight: lighter;
+    font-size: 50px;
+    color: #9933ff;
+}
+td a{
+    padding: 12px;
+    border-radius: 24px;
+    background-color: white;
+    color: #9933ff;
+    border: 1px solid #9933ff;
+    font-size: 15px;
+    width: 200px;
+    transition-duration: 0.3s;
+}
+input[type=submit]{
+    padding: 12px;
+    border-radius: 24px;
+    background-color: white;
+    border: 1px solid #9933ff;
+    color: #9933ff;
+    font-size: 15px;
+    transition-duration: 0.3s;
+}
+input[type=submit]:hover{
+    box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.2);
+    background-color: #9933ff;
+    color: white;
+}
+td a:hover{
+    box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.2);
+    background-color: #9933ff;
+    color: white;
+    }
+
+    @font-face {
+        font-family: gt-america-mono;
+        src: url(../Resource/fonts/GT-America-Mono.otf);
+    }
+    @font-face {
+        font-family: GT_America_Regular;
+        src: url(../Resource/fonts/GT-America-Regular.ttf);
+    }
+    @font-face {
+        font-family: GT_America_Regular_Italic;
+        src: url(../Resource/fonts/GT-America-Regular-Italic.ttf);
+    }
+    @font-face {
+        font-family: Caslon_Italic;
+        src: url(../Resource/fonts/ACaslonPro-Italic.otf);
+    }
+    
+    .main{
+        position: relative;
+        display: inline-block;
+        width: 80%;
+        margin-left: 3%;
+        margin-right: 2%;
+    }
+    .right_menu{
+        position: absolute;
+        display: inline-block;
+        width: 12%;
+        margin-right: 2%;
+    }
+    
+    div{
+        text-align: center;
+    }
+    
+    h1{
+        text-align: left;
+        font-family: GT_America_Regular;
+        font-weight: lighter;
+        font-size: 22px;
+    }
+    
+    /* h2{
+        color: #9933ff;
+    } */
+    
+    .right_menu ul{
+        text-align: left;
+        margin: 0;
+        padding: 0;
+    
+    }
+    .right_menu li{
+        margin-bottom: 5px;
+    
+    }
+    .right_menu li a{
+        text-decoration: none;
+        color: black;
+        font-family: GT_America_Regular;
+        font-size: 16px;
+        color: gray;
+        transition-duration: 0.3s;
+    }
+    .right_menu li a:hover{
+        color: black;
+    }
+    .card{
+    margin-right: 2%;
+    margin-bottom: 3% ;
+    
+    flex-basis: 22%; /* 16% for 5 in a row; 25 for 3 */
+    display: flex;
+    }
+    td img{
+        max-width: 100%;
+        height: auto;
+    }
+    .grid-container{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    table{
+        border-radius: 20px;
+        border: 1px solid white;
+        transition-duration: 0.3s;
+        background-color: white;
+    }
+    table:hover{
+        box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    }
+    ul{
+        text-decoration: none;
+        list-style-type: none;
+    }
+    .price{
+        font-family: gt-america-mono;
+    }
+    .pname{
+        font-family: GT_America_Regular;
+    }
+    .pcat{
+        font-family: GT_America_Regular;
+        font-size: 20px;
+        font-weight: lighter;
+    }
+    h1 a{
+        color: black;
+    }
+    
+    
+    table{
+        width: 94%;
+        background-color: white;
+        text-align: right;
+        margin-right: 10%;
+    }
+    .table  th{
+        font-family: GT_America_Regular;
+        font-weight: lighter;
+        font-size: 17px;
+        padding: 10px;
+        color: #9933ff;
+        border-left: 1px solid #9933ff;
+        border-bottom: 1px solid #9933ff;
+    }
+    .table td{
+        font-family: GT_America_Regular;
+        padding: 10px;
+        border-left: 1px solid #9933ff;
+    }
+    .table .content{
+        transition-duration: 0.3s;
+        border-radius: 20px;
+    }
+    .table .content:hover{
+        background-color: #DCDCDC;
+        color: #303030;
+    
+    }
+    .tracker{
+        flex-basis: 21%;
+        height: 230px;
+        background-color: white;
+        margin-right: 3%;
+        border-radius: 20px;
+        font-family: GT_America_Regular;
+        transition-duration: 0.3s;
+    }
+    .tracker-container{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .num{
+        font-family: gt-america-mono;
+        font-weight: lighter;
+        font-size: 50px;
+        color: #9933ff;
+    }
+    
+    table:hover{
+        border: 1px solid #9933ff;
+    }
+
+    
+
+
+    @font-face {
+        font-family: GT_America_Regular;
+        src: url(../Resource/fonts/GT-America-Regular.ttf);
+    }
+    
+    /* footer */
+    
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    
+    
+    .footer{
+        width: 100%;
+    }
+    
+    h1{
+        text-align: left;
+        font-family: GT_America_Regular;
+        font-weight: lighter;
+        font-size: 22px;
+    }
+    
+    .col_all{
+        padding-top: 30px;
+        clear: both;
+        width: 100%;
+    }
+    
+    .col_all ul{
+        list-style: none;
+    }
+    
+    .col_all li a{
+        text-decoration: none;
+        font-family: GT_America_Regular;
+        font-size: 16px;
+        color: black;
+        transition-duration: 0.3s;
+    }
+    .col_all li a:hover{
+        color: #9933ff;
+    }
+    
+    .col_all .col_1_of_4 {
+        text-align: left;
+        float: left;
+        width: 24%;
+        padding-left: 1%;
+        padding-top: 15px;
+        height: 150px;
+    }
+    
+    .row:after {
+        content: "";
+        display: table;
+        clear: both;
+    }

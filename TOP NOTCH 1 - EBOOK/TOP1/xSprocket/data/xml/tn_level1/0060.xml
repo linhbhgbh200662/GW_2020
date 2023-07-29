@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<page id="0060">
+<map name="Map" id="Map">
+<art type="icon">
+<coords><![CDATA[54,77]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 5/3-21 A Listening compreh p60.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+<scale><![CDATA[80]]></scale>
+</art>
+<art type="icon">
+<coords><![CDATA[445,672]]></coords>
+<icon><![CDATA[writing_booster]]></icon><title><![CDATA[Go to Writing Booster]]></title>
+<pFunction><![CDATA[generic_gotopage]]></pFunction>
+<scale><![CDATA[80]]></scale>
+<page><![CDATA[144]]></page>
+</art>
+<art type="icon">
+<coords><![CDATA[379,112]]></coords>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 5/3-22 Song Its Not Workin p60.mp3]]></href>
+<title><![CDATA[Play Song]]></title>
+<scale><![CDATA[80]]></scale>
+</art>
+<art type="icon">
+<coords><![CDATA[423,112]]></coords>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<href><![CDATA[Top Notch 1 MP3 files/Unit 5/3-23 Karaoke Its Not Wor p60.mp3]]></href>
+<title><![CDATA[Play Karaoke Version]]></title>
+<scale><![CDATA[80]]></scale>
+</art>
+</map>
+</page>

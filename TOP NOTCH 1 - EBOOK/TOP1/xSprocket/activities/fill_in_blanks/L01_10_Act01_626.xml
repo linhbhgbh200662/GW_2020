@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="fill_in_blanks" version="1.1" client="McGraw-Hill" oae-label="ACTIVITY TYPE: FILL IN THE BLANKS">
+
+	<!-- This activity presents the students with a block of text with blank spaces into which they must type in "right answers". -->
+
+	<title oae-label="Title">
+		<![CDATA[Activity 1]]>
+	</title>
+	<instructions oae-label="Instructions" oae-type="textarea" oae-rows="3">
+		<![CDATA[Read the article. Complete the statements, according to the article. Then check your answers.]]>
+	</instructions>
+	<spacer oae-type="spacer">
+</spacer>
+
+	<!-- Use the following option to modify how the activity will be displayed. -->
+
+	<fontsize oae-label="Resize Font?" oae-type="select" value="0 (Normal)" opt1="-3" opt2="-2" opt3="-1" opt4="0 (Normal)" opt5="+1" opt6="+2" opt7="+3">
+</fontsize>
+	<spacer oae-type="spacer">
+</spacer>
+	<page oae-label="Page 1">
+
+		<!-- Write the paragraphs or sentences in the following space, using the <blank word="text"/> tag to indicate where the blank lines will go, the "word" attribute to indicate what word(s) will be dragged into that blank space. Optionally, use the "align" attribute to indicate the alignment of the word dropped into the blank space and the "alternate" attribute to display a different word on the blank line instead of the dragged text. See and test the example below. To show pop-ups use <pop hotwords="text">text that pops up here</pop>. -->
+
+		<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</graphic>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</audio>
+		<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+			<![CDATA[<b>When you’re in Toronto . . .</b>
+<b>Traveler’s checks</b>
+The easiest and safest way to carry money in Canada is in traveler’s checks. If you lose them—or if someone steals them—they can be replaced. 
+
+<b>Credit cards</b>
+You can use credit cards at most stores and restaurants. However, some smaller businesses don’t accept them. Make sure you always carry some cash. 
+
+<b>Changing money</b>
+Banks usually offer the best exchange rates. Remember to bring your passport for identification.
+
+<b>ATMs</b>
+Get cash 24 hours a day from ATMs (called bank machines in Canada) at banks, bus and train stations, and large supermarkets.
+
+<b>Tipping</b>
+Leave a tip of about 10 to 15% of a restaurant bill or taxi fare. Restaurant bills for larger groups may include a service charge. Also tip hairdressers and hotel staff. 
+
+<b>Bargaining</b>
+While shopping in Toronto, it’s generally not the custom to bargain for a lower price.]]>
+		</reader>
+		<text oae-label="Text" oae-type="textarea" oae-rows="15">
+			<![CDATA[You can usually find an ATM (or <blank word="bank" blanksize="Small"/> <blank word="machines"blanksize="Medium"/>) at a bus or train station or at some supermarkets.]]>
+		</text>
+	</page>
+	<page oae-label="Page 2">
+
+		<!-- Write the paragraphs or sentences in the following space, using the <blank word="text"/> tag to indicate where the blank lines will go, the "word" attribute to indicate what word(s) will be dragged into that blank space. Optionally, use the "align" attribute to indicate the alignment of the word dropped into the blank space and the "alternate" attribute to display a different word on the blank line instead of the dragged text. See and test the example below. To show pop-ups use <pop hotwords="text">text that pops up here</pop>. -->
+
+		<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</graphic>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</audio>
+		<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+			<![CDATA[<b>When you’re in Toronto . . .</b>
+<b>Traveler’s checks</b>
+The easiest and safest way to carry money in Canada is in traveler’s checks. If you lose them—or if someone steals them—they can be replaced. 
+
+<b>Credit cards</b>
+You can use credit cards at most stores and restaurants. However, some smaller businesses don’t accept them. Make sure you always carry some cash. 
+
+<b>Changing money</b>
+Banks usually offer the best exchange rates. Remember to bring your passport for identification.
+
+<b>ATMs</b>
+Get cash 24 hours a day from ATMs (called bank machines in Canada) at banks, bus and train stations, and large supermarkets.
+
+<b>Tipping</b>
+Leave a tip of about 10 to 15% of a restaurant bill or taxi fare. Restaurant bills for larger groups may include a service charge. Also tip hairdressers and hotel staff. 
+
+<b>Bargaining</b>
+While shopping in Toronto, it’s generally not the custom to bargain for a lower price.]]>
+		</reader>
+		<text oae-label="Text" oae-type="textarea" oae-rows="15">
+			<![CDATA[In addition to servers at restaurants, you should also tip taxi drivers, <blank word="hairdressers"/>, and <blank word="hotel" blanksize="Small"/> staff.]]>
+		</text>
+	</page>
+	<page oae-label="Page 3">
+
+		<!-- Write the paragraphs or sentences in the following space, using the <blank word="text"/> tag to indicate where the blank lines will go, the "word" attribute to indicate what word(s) will be dragged into that blank space. Optionally, use the "align" attribute to indicate the alignment of the word dropped into the blank space and the "alternate" attribute to display a different word on the blank line instead of the dragged text. See and test the example below. To show pop-ups use <pop hotwords="text">text that pops up here</pop>. -->
+
+		<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</graphic>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</audio>
+		<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+			<![CDATA[<b>When you’re in Toronto . . .</b>
+<b>Traveler’s checks</b>
+The easiest and safest way to carry money in Canada is in traveler’s checks. If you lose them—or if someone steals them—they can be replaced. 
+
+<b>Credit cards</b>
+You can use credit cards at most stores and restaurants. However, some smaller businesses don’t accept them. Make sure you always carry some cash. 
+
+<b>Changing money</b>
+Banks usually offer the best exchange rates. Remember to bring your passport for identification.
+
+<b>ATMs</b>
+Get cash 24 hours a day from ATMs (called bank machines in Canada) at banks, bus and train stations, and large supermarkets.
+
+<b>Tipping</b>
+Leave a tip of about 10 to 15% of a restaurant bill or taxi fare. Restaurant bills for larger groups may include a service charge. Also tip hairdressers and hotel staff. 
+
+<b>Bargaining</b>
+While shopping in Toronto, it’s generally not the custom to bargain for a lower price.]]>
+		</reader>
+		<text oae-label="Text" oae-type="textarea" oae-rows="15">
+			<![CDATA[People in Toronto generally don’t <blank word="bargain"/> for a <blank word="lower" blanksize="Small"/> price.]]>
+		</text>
+	</page>
+	<page oae-label="Page 4">
+
+		<!-- Write the paragraphs or sentences in the following space, using the <blank word="text"/> tag to indicate where the blank lines will go, the "word" attribute to indicate what word(s) will be dragged into that blank space. Optionally, use the "align" attribute to indicate the alignment of the word dropped into the blank space and the "alternate" attribute to display a different word on the blank line instead of the dragged text. See and test the example below. To show pop-ups use <pop hotwords="text">text that pops up here</pop>. -->
+
+		<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</graphic>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</audio>
+		<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+			<![CDATA[<b>When you’re in Toronto . . .</b>
+<b>Traveler’s checks</b>
+The easiest and safest way to carry money in Canada is in traveler’s checks. If you lose them—or if someone steals them—they can be replaced. 
+
+<b>Credit cards</b>
+You can use credit cards at most stores and restaurants. However, some smaller businesses don’t accept them. Make sure you always carry some cash. 
+
+<b>Changing money</b>
+Banks usually offer the best exchange rates. Remember to bring your passport for identification.
+
+<b>ATMs</b>
+Get cash 24 hours a day from ATMs (called bank machines in Canada) at banks, bus and train stations, and large supermarkets.
+
+<b>Tipping</b>
+Leave a tip of about 10 to 15% of a restaurant bill or taxi fare. Restaurant bills for larger groups may include a service charge. Also tip hairdressers and hotel staff. 
+
+<b>Bargaining</b>
+While shopping in Toronto, it’s generally not the custom to bargain for a lower price.]]>
+		</reader>
+		<text oae-label="Text" oae-type="textarea" oae-rows="15">
+			<![CDATA[Some small stores and restaurants don’t accept <blank word="credit" blanksize="Small"/> <blank word="cards" blanksize="Small"/>, so you should always carry some cash.]]>
+		</text>
+	</page>
+	<page oae-label="Page 5">
+
+		<!-- Write the paragraphs or sentences in the following space, using the <blank word="text"/> tag to indicate where the blank lines will go, the "word" attribute to indicate what word(s) will be dragged into that blank space. Optionally, use the "align" attribute to indicate the alignment of the word dropped into the blank space and the "alternate" attribute to display a different word on the blank line instead of the dragged text. See and test the example below. To show pop-ups use <pop hotwords="text">text that pops up here</pop>. -->
+
+		<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</graphic>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</audio>
+		<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+			<![CDATA[<b>When you’re in Toronto . . .</b>
+<b>Traveler’s checks</b>
+The easiest and safest way to carry money in Canada is in traveler’s checks. If you lose them—or if someone steals them—they can be replaced. 
+
+<b>Credit cards</b>
+You can use credit cards at most stores and restaurants. However, some smaller businesses don’t accept them. Make sure you always carry some cash. 
+
+<b>Changing money</b>
+Banks usually offer the best exchange rates. Remember to bring your passport for identification.
+
+<b>ATMs</b>
+Get cash 24 hours a day from ATMs (called bank machines in Canada) at banks, bus and train stations, and large supermarkets.
+
+<b>Tipping</b>
+Leave a tip of about 10 to 15% of a restaurant bill or taxi fare. Restaurant bills for larger groups may include a service charge. Also tip hairdressers and hotel staff. 
+
+<b>Bargaining</b>
+While shopping in Toronto, it’s generally not the custom to bargain for a lower price.]]>
+		</reader>
+		<text oae-label="Text" oae-type="textarea" oae-rows="15">
+			<![CDATA[If you want to change money, the best <blank word="exchange"/> <blank word="rates" blanksize="Small"/> are at a bank.]]>
+		</text>
+	</page>
+	<page oae-label="Page 6">
+
+		<!-- Write the paragraphs or sentences in the following space, using the <blank word="text"/> tag to indicate where the blank lines will go, the "word" attribute to indicate what word(s) will be dragged into that blank space. Optionally, use the "align" attribute to indicate the alignment of the word dropped into the blank space and the "alternate" attribute to display a different word on the blank line instead of the dragged text. See and test the example below. To show pop-ups use <pop hotwords="text">text that pops up here</pop>. -->
+
+		<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</graphic>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</audio>
+		<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+			<![CDATA[<b>When you’re in Toronto . . .</b>
+<b>Traveler’s checks</b>
+The easiest and safest way to carry money in Canada is in traveler’s checks. If you lose them—or if someone steals them—they can be replaced. 
+
+<b>Credit cards</b>
+You can use credit cards at most stores and restaurants. However, some smaller businesses don’t accept them. Make sure you always carry some cash. 
+
+<b>Changing money</b>
+Banks usually offer the best exchange rates. Remember to bring your passport for identification.
+
+<b>ATMs</b>
+Get cash 24 hours a day from ATMs (called bank machines in Canada) at banks, bus and train stations, and large supermarkets.
+
+<b>Tipping</b>
+Leave a tip of about 10 to 15% of a restaurant bill or taxi fare. Restaurant bills for larger groups may include a service charge. Also tip hairdressers and hotel staff. 
+
+<b>Bargaining</b>
+While shopping in Toronto, it’s generally not the custom to bargain for a lower price.]]>
+		</reader>
+		<text oae-label="Text" oae-type="textarea" oae-rows="15">
+			<![CDATA[The bank can give you new <blank word="traveler's" blanksize="Medium"/> <blank word="checks" blanksize="Small"/> if you lose them or someone steals them.]]>
+		</text>
+	</page>
+	<page oae-label="Page 7">
+
+		<!-- Write the paragraphs or sentences in the following space, using the <blank word="text"/> tag to indicate where the blank lines will go, the "word" attribute to indicate what word(s) will be dragged into that blank space. Optionally, use the "align" attribute to indicate the alignment of the word dropped into the blank space and the "alternate" attribute to display a different word on the blank line instead of the dragged text. See and test the example below. To show pop-ups use <pop hotwords="text">text that pops up here</pop>. -->
+
+		<graphic oae-label="graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</graphic>
+		<audio oae-label="audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+			<![CDATA[]]>
+		</audio>
+		<reader oae-label="Reading text (optional)." oae-type="textarea" oae-rows="10">
+			<![CDATA[]]>
+		</reader>
+		<text oae-label="Text" oae-type="textarea" oae-rows="15">
+			<![CDATA[]]>
+		</text>
+	</page>
+</activity>

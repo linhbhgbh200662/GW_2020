@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="quiz_show" version="1.0" client="" oae-label="ACTIVITY TYPE: QUIZ SHOW">
+	<title oae-label="Title:">
+		<![CDATA[Quiz Show]]>
+	</title>
+	<shortinst oae-label="Short Instructions:">
+		<![CDATA[Click on a box. Choose the correct answer. You have only three minutes.]]>
+	</shortinst>
+	<detailinst oae-label="Detailed Instructions:">
+		<![CDATA[Click on an amount in a category to answer a question about that topic. Click on the correct answer for each question. If your entry is correct, it will highlight in green and you will "win" the amount of money listed. If you are incorrect, you will "lose" the amount of money listed. You don't gain or lose any money for trying again. Next and Previous buttons navigate among the questions. Try to win as much money as you can!]]>
+	</detailinst>
+	<randomquestions oae-label="Randomize Questions:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomquestions>
+	<randomanswers oae-label="Randomize Answers:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomanswers>
+	<categories>
+		<category oae-lable="Category 1">
+			<![CDATA[Types of Fiction]]>
+		</category>
+		<category oae-lable="Category 2">
+			<![CDATA[Types of Non-fiction]]>
+		</category>
+		<category oae-lable="Category 3">
+			<![CDATA[Reading Materials]]>
+		</category>
+		<category oae-lable="Category 4">
+			<![CDATA[Reading Habits]]>
+		</category>
+	</categories>
+	<categoryquestions oae-label="Category 1 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[If I'm too busy to read a whole novel, sometimes I'll read _____.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[a short story]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[science fiction]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[a romance novel]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[a mystery]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[This book is _____; it’s about traveling back in time.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[a short story]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[science fiction]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[a romance novel]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[a mystery]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I'm reading _____ about a rich woman who’s in love with a poor farmer.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[a short story]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[science fiction]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[a romance novel]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[a mystery]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Whenever I read _____, I try to guess who committed the crime before the author reveals it.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[a short story]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[science fiction]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[a romance novel]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[a mystery]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 2 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I like to read _____ to learn about a place before I go there.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[travel books]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[autobiographies]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[self-help books]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[biographies]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[People write _____ to tell the story of their life in their own words.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[travel books]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[autobiographies]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[self-help books]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[biographies]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[_____ give tips on subjects such as losing weight, controlling emotions, and decorating.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[Travel books]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[Autobiographies]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[Self-help books]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[Biographies]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[_____ are books about a person’s life written by somebody else.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[Travel books]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[Autobiographies]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[Self-help books]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[Biographies]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 3 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Once a month I get _____ that has articles about fashion and entertainment.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[a magazine]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[a comic book]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[a newspaper]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[a memoir]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[_____ has only illustrations, not photographs.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[A magazine]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[A comic book]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[A newspaper]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[A memoir]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Read _____ to learn about events that are currently happening.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[a magazine]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[a comic book]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[a newspaper]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[a memoir]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[If you're interested in learning about another person's experiences, you should read ____.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[a magazine]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[a comic book]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[a newspaper]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[a memoir]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 4 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I like to _____ my nieces and nephews.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[read aloud to]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[listen to audio books]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[read e-books]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[skim through]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I often _____ while I drive to work.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[read aloud to]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[listen to audio books]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[read e-books]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[skim through]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I _____ when I'm on the train.  It's so much more convenient than carrying a paperback.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[read aloud to]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[listen to audio books]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[read e-books]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[skim through]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[When I don’t have time to read the whole newspaper, I just _____ it.]]>
+			</questiontext>
+			<answer oae-label="Answer 1">
+				<![CDATA[read aloud to]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[listen to audio books]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[read e-books]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[skim through]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+</activity>

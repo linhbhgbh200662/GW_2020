@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<page id="0052">
+<map name="Map" id="Map">
+<art type="icon">
+<coords><![CDATA[49.8999999999998,119]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[82]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 2 MP3 files/Unit_05/3-04_A_Vocabulary_p52.mp3]]></href>
+</art>
+<art type="icon">
+<coords><![CDATA[50.799999999999798,511.9]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[82]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 2 MP3 files/Unit_05/3-05_B_Listening_compreh_p52.mp3]]></href>
+</art>
+</map>
+</page>

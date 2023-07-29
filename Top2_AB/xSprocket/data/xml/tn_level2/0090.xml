@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<page id="0090">
+<map name="Map" id="Map">
+<art type="icon">
+<coords><![CDATA[50,105]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[82]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 2 MP3 files/Unit_08/4-21_A_Conversation_mode_p90.mp3]]></href>
+</art>
+<art type="icon">
+<coords><![CDATA[51,212]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[82]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 2 MP3 files/Unit_08/4-22_B_Rhythm_and_intona_p90.mp3]]></href>
+</art>
+<art type="icon">
+<coords><![CDATA[255,132]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[82]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 2 MP3 files/Unit_08/4-23_Positive_adjectives_p90.mp3]]></href>
+</art>
+<art type="icon">
+<coords><![CDATA[50,283]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[82]]></scale>
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 2 MP3 files/Unit_08/4-24_A_Vocabulary_p90.mp3]]></href>
+</art>
+<art type="icon">
+<coords><![CDATA[541,713]]></coords>
+<icon><![CDATA[grammar_booster]]></icon>
+<pFunction><![CDATA[generic_gotopage]]></pFunction>
+<scale><![CDATA[80]]></scale>
+<title><![CDATA[Go to Grammar Booster]]></title>
+<page><![CDATA[135]]></page>
+</art>
+</map>
+</page>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="record_compare" version="1.0" client="Longman" oae-label="ACTIVITY TYPE: Role Play">
+	<title oae-label="Activity Title" oae-type="textarea" oae-rows="1">
+<![CDATA[]]> 
+	</title>
+	<instructions oae-label="Instructions" oae-type="textarea" oae-rows="3">
+<![CDATA[]]> 
+	</instructions>
+	<graphic oae-label="Graphic file name (optional). Please include the file extension (.jpg or .png)" oae-type="textarea" oae-rows="1">
+<![CDATA[tn2_u1_sp_a.jpg]]> 
+	</graphic>
+	<characters>
+		<character oae-label="Character one" oae-type="textarea" oae-rows="1">
+<![CDATA[A]]> 
+		</character>
+		<character oae-label="Character two" oae-type="textarea" oae-rows="1">
+<![CDATA[B]]> 
+		</character>
+		<character oae-label="Character three" oae-type="textarea" oae-rows="1">
+<![CDATA[C]]> 
+		</character>
+		<character oae-label="Character four" oae-type="textarea" oae-rows="1">
+<![CDATA[]]> 
+		</character>
+	</characters>
+	<dialogues>
+		<dialogue oae-label="Dialogue 1">
+			<character oae-label="Character who speaks this line" oae-type="select" value="1" opt1="1" opt2="4">
+<![CDATA[1]]> 
+			</character>
+			<text oae-label="Text" oae-type="textarea" oae-rows="3">
+<![CDATA[Audrey, have you met Hanah?]]> 
+			</text>
+			<audio oae-label="Audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+<![CDATA[tn2_1_a_1.mp3]]> 
+			</audio>
+		</dialogue>
+		<dialogue oae-label="Dialogue 2">
+			<character oae-label="Character who speaks this line" oae-type="select" value="1" opt1="1" opt2="4">
+<![CDATA[2]]> 
+			</character>
+			<text oae-label="Text" oae-type="textarea" oae-rows="3">
+<![CDATA[No, I haven't.]]> 
+			</text>
+			<audio oae-label="Audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+<![CDATA[tn2_1_a_2.mp3]]> 
+			</audio>
+		</dialogue>
+		<dialogue oae-label="Dialogue 3">
+			<character oae-label="Character who speaks this line" oae-type="select" value="1" opt1="1" opt2="4">
+<![CDATA[1]]> 
+			</character>
+			<text oae-label="Text" oae-type="textarea" oae-rows="3">
+<![CDATA[Hanah, I'd like you to meet Audrey.]]> 
+			</text>
+			<audio oae-label="Audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+<![CDATA[tn2_1_a_3.mp3]]> 
+			</audio>
+		</dialogue>
+		<dialogue oae-label="Dialogue 4">
+			<character oae-label="Character who speaks this line" oae-type="select" value="1" opt1="1" opt2="4">
+<![CDATA[3]]> 
+			</character>
+			<text oae-label="Text" oae-type="textarea" oae-rows="3">
+<![CDATA[Hi, Audrey. You look familiar. Have we met before?]]> 
+			</text>
+			<audio oae-label="Audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+<![CDATA[tn2_1_a_4.mp3]]> 
+			</audio>
+		</dialogue>
+		<dialogue oae-label="Dialogue 5">
+			<character oae-label="Character who speaks this line" oae-type="select" value="1" opt1="1" opt2="4">
+<![CDATA[2]]> 
+			</character>
+			<text oae-label="Text" oae-type="textarea" oae-rows="3">
+<![CDATA[I don’t think so.]]> 
+			</text>
+			<audio oae-label="Audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+<![CDATA[tn2_1_a_5.mp3]]> 
+			</audio>
+		</dialogue>
+		<dialogue oae-label="Dialogue 6">
+			<character oae-label="Character who speaks this line" oae-type="select" value="1" opt1="1" opt2="4">
+<![CDATA[3]]> 
+			</character>
+			<text oae-label="Text" oae-type="textarea" oae-rows="3">
+<![CDATA[I know! Last month. You were at my sister Nicole’s party.]]> 
+			</text>
+			<audio oae-label="Audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+<![CDATA[tn2_1_a_6.mp3]]> 
+			</audio>
+		</dialogue>
+		<dialogue oae-label="Dialogue 7">
+			<character oae-label="Character who speaks this line" oae-type="select" value="1" opt1="1" opt2="4">
+<![CDATA[2]]> 
+			</character>
+			<text oae-label="Text" oae-type="textarea" oae-rows="3">
+<![CDATA[Oh, that's right! How have you been?]]> 
+			</text>
+			<audio oae-label="Audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+<![CDATA[tn2_1_a_7.mp3]]> 
+			</audio>
+		</dialogue>
+		<dialogue oae-label="Dialogue 8">
+			<character oae-label="Character who speaks this line" oae-type="select" value="1" opt1="1" opt2="4">
+<![CDATA[]]> 
+			</character>
+			<text oae-label="Text" oae-type="textarea" oae-rows="3">
+<![CDATA[]]> 
+			</text>
+			<audio oae-label="Audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+<![CDATA[]]> 
+			</audio>
+		</dialogue>
+		<dialogue oae-label="Dialogue 9">
+			<character oae-label="Character who speaks this line" oae-type="select" value="1" opt1="1" opt2="4">
+<![CDATA[]]> 
+			</character>
+			<text oae-label="Text" oae-type="textarea" oae-rows="3">
+<![CDATA[]]> 
+			</text>
+			<audio oae-label="Audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+<![CDATA[]]> 
+			</audio>
+		</dialogue>
+		<dialogue oae-label="Dialogue 10">
+			<character oae-label="Character who speaks this line" oae-type="select" value="1" opt1="1" opt2="4">
+<![CDATA[]]> 
+			</character>
+			<text oae-label="Text" oae-type="textarea" oae-rows="3">
+<![CDATA[]]> 
+			</text>
+			<audio oae-label="Audio file name (optional). Please include the file extension (.mp3)" oae-type="textarea" oae-rows="1">
+<![CDATA[]]> 
+			</audio>
+		</dialogue>
+	</dialogues>
+</activity>

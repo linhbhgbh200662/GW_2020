@@ -1,0 +1,62 @@
+<activity acttype="dragdrop_multiple" >
+	<title oae-label="Title">
+		<![CDATA[Drag and Drop Multi]]>
+	</title>
+	<instructions oae-label="Instructions" oae-type="textarea" oae-rows="3">
+		<![CDATA[Drag the correct word to complete the sentence.]]>
+	</instructions>
+	<spacer oae-type="spacer"></spacer>
+	
+	<!-- Enter the text using <blank word="the word"/> syntax for the blank words/phrases. Enter optional distracters. -->
+	<!-- There can be up to 3 blanks/distracters, e.g. one blank, one distracter, two blanks and one distracter, one blank two distracters, three blanks and no distracters, etc. -->
+	<question>
+		<text><![CDATA[]]></text>
+		<distracter1><![CDATA[]]></distracter1>
+		<distracter2><![CDATA[]]></distracter2>
+	</question>
+	<question>
+		<text><![CDATA[]]></text>
+		<distracter1><![CDATA[]]></distracter1>
+		<distracter2><![CDATA[]]></distracter2>
+	</question>
+	<question>
+		<text><![CDATA[]]></text>
+		<distracter1><![CDATA[]]></distracter1>
+		<distracter2><![CDATA[]]></distracter2>
+	</question>
+	<question>
+		<text><![CDATA[]]></text>
+		<distracter1><![CDATA[]]></distracter1>
+		<distracter2><![CDATA[]]></distracter2>
+	</question>
+	<question>
+		<text><![CDATA[]]></text>
+		<distracter1><![CDATA[]]></distracter1>
+		<distracter2><![CDATA[]]></distracter2>
+	</question>
+	<question>
+		<text><![CDATA[]]></text>
+		<distracter1><![CDATA[]]></distracter1>
+		<distracter2><![CDATA[]]></distracter2>
+	</question>
+	<question>
+		<text><![CDATA[]]></text>
+		<distracter1><![CDATA[]]></distracter1>
+		<distracter2><![CDATA[]]></distracter2>
+	</question>
+	<question>
+		<text><![CDATA[]]></text>
+		<distracter1><![CDATA[]]></distracter1>
+		<distracter2><![CDATA[]]></distracter2>
+	</question>
+	<question>
+		<text><![CDATA[]]></text>
+		<distracter1><![CDATA[]]></distracter1>
+		<distracter2><![CDATA[]]></distracter2>
+	</question>
+	<question>
+		<text><![CDATA[]]></text>
+		<distracter1><![CDATA[]]></distracter1>
+		<distracter2><![CDATA[]]></distracter2>
+	</question>
+</activity>

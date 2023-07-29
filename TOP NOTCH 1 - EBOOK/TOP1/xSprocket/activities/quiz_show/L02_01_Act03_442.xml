@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity acttype="quiz_show" version="1.0" client="" oae-label="ACTIVITY TYPE: QUIZ SHOW">
+	<title oae-label="Title:">
+		<![CDATA[Quiz Show]]>
+	</title>
+	<shortinst oae-label="Short Instructions:">
+		<![CDATA[Click on a box. Choose the correct answer. You have only three minutes.]]>
+	</shortinst>
+	<detailinst oae-label="Detailed Instructions:">
+		<![CDATA[Click on an amount in a category to answer a question about that topic. Click on the correct answer for each question. If your entry is correct, it will highlight in green and you will "win" the amount of money listed. If you are incorrect, you will "lose" the amount of money listed. You don't gain or lose any money for trying again. Next and Previous buttons navigate among the questions. Try to win as much money as you can!]]>
+	</detailinst>
+	<randomquestions oae-label="Randomize Questions:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomquestions>
+	<randomanswers oae-label="Randomize Answers:" oae-type="select" value="yes" opt1="yes" opt2="no">
+</randomanswers>
+	<categories>
+		<category oae-lable="Category 1">
+			<![CDATA[Small talk topics]]>
+		</category>
+		<category oae-lable="Category 2">
+			<![CDATA[Participial adjectives]]>
+		</category>
+		<category oae-lable="Category 3">
+			<![CDATA[Tourist activities]]>
+		</category>
+		<category oae-lable="Category 4">
+			<![CDATA[Have you ever…?]]>
+		</category>
+	</categories>
+	<categoryquestions oae-label="Category 1 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[When you ask how much money someone makes, you are talking about _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[family]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[weather]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[salary]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[age]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[When you ask how old someone is, you are talking about _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[family]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[weather]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[salary]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[age]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[When you ask about someone's children, you are talking about _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[family]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[weather]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[salary]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[age]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[When you talk to someone about rain or snow, you are talking about the _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[family]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[weather]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[salary]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[age]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 2 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Our trip to the Great Wall was _____.  We had a great time.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[frightened]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[disgusting]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[thrilled]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[fascinating]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I really enjoyed skiing, but Melissa was a little bit _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[frightened]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[disgusting]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[thrilled]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[fascinating]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[We were _____ by the performance.  You should go see it!]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[frightened]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[disgusting]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[thrilled]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[fascinating]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I didn't like the ceviche.  I thought it was _____.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[frightened]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[disgusting]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[thrilled]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[fascinating]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 3 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[We _____ the Harbour Centre Tower when we visited Vancouver.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[take pictures of]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[went to the top of]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[taken a tour of]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[try]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Did you _____ the beautiful temples when you were in Kyoto?]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[take pictures of]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[went to the top of]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[taken a tour of]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[try]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Have you _____ the Parthenon yet?]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[take pictures of]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[went to the top of]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[taken a tour of]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[try]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[I’d like to _____ dim sum when I go to Hong Kong.]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[take pictures of]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[went to the top of]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[taken a tour of]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[try]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+	<categoryquestions oae-label="Category 4 Questions:">
+		<question oae-label="Question 1">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Have you ever _____ Mount Washington?]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[eaten]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[climbed]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[been]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[met]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[2]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 2">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Have you ever _____ a famous person?]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[gone]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[climbed]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[taken]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[met]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[4]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 3">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Have you ever _____ feijoada?]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[eaten]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[climbed]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[been]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[met]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[1]]>
+			</correctanswer>
+		</question>
+		<question oae-label="Question 4">
+			<questiontext oae-label="Question Text" oae-type="textarea" oae-rows="10">
+				<![CDATA[Have you ever _____ to Moscow?]]>
+			</questiontext>
+			<image oae-label="Image filename (Optional)">
+				<![CDATA[]]>
+			</image>
+			<answer oae-label="Answer 1">
+				<![CDATA[eaten]]>
+			</answer>
+			<answer oae-label="Answer 2">
+				<![CDATA[climbed]]>
+			</answer>
+			<answer oae-label="Answer 3">
+				<![CDATA[been]]>
+			</answer>
+			<answer oae-label="Answer 4">
+				<![CDATA[met]]>
+			</answer>
+			<answer oae-label="Answer 5">
+				<![CDATA[]]>
+			</answer>
+			<answer oae-label="Answer 6">
+				<![CDATA[]]>
+			</answer>
+			<correctanswer oae-label="Correct Answer Number">
+				<![CDATA[3]]>
+			</correctanswer>
+		</question>
+	</categoryquestions>
+</activity>
